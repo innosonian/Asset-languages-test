@@ -1,0 +1,226 @@
+{
+    "CarrouselPages": {
+        "YouCanConnectTo": "Możesz się połączyć",
+        "TouchIconToConnect": "Kliknij ikonę, aby połączyć",
+        "ChooseWhatYouWantToTrain": "Wybierz, co chcesz trenować!",
+        "ContinueButton": "Kontynuuj"
+    },
+    "StartPage": {
+        "Start": "Start",
+        "PlanMemberLogin": "Jeśli jesteś członkiem Planu, kliknij tutaj."
+    },
+    "AdminLoginPage": {
+        "ClientID": "Identyfikator klienta",
+        "Code": "##########",
+        "SignIn": "Zaloguj się",
+        "Kod": "Kod"
+    },
+    "UserLoginPage": {
+        "Email": "##########",
+        "Password": "##########",
+        "SignIn": "Zaloguj się",
+        "TrialSignIn": "Użyj wersji próbnej bez logowania",
+        "E-mail": "E-mail",
+        "Hasło": "Hasło"
+    },
+    "DownloadContent": {
+        "Downloading": "Pobierz pliki wideo\npotrwa to kilka minut"
+    },
+    "MenuHome": {
+        "Title": "Strona główna",
+        "Subtitle": "##########",
+        "BodyMessage": "Dotknij ikony dorosłego lub dziecka, aby połączyć manekina",
+        "ExitButton": "##########",
+        "LogOut": "##########",
+        "LogOut ": "Czy na pewno\nchcesz się wylogować?"
+    },
+    "MenuManikinConnectionsPopUp": {
+        "Title": "Podłączanie manekina"
+    },
+    "FirmwareUpdate": {
+        "Title": "Aktualizacja oprogramowania",
+        "NoteEndTop": "Aktualizacja zakończona.",
+        "NoteEndBottom": "Proszę ponownie uruchomić manekina"
+    },
+    "TrainningHistoryPage": {
+        "Title": "Historia treningu",
+        "SyncButton": "Synchronizuj wszystkie",
+        "IDTitle": "Identyfikator",
+        "DateTimeTitle": "Data / Czas",
+        "OperationTitle": "Działanie",
+        "ScoreTitle": "Wynik",
+        "OptionsTitle": "Opcje"
+    },
+    "RealTimeTrainingPage": {
+        "NoOfCompressions": "Brak ucisków",
+        "Cycle": "Cykl",
+        "CPREventPeriod": "Zdarzenia w trakcie RKO",
+        "VentilationVolume": "Objętość wentylacji",
+        "CompPerTime": "Głębokość uciśnięć * Częstotliwość uciśnięć / w czasie",
+        "CompOverall": " Głębokość uciśnięć * Częstotliwość uciśnięć / ogólnie",
+        "FingerPosition": "Ułożenie palca",
+        "HandPosition": "Ułożenie dłoni",
+        "StartButton": "Rozpocznij trening",
+        "StopButton": "Zatrzymaj trening",
+        "StopPopUpText": "Czy chcesz przerwać tę sesję treningową?",
+        "ResultCalculatingPopOver": "Obliczanie wyników",
+        "Slow": "Wolniej",
+        "Deep": "##########",
+        "Fast": "##########",
+        "Shallow": "Lżej",
+        "Głębokie": "Mocniej",
+        "Szybki": "Szybciej"
+    },
+    "OverallResultPage": {
+        "Title": "Ogólnie\nWydajność",
+        "Score": "Wynik",
+        "FingerPosition": "Ułożenie\npalców",
+        "HandPosition": "Ułożenie\ndłoni",
+        "ScoreOfCCF": "Wynik\nCCF",
+        "CompressionRate": "Częstotliwość\nuciśnięć",
+        "CompressionRelease": "Relaksacja",
+        "CompressionDepth": "Głębokość\nucisku",
+        "NoOfCompressions": "Brak\nucisków",
+        "VentilationVolume": "Objętość\nwentylacji",
+        "VentilationFrequency": "Częstotliwość\nwentylacji",
+        "AvgDepth": "##########",
+        "AvgVolume": "##########",
+        "RescueNo": "Liczba oddechów ratowniczych",
+        "RescueVolume": "Objętość oddechów ratowniczych",
+        "Pass": "##########",
+        "Fail": "##########"
+    },
+    "DetailedResultPage": {
+        "Title": "Szczegółowe wyniki",
+        "SummaryTabTitle": "Podsumowanie",
+        "ByCPRTabTitle": "Według pomiaru RKO",
+        "ByCycleTabTitle": "Według cyklu",
+        "OverallPerformance": "Ogólna wydajność",
+        "Duration": "Czas trwania",
+        "Cycle": "Cykl",
+        "CCF": "CCF",
+        "OverallScore": "Ogólny wynik",
+        "Compressions": "Uciśnięcia",
+        "AvgDepth": "Średnia głębokość",
+        "AvgRate": "Średnia częstotliwość",
+        "Count": "Kalkulacja",
+        "AvgTimeOff": "Średnia przerwa",
+        "FingerPositionAccuracy": "Dokładność ułożenia palców",
+        "HandPositionAccuracy": "Dokładność ułożenia dłoni",
+        "RescueVentilations": "Oddechy ratownicze",
+        "Ventilations": "Wentylacja",
+        "AvgVolume": "Średnia objętość",
+        "Period": "Czas",
+        "Total": "Razem",
+        "AvgSpeed": "średnia prędkość",
+        "TempGraphText": "Więcej informacji (jakość RKO) dostępnych jest za pośrednictwem 'Brayden Online Expert'",
+        "FingerPosition": "6\nUłożenie palców",
+        "HandPosition": "6\nUłożenie dłoni",
+        "ScoreOfCCF": "4\nWynik\nCCF",
+        "CompressionRate": "3\nczęstotliwość\nuciśnięć",
+        "CompressionRelease": "2\nrelaksacja",
+        "CompressionDepth": "1\ngłębokość\nuciśnięć",
+        "NoOfCompressions": "5\nbrak\nuciśnięć",
+        "VentilationVolume": "7\nwentylacja\nobjętość",
+        "VentilationRate": "8\nWentylacja\nczęstotliwość",
+        "RescueNo": "Liczba oddechów ratowniczych",
+        "RescueVolume": "Objętość oddechów ratowniczych",
+        "Good": "Dobrze",
+        "TooShallow": "Zbyt płytko",
+        "TooDeep": "Zbyt głęboko",
+        "TooFast": "Za szybko",
+        "TooSlow": "Zbyt wolno",
+        "TooFew": "Za mało",
+        "TooMany": "##########",
+        "TooLittle": "Za mało",
+        "TooMuch": "Za dużo",
+        "Incorrect": "Niepoprawnie",
+        "IncompleteRelease": "Niepełna relaksacja",
+        "Toomany": "Za dużo"
+    },
+    "SettingPage": {
+        "Title": "Ustawienia",
+        "Manufacture": "Produkcja",
+        "Language": "Język",
+        "LanguageValue": "angielski",
+        "AppVersion": "Wersja aplikacji",
+        "ApplyButton": "Zastosuj nowe menu",
+        "SwitchButton": "Przełącz użytkownika",
+        "HowToSeeRecords": "Jak zobaczyć rekordy",
+        "AllLocalRecords": "Wszystkie lokalne rekordy",
+        "Deactivated": "##########",
+        "UserConnectSwitchButton": "Użytkownicy mogą łączyć lub rozłączać manekiny",
+        " Deactivated": "Dezaktywowany"
+    },
+    "VideoPage": {
+        "SkipButton": "##########"
+    },
+    "InformationPage": {
+        "Title": "##########"
+    },
+    "CheckDeviceStatus": {
+        "WifiConnRequired": "Jesteś w trybie offline. Sprawdź swoje połączenie internetowe.",
+        "BLEConnRequired": "Brak połączenia bluetooth. Sprawdź ustawienia  bluetooth."
+    },
+    "PopupPrompt": {
+        "PopupTermOK": "OK",
+        "PopupTermConfim": "Potwierdź",
+        "PopupTermCancel": "Odrzuć",
+        "PopupTermConnect": "Połącz",
+        "PopupTermSwitch": "Przełącz",
+        "PopupTermEnd": "Koniec",
+        "PopupTermReconnect": "połącz ponownie",
+        "SignInErrorTitle": "Błąd logowania",
+        "SignInConnErrorContent": "Nie masz połączenia z Internetem.\n sprawdzić połączenie sieciowe i spróbuj ponownie.",
+        "SignInAuthErrorContent": "Sprawdź swoją nazwę użytkownika / hasło i spróbuj ponownie.",
+        "BLEConnRequiredTitle": "Wymagane połączenie manekina",
+        "BLEConnRequiredAdultTitle": "Wymagane połączenie manekina osoby dorosłej",
+        "BLEConnRequiredChildTitle": "Wymagane połączenie manekina dziecka",
+        "BLEConnRequiredInfantTitle": "Wymagane połączenie manekina niemowlęcia",
+        "BLEConnRequiredAdultContent": "Proszę podłączyć manekina osoby dorosłej do kontroli wybranych umiejętności.",
+        "BLEConnRequiredChildContent": "Proszę podłączyć manekina dziecka do kontroli wybranych umiejętności.",
+        "BLEConnRequiredInfantContent": "Proszę podłączyć manekina niemowlęcia do kontroli wybranych umiejętności.",
+        "ConnectatbleManikinList": "Możliwość podłączenia manekina",
+        "AppUpdateNeededTitle": "Wymagana aktualizacja aplikacji",
+        "AppUpdateNeededContent": "##########",
+        "BLEDisconnectedTitle": "Manekin rozłączony",
+        "BLEDisconnectedContent": "Sprawdź baterie oraz połączenie bluetooth i spróbuj ponownie.",
+        "EndSkillsCheckBProTitle": "Brayden Pro",
+        "EndSkillsCheckAdultTitle": "Brayden Pro dorosły",
+        "EndSkillsCheckChildTitle": "Brayden Pro dziecko",
+        "EndSkillsCheckInfantTitle": "Brayden niemowlę",
+        "EndSkillsCheckTitle": "Czy na pewno chcesz zakończyć tę kontrolę umiejętności?",
+        "NetErrUploadFailTitle": "Błąd przesyłania danych",
+        "NetErrUploadFailContent": "Bląd ładowania zawartości. Proszę sprawdzić połączenie sieciowe.",
+        "NetErrCommonTitle": "Błąd",
+        "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe",
+        "AppUpdateNeedContent": "Zaktualizuj 'Umiejętności resuscytacji' dla jeszcze dokładniejszych wyników."
+    },
+    "Report": {
+        "OverallResult": "##########"
+    },
+    "ExceptionCompletionAPI": {
+        "AuthenticationFailed": "##########",
+        "IncorrectCompletionDetails": "##########",
+        "GivenOrganizationIdWasIncorrect.": "##########",
+        "hStreamIdWasNotFoundIncorrect": "##########",
+        "hStreamIdIsNotMappedWithAnyUser.": "##########"
+    },
+    "ExceptionOpenSkillsAPI": {
+        "AuthenticationFailed": "##########",
+        "TheEPortfolioAccountNotFoundIncorrect": "##########",
+        "TheManikinDeviceIdNotFoundIncorrect": "##########",
+        "NoUserDetailsFoundInUserProfile.": "##########",
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "##########"
+    },
+    "ExceptionFileDocumentAPI": {
+        "AuthenticationFailed.": "##########",
+        "GivenFilestoreIdIsIncorrect": "##########",
+        "GivenInstitutionIdIsIncorrect": "##########",
+        "GivenOrganizationIdIsIncorrect": "##########",
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "##########",
+        "TheEPortfolioAccountNotFoundIncorrect": "##########",
+        "UnableToGetTheFileStoreDetails": "##########",
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "##########"
+    }
+}

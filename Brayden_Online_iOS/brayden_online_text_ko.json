@@ -1,0 +1,219 @@
+{
+    "CarrouselPages": {
+        "YouCanConnectTo": "마네킹에 연결 가능합니다",
+        "TouchIconToConnect": "아이콘을 터치하여 연결하십시오",
+        "ChooseWhatYouWantToTrain": "원하는 훈련을 선택하십시오",
+        "ContinueButton": "계속"
+    },
+    "StartPage": {
+        "Start": "시작",
+        "PlanMemberLogin": "브레이든 온라인 회원은 여기를 터치하십시오"
+    },
+    "AdminLoginPage": {
+        "ClientID": "고객 ID",
+        "Code": "코드번호",
+        "SignIn": "로그인"
+    },
+    "UserLoginPage": {
+        "Email": "이메일",
+        "Password": "비밀번호",
+        "SignIn": "로그인",
+        "TrialSignIn": "로그인 없이 훈련하기"
+    },
+    "DownloadContent": {
+        "Downloading": "비디오 파일을 다운로드 합니다\n이 작업은 몇 분이 소요됩니다"
+    },
+    "MenuHome": {
+        "Title": "홈",
+        "Subtitle": "실시간 피드백과 함께 심폐소생술 또는 가슴압박, 인공호흡을 훈련하십시오.\n준비가 되면 심폐소생술 평가를 하십시오.",
+        "BodyMessage": "성인 또는 아기 아이콘을 터치해 마네킹을 연결하십시오",
+        "ExitButton": "나가기",
+        "LogOut": "정말로 로그아웃 하시겠습니까?"
+    },
+    "MenuManikinConnectionsPopUp": {
+        "Title": "마네킹 연결"
+    },
+    "FirmwareUpdate": {
+        "Title": "펌웨어 업데이트",
+        "NoteEndTop": "업데이트 완료",
+        "NoteEndBottom": "마네킹을 다시 시작하십시오"
+    },
+    "TrainningHistoryPage": {
+        "Title": "훈련 기록",
+        "SyncButton": "데이터 동기화",
+        "IDTitle": "아이디",
+        "DateTimeTitle": "날짜/시간",
+        "OperationTitle": "훈련",
+        "ScoreTitle": "점수",
+        "OptionsTitle": "동기화/삭제"
+    },
+    "RealTimeTrainingPage": {
+        "NoOfCompressions": "압박 횟수",
+        "Cycle": "사이클",
+        "CPREventPeriod": "CPR 시간",
+        "VentilationVolume": "호흡량",
+        "CompPerTime": "압박 깊이 * 압박 속도 / 시간",
+        "CompOverall": "압박 깊이 * 압박속도 / 전체",
+        "FingerPosition": "압박 위치",
+        "HandPosition": "압박 위치",
+        "StartButton": "훈련 시작",
+        "StartAssesement" : "시작",
+        "StopButton": "훈련 중지",
+        "StopPopUpText": "이 훈련을 중단합니까?",
+        "ResultCalculatingPopOver": "결과 계산",
+        "Slow": "느림",
+        "Deep": "깊음",
+        "Fast": "빠름",
+        "Shallow": "얕음"
+    },
+    "OverallResultPage": {
+        "Title": "전체 결과",
+        "Score": "점수",
+        "FingerPosition": "압박 위치",
+        "HandPosition": "압박 위치",
+        "ScoreOfCCF": "가슴압박비중\n점수",
+        "CompressionRate": "압박 속도",
+        "CompressionRelease": "압박 이완",
+        "CompressionDepth": "압박 깊이",
+        "NoOfCompressions": "압박 횟수",
+        "VentilationVolume": "호흡량",
+        "VentilationFrequency": "호흡 빈도",
+        "AvgDepth": "평균 깊이",
+        "AvgVolume": "평균 호흡량",
+        "RescueNo": "구조 호흡 횟수",
+        "RescueVolume": "구조 호흡 호흡량",
+        "Pass": "합격",
+        "Fail": "재시도"
+    },
+    "DetailedResultPage": {
+        "Title": "상세 결과",
+        "SummaryTabTitle": "요약",
+        "ByCPRTabTitle": "CPR 측정 기준 별",
+        "ByCycleTabTitle": "사이클 별",
+        "OverallPerformance": "전체 성과",
+        "Duration": "시간",
+        "Cycle": "사이클",
+        "CCF": "가슴압박비중",
+        "OverallScore": "전체 점수",
+        "Compressions": "압박",
+        "AvgDepth": "평균 깊이",
+        "AvgRate": "평균 속도",
+        "Count": "횟수",
+        "AvgTimeOff": "평균 중단시간",
+        "FingerPositionAccuracy": "압박 위치 정확도",
+        "HandPositionAccuracy": "압박 위치 정확도",
+        "RescueVentilations": "구조 호흡",
+        "Ventilations": "호흡",
+        "AvgVolume": "평균 호흡량",
+        "Period": "시간",
+        "Total": "합계",
+        "AvgSpeed": "평균 속도",
+        "TempGraphText": "자세한 정보 (quality of CPR)는 'Brayden Online Expert' 에서 볼 수 있습니다",
+        "FingerPosition": "6\n압박 위치",
+        "HandPosition": "6\n압박 위치",
+        "ScoreOfCCF": "4\n가슴압박비중\n점수",
+        "CompressionRate": "3\n압박 속도",
+        "CompressionRelease": "2\n압박 이완",
+        "CompressionDepth": "1\n압박 깊이",
+        "NoOfCompressions": "5\n 압박 횟수",
+        "VentilationVolume": "7\n호흡량",
+        "VentilationRate": "8\n호흡 속도",
+        "RescueNo": "구조 호흡 횟수",
+        "RescueVolume": "구조 호흡 호흡량",
+        "Good": "좋음",
+        "TooShallow": "너무 얕음",
+        "TooDeep": "너무 깊음",
+        "TooFast": "너무 빠름",
+        "TooSlow": "너무 느림",
+        "TooFew": "너무 적음",
+        "TooMany": "너무 많음",
+        "TooLittle": "너무 적음",
+        "TooMuch": "너무 많음",
+        "Incorrect": "부정확",
+        "IncompleteRelease": "불완전 이완",
+        "Toomany": "너무 많음"
+    },
+    "SettingPage": {
+        "Title": "설정",
+        "Manufacture": "제조",
+        "Language": "언어",
+        "LanguageValue": "한국어",
+        "AppVersion": "어플리케이션 버전",
+        "ApplyButton": "새 메뉴 적용",
+        "SwitchButton": "고객 전환",
+        "HowToSeeRecords": "점수 보기 도움말",
+        "AllLocalRecords": "모든 기록",
+        "Deactivated": "비활성 상태",
+        "UserConnectSwitchButton": "사용자가 마네킹을 연결하거나 연결 해제할 수 있습니다"
+    },
+    "VideoPage": {
+        "SkipButton": "다음"
+    },
+    "InformationPage": {
+        "Title": "도움말"
+    },
+    "CheckDeviceStatus": {
+        "WifiConnRequired": "네트워크 오프라인입니다. 인터넷 연결을 확인하십시오.",
+        "BLEConnRequired": "블루투스 연결이 필요합니다. 블루투스 설정을 확인하십시오."
+    },
+    "PopupPrompt": {
+        "PopupTermOK": "OK",
+        "PopupTermConfim": "Confirm",
+        "PopupTermCancel": "Cancel",
+        "PopupTermConnect": "Connect",
+        "PopupTermSwitch": "Switch",
+        "PopupTermEnd": "End",
+        "PopupTermReconnect": "Reconnect",
+        "SignInErrorTitle": "Sign In Error",
+        "SignInConnErrorContent": "You are not connected to the Internet.\nPlease check your network connection and try again.",
+        "SignInAuthErrorContent": "Please verify your username/password and try again.",
+        "BLEConnRequiredTitle": "Manikin Connection Required",
+        "BLEConnRequiredAdultTitle": "Adult Manikin Connection Required",
+        "BLEConnRequiredChildTitle": "Child Manikin Connection Required",
+        "BLEConnRequiredInfantTitle": "Infant Manikin Connection Required",
+        "BLEConnRequiredAdultContent": "Please connect adult manikin for the selected skills check.",
+        "BLEConnRequiredChildContent": "Please connect child manikin for the selected skills check.",
+        "BLEConnRequiredInfantContent": "Please connect infant manikin for the selected skills check.",
+        "ConnectatbleManikinList": "Connectable manikin",
+        "AppUpdateNeededTitle": "App Update Needed",
+        "AppUpdateNeededContent": "Update 'Resuscitation Skills' for the most accurate results.",
+        "BLEDisconnectedTitle": "Manikin Disconnected",
+        "BLEDisconnectedContent": "Please check the batteries and bluetooth connection and try again.",
+        "EndSkillsCheckBProTitle": "Brayden Pro",
+        "EndSkillsCheckAdultTitle": "Brayden Pro Adult",
+        "EndSkillsCheckChildTitle": "Brayden Pro Child",
+        "EndSkillsCheckInfantTitle": "Brayden Infant",
+        "EndSkillsCheckTitle": "Are you sure you want to end this skills check?",
+        "NetErrUploadFailTitle": "Upload Error",
+        "NetErrUploadFailContent": "Upload train content failure. Please check the network connection",
+        "NetErrCommonTitle": "Error",
+        "NetErrCommonContent": "Failed to get result. Please check the network connection"
+    },
+    "Report": {
+        "OverallResult": ""
+    },
+    "ExceptionCompletionAPI": {
+        "AuthenticationFailed": "Authentication Failed.",
+        "IncorrectCompletionDetails": "Incorrect Completion Details.",
+        "GivenOrganizationIdWasIncorrect.": "The given Organization Id was incorrect.",
+        "hStreamIdWasNotFoundIncorrect": "The hStream Id was not found/incorrect.",
+        "hStreamIdIsNotMappedWithAnyUser.": "The hStream Id is not mapped with any user."
+    },
+    "ExceptionOpenSkillsAPI": {
+        "AuthenticationFailed": "Authentication Failed.",
+        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
+        "TheManikinDeviceIdNotFoundIncorrect": "The manikin device id not found/incorrect.",
+        "NoUserDetailsFoundInUserProfile.": "No User details found in UserProfile.",
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "No open skills available for the ePortfolio account."
+    },
+    "ExceptionFileDocumentAPI": {
+        "AuthenticationFailed.": "Authentication Failed.",
+        "GivenFilestoreIdIsIncorrect": "The given filestore Id is incorrect.",
+        "GivenInstitutionIdIsIncorrect": "The given institution Id is incorrect.",
+        "GivenOrganizationIdIsIncorrect": "The given Organization Id is incorrect.",
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "No Document Details found for the given filestore ID.",
+        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
+        "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.",
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
+    }
+}

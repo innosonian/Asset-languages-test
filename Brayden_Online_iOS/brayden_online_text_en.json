@@ -1,0 +1,218 @@
+{
+    "CarrouselPages": {
+        "YouCanConnectTo": "You can connect to",
+        "TouchIconToConnect": "Touch icon to connect",
+        "ChooseWhatYouWantToTrain": "Choose what you want to train!",
+        "ContinueButton" : "Continue"
+    },
+       "StartPage": {
+        "Start": "Start",
+        "PlanMemberLogin": "If you are a Plan member, please click here."
+    },
+       "AdminLoginPage": {
+        "ClientID": "Client ID",
+        "Code": "Code",
+        "SignIn": "Sign In"
+    },
+     "UserLoginPage": {
+        "Email": "E-Mail",
+        "Password": "Password",
+        "SignIn": "Sign In",
+        "TrialSignIn" : "Use trial without log-in"
+    },
+    "DownloadContent": {
+        "Downloading": "Download video files\nIt takes a few minutes"
+    },
+    "MenuHome": {
+        "Title": "Home",
+        "Subtitle" : "Compression, ventilation, or full CPR training\noptions with real-time feedback\n\nBegin the CPR assessment when you are ready",
+        "BodyMessage" : "Touch adult or baby icon to connect manikin",
+        "ExitButton" : "Exit",
+        "LogOut" : "Are you sure\nyou want to log out?"
+    },
+    "MenuManikinConnectionsPopUp": {
+        "Title": "Manikin Connections"
+    },
+    "FirmwareUpdate": {
+        "Title": "Firmware update",
+        "NoteEndTop": "Update completed.",
+        "NoteEndBottom": "Please restart the Manikin"
+    },
+    "TrainningHistoryPage" : {
+        "Title" : "Training History",
+        "SyncButton"  : "Sync all",
+        "IDTitle"  : "ID",
+        "DateTimeTitle" : "Date / Time",
+        "OperationTitle" : "Operation",
+        "ScoreTitle" : "Score",
+        "OptionsTitle" : "Options"
+    },
+    "RealTimeTrainingPage" :{
+    "NoOfCompressions" : "No. of compressions",
+    "Cycle" : "Cycle",
+    "CPREventPeriod" : "CPR Event Period",
+    "VentilationVolume" : "Ventilation Volume",
+    "CompPerTime" : "Comp. depth * Comp. rate / per time",
+    "CompOverall" : "Comp. depth * Comp. rate / in overall",
+    "FingerPosition" : "Finger Position",
+    "HandPosition" : "Hand Position",
+    "StartButton" : "Start training",
+    "StartAssesement" : "Start",
+    "StopButton" : "Stop training",
+    "StopPopUpText" : "Do you want to stop this training session ?",
+    "ResultCalculatingPopOver" : "Results Calculating",
+    "Slow" : "Slow",
+    "Deep" : "Deep",
+    "Fast" : "Fast",
+    "Shallow" : "Shallow"
+    },
+    "OverallResultPage" : {
+        "Title" : "Overall\nPerformance",
+        "Score" : "Score",
+        "FingerPosition" : "Finger\nposition",
+        "HandPosition" : "Hand\nposition",
+        "ScoreOfCCF" : "Score of\nCCF",
+        "CompressionRate" : "Compression\nrate",
+        "CompressionRelease" : "Compression\nrelease",
+        "CompressionDepth" : "Compression\ndepth",
+        "NoOfCompressions" : "No. of\nCompressions",
+        "VentilationVolume" : "Ventilation\nVolume",
+        "VentilationFrequency" : "Ventilation\nfrequency",
+        "AvgDepth" : "Avg. Depth",
+        "AvgVolume" : "Avg. Volume",
+        "RescueNo" : "Rescue No.",
+        "RescueVolume" : "Rescue volume",
+        "Pass": "Passed",
+        "Fail": "Try again"
+    },
+    "DetailedResultPage" :{
+        "Title" : "Detailed results",
+        "SummaryTabTitle" : "Summary",
+        "ByCPRTabTitle" :"By CPR metric criteria",
+        "ByCycleTabTitle" : "By Cycle",
+        "OverallPerformance" : "Overall Performance",
+        "Duration" : "Duration",
+        "Cycle" : "Cycle",
+        "CCF" : "CCF",
+        "OverallScore" : "Overall Score",
+        "Compressions" : "Compressions",
+        "AvgDepth" : "Avg. Depth",
+        "AvgRate" : "Avg. Rate",
+        "Count" : "Count",
+        "AvgTimeOff" : "Avg. Time-off",
+        "FingerPositionAccuracy" : "Finger position accuracy",
+        "HandPositionAccuracy" : "Hand position accuracy",
+        "RescueVentilations" : "Rescue Ventilations",
+        "Ventilations" : "Ventilations",
+        "AvgVolume" : "Avg. Volume",
+        "Period" : "Period",
+        "Total" : "Total",
+        "AvgSpeed" : "Avg. Speed",
+        "TempGraphText" : "More information (quality of CPR) is available via 'Brayden Online Expert'",
+        "FingerPosition" : "6\nFinger position",
+        "HandPosition" : "6\nHand position",
+        "ScoreOfCCF" : "4\nScore of\nCCF",
+        "CompressionRate" : "3\nCompression\nrate",
+        "CompressionRelease" : "2\nCompression\nrelease",
+        "CompressionDepth" : "1\nCompression\ndepth",
+        "NoOfCompressions" : "5\nNo. of\nCompressions",
+        "VentilationVolume" : "7\nVentilation\nVolume",
+        "VentilationRate" : "8\nVentilation\nrate",
+        "RescueNo" : "Rescue No.",
+        "RescueVolume" : "Rescue volume",
+        "Good" : "Good",
+        "TooShallow" : "Too Shallow",
+        "TooDeep" : "Too deep",
+        "TooFast" : "Too fast",
+        "TooSlow" :"Too slow ",
+        "TooFew" : "Too few",
+        "TooMany" : "Too many",
+        "TooLittle" : "Too Little",
+        "TooMuch" : "Too Much",
+        "Incorrect" : "Incorrect",
+        "IncompleteRelease" : "Incomplete release"
+    },
+    "SettingPage" : {
+        "Title" : "Setting",
+        "Manufacture" : "Manufacture",
+        "Language" : "Language",
+        "LanguageValue" : "English",
+        "AppVersion" : "Application Version",
+        "ApplyButton" : "Apply new menu",
+        "SwitchButton" : "Switch client",
+        "HowToSeeRecords" : "How to see records",
+        "AllLocalRecords" : "All local records",
+        "Deactivated" : "Deactivated",
+        "UserConnectSwitchButton" : "Users can connect or disconnect manikins"
+    },
+    "VideoPage" : {
+        "SkipButton" : "Skip"
+    },
+    "InformationPage" :{
+        "Title" : "Information"
+    },
+    "CheckDeviceStatus": {
+        "WifiConnRequired": "You're offline. Check your internet connection.",
+        "BLEConnRequired": "Bluetooth is deactivated. Check your bluetooth setting."
+    },
+    "PopupPrompt": {
+        "PopupTermOK": "OK",
+        "PopupTermConfim": "Confirm",
+        "PopupTermCancel": "Cancel",
+        "PopupTermConnect": "Connect",
+        "PopupTermSwitch": "Switch",
+        "PopupTermEnd": "End",
+        "PopupTermReconnect": "Reconnect",
+        "SignInErrorTitle": "Sign In Error",
+        "SignInConnErrorContent": "You are not connected to the Internet.\nPlease check your network connection and try again.",
+        "SignInAuthErrorContent": "Please verify your username/password and try again.",
+        "BLEConnRequiredTitle": "Manikin Connection Required",
+        "BLEConnRequiredAdultTitle": "Adult Manikin Connection Required",
+        "BLEConnRequiredChildTitle": "Child Manikin Connection Required",
+        "BLEConnRequiredInfantTitle": "Infant Manikin Connection Required",
+        "BLEConnRequiredAdultContent": "Please connect adult manikin for the selected skills check.",
+        "BLEConnRequiredChildContent": "Please connect child manikin for the selected skills check.",
+        "BLEConnRequiredInfantContent": "Please connect infant manikin for the selected skills check.",
+        "ConnectatbleManikinList": "Connectable manikin",
+        "AppUpdateNeededTitle": "App Update Needed",
+        "AppUpdateNeededContent": "Update 'Resuscitation Skills' for the most accurate results.",
+        "BLEDisconnectedTitle": "Manikin Disconnected",
+        "BLEDisconnectedContent": "Please check the batteries and bluetooth connection and try again.",
+        "EndSkillsCheckBProTitle": "Brayden Pro",
+        "EndSkillsCheckAdultTitle": "Brayden Pro Adult",
+        "EndSkillsCheckChildTitle": "Brayden Pro Child",
+        "EndSkillsCheckInfantTitle": "Brayden Infant",
+        "EndSkillsCheckTitle": "Are you sure you want to end this skills check?",
+        "NetErrUploadFailTitle": "Upload Error",
+        "NetErrUploadFailContent": "Upload train content failure. Please check the network connection",
+        "NetErrCommonTitle": "Error",
+        "NetErrCommonContent": "Failed to get result. Please check the network connection"
+    },
+    "Report": {
+        "OverallResult": ""
+    },
+    "ExceptionCompletionAPI": {
+        "AuthenticationFailed": "Authentication Failed.",
+        "IncorrectCompletionDetails": "Incorrect Completion Details.",
+        "GivenOrganizationIdWasIncorrect.": "The given Organization Id was incorrect.",
+        "hStreamIdWasNotFoundIncorrect": "The hStream Id was not found/incorrect.",
+        "hStreamIdIsNotMappedWithAnyUser.": "The hStream Id is not mapped with any user."
+    },
+    "ExceptionOpenSkillsAPI": {
+        "AuthenticationFailed": "Authentication Failed.",
+        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
+        "TheManikinDeviceIdNotFoundIncorrect": "The manikin device id not found/incorrect.",
+        "NoUserDetailsFoundInUserProfile.": "No User details found in UserProfile.",
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "No open skills available for the ePortfolio account."
+    },
+    "ExceptionFileDocumentAPI": {
+        "AuthenticationFailed.": "Authentication Failed.",
+        "GivenFilestoreIdIsIncorrect": "The given filestore Id is incorrect.",
+        "GivenInstitutionIdIsIncorrect": "The given institution Id is incorrect.",
+        "GivenOrganizationIdIsIncorrect": "The given Organization Id is incorrect.",
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "No Document Details found for the given filestore ID.",
+        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
+        "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.",
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
+    }
+}
