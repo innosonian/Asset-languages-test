@@ -25,7 +25,7 @@
     },
     "MenuHome": {
         "Title": "Home",
-        "Subtitle" : "Compression, ventilation, or full CPR training\noptions with real-time feedback\n\nBegin the CPR assessment when you are ready",
+        "Subtitle" : "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
         "BodyMessage" : "Touch adult or baby icon to connect manikin",
         "ExitButton" : "Exit",
         "LogOut" : "Are you sure\nyou want to log out?"
