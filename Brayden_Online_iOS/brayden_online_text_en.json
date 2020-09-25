@@ -59,7 +59,7 @@
     "StartButton" : "Start training",
     "StartAssesement" : "Start",
     "StopButton" : "Stop training",
-    "StopPopUpText" : "Do you want to stop this session ?",
+    "StopPopUpText" : "Do you want to stop this session?",
     "ResultCalculatingPopOver" : "Results Calculating",
     "Slow" : "Slow",
     "Deep" : "Deep",
