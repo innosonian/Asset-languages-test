@@ -27,7 +27,7 @@
         "Title": "Accueil",
         "Subtitle": "############",
         "BodyMessage": "Toucher l'icône adulte ou bébé pour connecter le(s) mannequin(s)",
-        "ExitButton": "##########",
+        "ExitButton": "##########?",
         "LogOut": "Etes-vous sur\nde vouloir vous déconnectez"
     },
     "MenuManikinConnectionsPopUp": {
