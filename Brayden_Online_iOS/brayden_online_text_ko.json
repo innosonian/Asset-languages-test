@@ -117,7 +117,7 @@
         "CompressionDepth": "1\n압박 깊이",
         "NoOfCompressions": "5\n 압박 횟수",
         "VentilationVolume": "7\n호흡량",
-        "VentilationRate": "8\n호흡 속도",
+        "VentilationRate": "8\n호흡 빈도",
         "RescueNo": "구조 호흡 횟수",
         "RescueVolume": "구조 호흡 호흡량",
         "Good": "좋음",
