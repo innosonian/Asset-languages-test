@@ -6,7 +6,7 @@
         "ContinueButton" : "Continue"
     },
        "StartPage": {
-        "Start": "Start",
+        "Start": "TEST Start",
         "PlanMemberLogin": "If you are a Plan member, please click here."
     },
        "AdminLoginPage": {
