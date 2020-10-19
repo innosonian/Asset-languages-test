@@ -2,15 +2,15 @@
 Brayden language asset to test
 
 ## Languages applied
-English
+English  
 Korean
 
 ## Languages validating
-French
-Italian
-Russian
-Polish
-German
+French  
+Italian  
+Russian  
+Polish  
+German  
 
 ## * Language code
 https://html-shark.com/HTML/LanguageCodes.htm
