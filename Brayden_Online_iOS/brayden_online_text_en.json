@@ -5,11 +5,11 @@
         "ChooseWhatYouWantToTrain": "Choose what you want to train!",
         "ContinueButton" : "Continue"
     },
-       "StartPage": {
+    "StartPage": {
         "Start": "TEST Start",
         "PlanMemberLogin": "If you are a Plan member, please click here."
     },
-       "AdminLoginPage": {
+    "AdminLoginPage": {
         "ClientID": "Client ID",
         "Code": "Code",
         "SignIn": "Sign In"

@@ -80,11 +80,10 @@
         "VentilationFrequency": "Ventilazione\nfrequenza",
         "AvgDepth": "##########",
         "AvgVolume": "##########",
-        "RescueNo": "##########",
+        "RescueNo": "Salvataggio No.",
         "RescueVolume": "Salvataggio volume",
         "Pass": "##########",
-        "Fail": "##########",
-        "RescueNo.": "Salvataggio No."
+        "Fail": "##########"
     },
     "DetailedResultPage": {
         "Title": "Risultati dettagliati",

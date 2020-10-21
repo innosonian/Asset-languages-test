@@ -5,11 +5,11 @@
         "ChooseWhatYouWantToTrain": "Ein Trainingsprogramm auswaehlen",
         "ContinueButton" : "Weiter"
     },
-       "StartPage": {
+    "StartPage": {
         "Start": "TEST Start",
         "PlanMemberLogin": "Wenn Sie ein Abonnement haben, klicken Sie hier."
     },
-       "AdminLoginPage": {
+    "AdminLoginPage": {
         "ClientID": "Kundenidentifikation",
         "Code": "Code",
         "SignIn": "Einloggen"
