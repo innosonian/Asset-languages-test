@@ -25,7 +25,7 @@
     },
     "MenuHome": {
         "Title": "Startseite",
-        "Subtitle" : "##########",
+        "Subtitle" : "Kompressions-, Beatmungs- oder vollständige CPR-Trainingsoptionen mit Echtzeit-Feedback\n\nBeginnen Sie mit der CPR-Bewertung, wenn Sie bereit sind",
         "BodyMessage" : "Klicken Sie auf das Ikon von Erwachsenen oder Kindern, um die Wiederbelebungspuppe anzuschliessen",
         "ExitButton" : "##########",
         "LogOut" : "Ausloggen?"
