@@ -146,7 +146,7 @@
         "UserConnectSwitchButton": "Пользователи могут подключать или отключать манекены"
     },
     "VideoPage": {
-        "SkipButton": "##########"
+        "SkipButton": "Пропускать"
     },
     "InformationPage": {
         "Title": "##########"

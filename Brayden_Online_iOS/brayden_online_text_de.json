@@ -146,7 +146,7 @@
         "UserConnectSwitchButton" : "Benutzer können Gerät verbinden oder trennen"
     },
     "VideoPage" : {
-        "SkipButton" : "##########"
+        "SkipButton" : "Überspringen"
     },
     "InformationPage" :{
         "Title" : "##########"
