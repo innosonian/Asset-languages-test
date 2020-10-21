@@ -126,12 +126,11 @@
         "TooFast": "Trop rapide",
         "TooSlow": "Trop lent",
         "TooFew": "Trop peu",
-        "TooMany": "##########",
+        "TooMany": "Trop nombreux",
         "TooLittle": "Pas assez",
         "TooMuch": "Trop fort",
         "Incorrect": "Incorrect",
-        "IncompleteRelease": "Relachement incomplet",
-        "Toomany": "Trop nombreux"
+        "IncompleteRelease": "Relachement incomplet"
     },
     "SettingPage": {
         "Title": "Paramètre",

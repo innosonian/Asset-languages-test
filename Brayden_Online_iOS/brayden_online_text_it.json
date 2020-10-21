@@ -127,13 +127,12 @@
         "TooFast": "Troppo veloce",
         "TooSlow": "Troppo lento ",
         "TooFew": "Troppo pochi",
-        "TooMany": "##########",
+        "TooMany": "Troppi",
         "TooLittle": "Troppo piccolo",
         "TooMuch": "Troppo",
         "Incorrect": "Errato",
         "IncompleteRelease": "Incompleto rilascioe",
-        "RescueNo.": "Salvataggio No.",
-        "Toomany": "Troppi"
+        "RescueNo.": "Salvataggio No."
     },
     "SettingPage": {
         "Title": "Impostazione",

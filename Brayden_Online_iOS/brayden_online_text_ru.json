@@ -126,12 +126,11 @@
        "TooFast": "Слишком быстро",
        "TooSlow": "Слишком медленно",
        "TooFew": "Слишком мало",
-       "TooMany": "##########",
+       "TooMany": "Слишком много",
        "TooLittle": "Недобор",
        "TooMuch": "Перебор",
        "Incorrect": "Неверно",
-       "IncompleteRelease": "Неполное освобождение рук",
-       "Toomany": "Слишком много"
+       "IncompleteRelease": "Неполное освобождение рук"
    },
    "SettingPage": {
        "Title": "Настройка",

@@ -131,12 +131,11 @@
         "TooFast": "Za szybko",
         "TooSlow": "Zbyt wolno",
         "TooFew": "Za mało",
-        "TooMany": "##########",
+        "TooMany": "Za dużo",
         "TooLittle": "Za mało",
         "TooMuch": "Za dużo",
         "Incorrect": "Niepoprawnie",
-        "IncompleteRelease": "Niepełna relaksacja",
-        "Toomany": "Za dużo"
+        "IncompleteRelease": "Niepełna relaksacja"
     },
     "SettingPage": {
         "Title": "Ustawienia",

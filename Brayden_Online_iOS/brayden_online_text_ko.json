@@ -130,8 +130,7 @@
         "TooLittle": "너무 적음",
         "TooMuch": "너무 많음",
         "Incorrect": "부정확",
-        "IncompleteRelease": "불완전 이완",
-        "Toomany": "너무 많음"
+        "IncompleteRelease": "불완전 이완"
     },
     "SettingPage": {
         "Title": "설정",
