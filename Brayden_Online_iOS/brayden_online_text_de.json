@@ -14,7 +14,7 @@
         "Code": "Code",
         "SignIn": "Einloggen"
     },
-     "UserLoginPage": {
+    "UserLoginPage": {
         "Email": "Mail",
         "Password": "Passwort",
         "SignIn": "Einloggen",
@@ -27,7 +27,7 @@
         "Title": "Startseite",
         "Subtitle" : "Kompressions-, Beatmungs- oder vollständige CPR-Trainingsoptionen mit Echtzeit-Feedback\n\nBeginnen Sie mit der CPR-Bewertung, wenn Sie bereit sind",
         "BodyMessage" : "Klicken Sie auf das Ikon von Erwachsenen oder Kindern, um die Wiederbelebungspuppe anzuschliessen",
-        "ExitButton" : "##########",
+        "ExitButton" : "Ausgang",
         "LogOut" : "Ausloggen?"
     },
     "MenuManikinConnectionsPopUp": {
@@ -48,23 +48,23 @@
         "OptionsTitle" : "Optionen"
     },
     "RealTimeTrainingPage" :{
-    "NoOfCompressions" : "Anzahl der Kompressionen",
-    "Cycle" : "Zyklus",
-    "CPREventPeriod" : "CPR-Zeitraum",
-    "VentilationVolume" : "Beatmungsvolumen",
-    "CompPerTime" : "Kompressionstiefe * Kompressionsrate / zu einem Zeitpunkt",
-    "CompOverall" : "Kompressionstiefe / Kompressionsrate / insgesamt",
-    "FingerPosition" : "Fingerposition",
-    "HandPosition" : "Handposition",
-    "StartButton" : "mit Training beginnen",
-    "StartAssesement" : "##########",
-    "StopButton" : "das Training beenden",
-    "StopPopUpText" : "Möchten Sie diese Trainingseinheit beenden?",
-    "ResultCalculatingPopOver" : "Ergebnisberechnung",
-    "Slow" : "Langsam",
-    "Deep" : "Tief",
-    "Fast" : "Schnell",
-    "Shallow" : "zu flach"
+        "NoOfCompressions" : "Anzahl der Kompressionen",
+        "Cycle" : "Zyklus",
+        "CPREventPeriod" : "CPR-Zeitraum",
+        "VentilationVolume" : "Beatmungsvolumen",
+        "CompPerTime" : "Kompressionstiefe * Kompressionsrate / zu einem Zeitpunkt",
+        "CompOverall" : "Kompressionstiefe / Kompressionsrate / insgesamt",
+        "FingerPosition" : "Fingerposition",
+        "HandPosition" : "Handposition",
+        "StartButton" : "mit Training beginnen",
+        "StartAssesement" : "##########",
+        "StopButton" : "das Training beenden",
+        "StopPopUpText" : "Möchten Sie diese Trainingseinheit beenden?",
+        "ResultCalculatingPopOver" : "Ergebnisberechnung",
+        "Slow" : "Langsam",
+        "Deep" : "Tief",
+        "Fast" : "Schnell",
+        "Shallow" : "zu flach"
     },
     "OverallResultPage" : {
         "Title" : "Gesamt\nertung",

@@ -21,13 +21,13 @@
         "TrialSignIn": "Usa la versione di prova senza accedere"
     },
     "DownloadContent": {
-        "Downloading": "##########"
+        "Downloading": "Scarica file video\nCi vogliono pochi minuti"
     },
     "MenuHome": {
         "Title": "Casa",
         "Subtitle": "Opzioni di formazione di compressione, ventilazione o CPR completo con feedback in tempo reale\n\nInizia la valutazione della RCP quando sei pronto",
         "BodyMessage": "Tocca l'icona di un adulto o un bambino per collegare il manichino",
-        "ExitButton": "##########",
+        "ExitButton": "Uscita",
         "LogOut": "Sei sicuro \n di voler uscire?"
     },
     "MenuManikinConnectionsPopUp": {
