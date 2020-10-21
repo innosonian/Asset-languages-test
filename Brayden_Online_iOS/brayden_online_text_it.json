@@ -82,8 +82,8 @@
         "AvgVolume": "Media. Volume",
         "RescueNo": "Salvataggio No.",
         "RescueVolume": "Salvataggio volume",
-        "Pass": "##########",
-        "Fail": "##########"
+        "Pass": "Passato",
+        "Fail": "Riprova"
     },
     "DetailedResultPage": {
         "Title": "Risultati dettagliati",

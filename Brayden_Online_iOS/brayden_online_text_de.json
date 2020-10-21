@@ -82,8 +82,8 @@
         "AvgVolume" : "Durchschn. Volumen",
         "RescueNo" : "Anzahl von Mund zu Mund Beatmungen",
         "RescueVolume" : "Volumen von Mund zu Mund Beatmungen",
-        "Pass": "##########",
-        "Fail": "##########"
+        "Pass": "Bestanden",
+        "Fail": "Versuchen Sie es nochmal"
     },
     "DetailedResultPage" :{
         "Title" : "Detaillierte Ergebnisse",
