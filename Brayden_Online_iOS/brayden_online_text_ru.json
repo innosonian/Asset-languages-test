@@ -149,7 +149,7 @@
         "SkipButton": "Пропускать"
     },
     "InformationPage": {
-        "Title": "##########"
+        "Title": "Информация"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "Вы не в сети, Проверьте подключение к Интернету.",

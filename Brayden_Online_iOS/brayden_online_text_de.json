@@ -149,7 +149,7 @@
         "SkipButton" : "Überspringen"
     },
     "InformationPage" :{
-        "Title" : "##########"
+        "Title" : "Information"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "Sie sind nicht online, überprüfen Sie Ihre Internetverbindung.",

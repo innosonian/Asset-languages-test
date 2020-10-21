@@ -118,7 +118,7 @@
         "NoOfCompressions": "5\nNo. di\nCompressioni",
         "VentilationVolume": "7\nVentilazione\nVolume",
         "VentilationRate": "8\nVentilazione\nritmo",
-        "RescueNo": "##########",
+        "RescueNo": "Rescue No.",
         "RescueVolume": "Salvataggio volume",
         "Good": "Bene",
         "TooShallow": "Troppo superficiale",
@@ -150,7 +150,7 @@
         "SkipButton": "Salta"
     },
     "InformationPage": {
-        "Title": "##########"
+        "Title": "Informazione"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "Sei offline. Controlla la connessione a Internet.",

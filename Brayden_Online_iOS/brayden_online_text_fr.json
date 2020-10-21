@@ -149,7 +149,7 @@
         "SkipButton": "Sauter"
     },
     "InformationPage": {
-        "Title": "##########"
+        "Title": "Information"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "vous n'etes pas connecte. Verifiez la connection internet",
