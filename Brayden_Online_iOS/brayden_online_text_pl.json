@@ -11,17 +11,14 @@
     },
     "AdminLoginPage": {
         "ClientID": "Identyfikator klienta",
-        "Code": "##########",
-        "SignIn": "Zaloguj się",
-        "Kod": "Kod"
+        "Code": "Kod",
+        "SignIn": "Zaloguj się"
     },
     "UserLoginPage": {
-        "Email": "##########",
-        "Password": "##########",
+        "Email": "E-mail",
+        "Password": "Hasło",
         "SignIn": "Zaloguj się",
-        "TrialSignIn": "Użyj wersji próbnej bez logowania",
-        "E-mail": "E-mail",
-        "Hasło": "Hasło"
+        "TrialSignIn": "Użyj wersji próbnej bez logowania"
     },
     "DownloadContent": {
         "Downloading": "Pobierz pliki wideo\npotrwa to kilka minut"
