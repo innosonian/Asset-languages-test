@@ -130,7 +130,7 @@
         "TooLittle" : "Too Little",
         "TooMuch" : "Too Much",
         "Incorrect" : "Incorrect",
-        "IncompleteRelease" : "Incomplete release"
+        "IncompleteRelease" : "Incomplete\nrelease"
     },
     "SettingPage" : {
         "Title" : "Setting",
