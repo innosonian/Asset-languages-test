@@ -117,7 +117,7 @@
         "CompressionDepth" : "1\nKompressionstiefe",
         "NoOfCompressions" : "5\nAnzahl der\nKompressionen",
         "VentilationVolume" : "7\nBeatumungsvolumen",
-        "VentilationRate" : "8\nAnzahl der\nBeatmungen",
+        "VentilationRate" : "8\nBeatmungsfrequenz",
         "RescueNo" : "Anzahl von Mund zu Mund Beatmungen",
         "RescueVolume" : "Volumen von Munz zu Mund Beatmungen",
         "Good" : "Gut",
