@@ -117,7 +117,7 @@
         "CompressionDepth": "1\nГлубина\nкомпрессий",
         "NoOfCompressions": "5\nКоличество \nкомпрессий",
         "VentilationVolume": "7\nОбъем\nвентиляций",
-        "VentilationRate": "8\nКоличество\nвентиляций",
+        "VentilationRate": "8\nВентиляция\nЧастота",
         "RescueNo": "Количество спасательных дыханий",
         "RescueVolume": "Объем спасательных дыханий",
         "Good": "Хорошо",
