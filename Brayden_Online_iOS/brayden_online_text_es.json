@@ -117,7 +117,7 @@
         "CompressionDepth" : "1\nCompression\ndepth",
         "NoOfCompressions" : "5\nNo. of\nCompressions",
         "VentilationVolume" : "7\nVentilation\nVolume",
-        "VentilationRate" : "8\nVentilation\nrate",
+        "VentilationRate" : "8\nVentilation\nfrequency",
         "RescueNo" : "Rescue No.",
         "RescueVolume" : "Rescue volume",
         "Good" : "Good",
