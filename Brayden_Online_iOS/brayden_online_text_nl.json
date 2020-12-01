@@ -24,47 +24,47 @@
         "Downloading": "Download videobestanden\ndit duurt een paar minuten"
     },
     "MenuHome": {
-        "Title": "Home",
-        "Subtitle" : "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
-        "BodyMessage" : "Touch adult or baby icon to connect manikin",
-        "ExitButton" : "Exit",
-        "LogOut" : "Are you sure\nyou want to log out?"
+        "Title": "Startpagina",
+        "Subtitle" : "Compressie, beademing of de volledige reanimatietraining met real-time feedback\n\nBegin de reanimatie wanneer u gereed bent",
+        "BodyMessage" : "Raak het volwassene of baby pictogram aan om de dummy aan te sluiten",
+        "ExitButton" : "Verlaat",
+        "LogOut" : "Weet u zeker dat\nu wilt uitloggen?"
     },
     "MenuManikinConnectionsPopUp": {
-        "Title": "Manikin Connections"
+        "Title": "Verbindingen reanimatiepoppen"
     },
     "FirmwareUpdate": {
         "Title": "Firmware update",
-        "NoteEndTop": "Update completed.",
-        "NoteEndBottom": "Please restart the Manikin"
+        "NoteEndTop": "Update voltooid",
+        "NoteEndBottom": "Herstart de reanimatiepop"
     },
     "TrainningHistoryPage" : {
-        "Title" : "Training History",
-        "SyncButton"  : "Sync all",
+        "Title" : "Training geschiedenis",
+        "SyncButton"  : "Synchroniseer alles",
         "IDTitle"  : "ID",
-        "DateTimeTitle" : "Date / Time",
-        "OperationTitle" : "Operation",
+        "DateTimeTitle" : "Datum / Tijd",
+        "OperationTitle" : "Uitvoering",
         "ScoreTitle" : "Score",
-        "OptionsTitle" : "Options"
+        "OptionsTitle" : "Opties"
     },
     "RealTimeTrainingPage" :{
-        "NoOfCompressions" : "No. of compressions",
-        "Cycle" : "Cycle",
-        "CPREventPeriod" : "CPR Event Period",
-        "VentilationVolume" : "Ventilation Volume",
-        "CompPerTime" : "Comp. depth * Comp. rate / per time",
-        "CompOverall" : "Comp. depth * Comp. rate / in overall",
-        "FingerPosition" : "Finger Position",
-        "HandPosition" : "Hand Position",
+        "NoOfCompressions" : "Aantal compressies",
+        "Cycle" : "Cyclus",
+        "CPREventPeriod" : "Reanimatiegebeurtenis",
+        "VentilationVolume" : "Beademing volume",
+        "CompPerTime" : "Comp. diepte * Comp. snelheid per keer",
+        "CompOverall" : "Comp. diepte * Comp. snelheid algemeen",
+        "FingerPosition" : "Vinger positie”",
+        "HandPosition" : "Hand positie",
         "StartButton" : "Start training",
         "StartAssesement" : "Start",
         "StopButton" : "Stop training",
-        "StopPopUpText" : "Do you want to stop this session?",
-        "ResultCalculatingPopOver" : "Results Calculating",
-        "Slow" : "Slow",
-        "Deep" : "Deep",
-        "Fast" : "Fast",
-        "Shallow" : "Shallow"
+        "StopPopUpText" : "Wilt u stoppen met deze sessie?",
+        "ResultCalculatingPopOver" : "Resultaten berekenen",
+        "Slow" : "Langzaam",
+        "Deep" : "Diep",
+        "Fast" : "Snel",
+        "Shallow" : "Ondiep"
     },
     "OverallResultPage" : {
         "Title" : "Overall\nPerformance",
