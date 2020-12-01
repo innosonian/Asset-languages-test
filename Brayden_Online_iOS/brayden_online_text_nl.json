@@ -1,27 +1,27 @@
 {
     "CarrouselPages": {
-        "YouCanConnectTo": "You can connect to",
-        "TouchIconToConnect": "Touch icon to connect",
-        "ChooseWhatYouWantToTrain": "Choose what you want to train!",
-        "ContinueButton" : "Continue"
+        "YouCanConnectTo": "U kunt verbinden met",
+        "TouchIconToConnect": "Raak het pictogram aan om te verbinden",
+        "ChooseWhatYouWantToTrain": "Kies wat u wilt trainen",
+        "ContinueButton" : "Ga verder"
     },
     "StartPage": {
         "Start": "TEST Start",
-        "PlanMemberLogin": "If you are a Plan member, please click here."
+        "PlanMemberLogin": "Als u Plan lid bent, klik dan hier."
     },
     "AdminLoginPage": {
-        "ClientID": "Client ID",
+        "ClientID": "Klanten ID",
         "Code": "Code",
-        "SignIn": "Sign In"
+        "SignIn": "Log In"
     },
      "UserLoginPage": {
-        "Email": "E-Mail",
-        "Password": "Password",
-        "SignIn": "Sign In",
-        "TrialSignIn" : "Use trial without log-in"
+        "Email": "E-mail",
+        "Password": "Wachtwoord",
+        "SignIn": "Log In",
+        "TrialSignIn" : "Gebruik de proefversie zonder aan te melden"
     },
     "DownloadContent": {
-        "Downloading": "Download video files\nIt takes a few minutes"
+        "Downloading": "Download videobestanden\ndit duurt een paar minuten"
     },
     "MenuHome": {
         "Title": "Home",
