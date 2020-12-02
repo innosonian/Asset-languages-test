@@ -133,63 +133,63 @@
         "IncompleteRelease" : "Onvolledige\nverlossing"
     },
     "SettingPage" : {
-        "Title" : "Setting",
-        "Manufacture" : "Manufacture",
-        "Language" : "Language",
-        "LanguageValue" : "English",
-        "AppVersion" : "Application Version",
-        "ApplyButton" : "Apply new menu",
-        "SwitchButton" : "Switch client",
-        "HowToSeeRecords" : "How to see records",
-        "AllLocalRecords" : "All local records",
-        "Deactivated" : "Deactivated",
-        "UserConnectSwitchButton" : "Users can connect or disconnect manikins"
+        "Title" : "Instelling",
+        "Manufacture" : "Fabrikant",
+        "Language" : "Taal",
+        "LanguageValue" : "Engels",
+        "AppVersion" : "Applicatie versie",
+        "ApplyButton" : "Nieuw menu toepassen",
+        "SwitchButton" : "Wissel klant",
+        "HowToSeeRecords" : "Hoe kan ik records bekijken",
+        "AllLocalRecords" : "Alle plaatselijke records",
+        "Deactivated" : "Gedeactiveerd",
+        "UserConnectSwitchButton" : "Gebruikers kunnen de dummy's aansluiten of loskoppelen"
     },
     "VideoPage" : {
-        "SkipButton" : "Skip"
+        "SkipButton" : "Overslaan"
     },
     "InformationPage" :{
-        "Title" : "Information"
+        "Title" : "Informatie"
     },
     "CheckDeviceStatus": {
-        "WifiConnRequired": "You're offline. Check your internet connection.",
-        "BLEConnRequired": "Bluetooth is deactivated. Check your bluetooth setting."
+        "WifiConnRequired": "U bent offline. Controleer uw internetverbinding.",
+        "BLEConnRequired": "Bluetooth is gedeactiveerd. Controleer uw bluetooth instellingen."
     },
     "PopupPrompt": {
         "PopupTermOK": "OK",
-        "PopupTermConfim": "Confirm",
-        "PopupTermCancel": "Cancel",
-        "PopupTermConnect": "Connect",
-        "PopupTermSwitch": "Switch",
-        "PopupTermEnd": "End",
-        "PopupTermReconnect": "Reconnect",
-        "SignInErrorTitle": "Sign In Error",
-        "SignInConnErrorContent": "You are not connected to the Internet.\nPlease check your network connection and try again.",
-        "SignInAuthErrorContent": "Please verify your username/password and try again.",
-        "BLEConnRequiredTitle": "Manikin Connection Required",
-        "BLEConnRequiredAdultTitle": "Adult Manikin Connection Required",
-        "BLEConnRequiredChildTitle": "Child Manikin Connection Required",
-        "BLEConnRequiredInfantTitle": "Infant Manikin Connection Required",
-        "BLEConnRequiredAdultContent": "Please connect adult manikin for the selected skills check.",
-        "BLEConnRequiredChildContent": "Please connect child manikin for the selected skills check.",
-        "BLEConnRequiredInfantContent": "Please connect infant manikin for the selected skills check.",
-        "ConnectatbleManikinList": "Connectable manikin",
-        "AppUpdateNeededTitle": "App Update Needed",
-        "AppUpdateNeededContent": "Update 'Resuscitation Skills' for the most accurate results.",
-        "BLEDisconnectedTitle": "Manikin Disconnected",
-        "BLEDisconnectedContent": "Please check the batteries and bluetooth connection and try again.",
+        "PopupTermConfim": "Bevestig",
+        "PopupTermCancel": "Annuleer",
+        "PopupTermConnect": "Verbind",
+        "PopupTermSwitch": "Overstappen naar",
+        "PopupTermEnd": "Einde",
+        "PopupTermReconnect": "Verbind opnieuw",
+        "SignInErrorTitle": "Log in Error",
+        "SignInConnErrorContent": "U bent niet verbonden met het internet.\nControleer uw netwerkverbinding en probeer het opnieuw.",
+        "SignInAuthErrorContent": "Controleer uw gebruikersnaam/wachtwoord en probeer het opnieuw.",
+        "BLEConnRequiredTitle": "Manikin-verbinding vereist",
+        "BLEConnRequiredAdultTitle": "Volwassene Manikin-verbinding vereist",
+        "BLEConnRequiredChildTitle": "Kind Manikin-verbinding vereist",
+        "BLEConnRequiredInfantTitle": "Baby Manikin-verbinding vereist",
+        "BLEConnRequiredAdultContent": "Sluit de volwassen dummy aan voor de geselecteerde vaardigheidstest.",
+        "BLEConnRequiredChildContent": "Sluit de kinderpop aan voor de geselecteerde vaardighedencheck.",
+        "BLEConnRequiredInfantContent": "Sluit de baby dummy aan voor de geselecteerde vaardighedencheck.",
+        "ConnectatbleManikinList": "Verbindbare dummy",
+        "AppUpdateNeededTitle": "App update noodzakelijk",
+        "AppUpdateNeededContent": "Update 'Reanimatievaardigheden' voor de meest nauwkeurige resultaten",
+        "BLEDisconnectedTitle": "Dummy ontkoppeld",
+        "BLEDisconnectedContent": "Controleer de batterijen en de bluetooth-verbinding en probeer het opnieuw.",
         "EndSkillsCheckBProTitle": "Brayden Pro",
         "EndSkillsCheckAdultTitle": "Brayden Pro Adult",
         "EndSkillsCheckChildTitle": "Brayden Pro Child",
         "EndSkillsCheckInfantTitle": "Brayden Infant",
-        "EndSkillsCheckTitle": "Are you sure you want to end this skills check?",
-        "NetErrUploadFailTitle": "Upload Error",
-        "NetErrUploadFailContent": "Upload train content failure. Please check the network connection",
+        "EndSkillsCheckTitle": "Weet u zeker dat u deze vaardighedencheck wilt beëindigen?",
+        "NetErrUploadFailTitle": "Upload fout",
+        "NetErrUploadFailContent": "Storing in de inhoud van de trein uploaden. Controleer de netwerkverbinding",
         "NetErrCommonTitle": "Error",
-        "NetErrCommonContent": "Failed to get result. Please check the network connection"
+        "NetErrCommonContent": "Geen resultaat geboekt. Controleer de netwerkverbinding"
     },
     "Report": {
-        "OverallResult": ""
+        "OverallResult": "Algeheel resultaat"
     },
     "ExceptionCompletionAPI": {
         "AuthenticationFailed": "Authentication Failed.",
