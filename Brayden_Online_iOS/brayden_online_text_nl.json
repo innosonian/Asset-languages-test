@@ -192,27 +192,27 @@
         "OverallResult": "Algeheel resultaat"
     },
     "ExceptionCompletionAPI": {
-        "AuthenticationFailed": "Authentication Failed.",
-        "IncorrectCompletionDetails": "Incorrect Completion Details.",
-        "GivenOrganizationIdWasIncorrect.": "The given Organization Id was incorrect.",
-        "hStreamIdWasNotFoundIncorrect": "The hStream Id was not found/incorrect.",
-        "hStreamIdIsNotMappedWithAnyUser.": "The hStream Id is not mapped with any user."
+        "AuthenticationFailed": "Authentificatie mislukt.",
+        "IncorrectCompletionDetails": "Onjuiste voltooiing Details.",
+        "GivenOrganizationIdWasIncorrect.": "De gegeven organisatie-informatie was onjuist.",
+        "hStreamIdWasNotFoundIncorrect": "De hStream Id is niet gevonden/onjuist.",
+        "hStreamIdIsNotMappedWithAnyUser.": "De hStream Id is niet in kaart gebracht met een gebruiker."
     },
     "ExceptionOpenSkillsAPI": {
-        "AuthenticationFailed": "Authentication Failed.",
-        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
-        "TheManikinDeviceIdNotFoundIncorrect": "The manikin device id not found/incorrect.",
-        "NoUserDetailsFoundInUserProfile.": "No User details found in UserProfile.",
-        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "No open skills available for the ePortfolio account."
+        "AuthenticationFailed": "Authentificatie mislukt.",
+        "TheEPortfolioAccountNotFoundIncorrect": "De ePortfolio-rekening niet gevonden/onjuist.",
+        "TheManikinDeviceIdNotFoundIncorrect": "De pop id niet gevonden/onjuist.",
+        "NoUserDetailsFoundInUserProfile.": "Geen gebruikersgegevens gevonden in UserProfile.",
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "Geen open vaardigheden beschikbaar voor het ePortfolio-account."
     },
     "ExceptionFileDocumentAPI": {
-        "AuthenticationFailed.": "Authentication Failed.",
-        "GivenFilestoreIdIsIncorrect": "The given filestore Id is incorrect.",
-        "GivenInstitutionIdIsIncorrect": "The given institution Id is incorrect.",
-        "GivenOrganizationIdIsIncorrect": "The given Organization Id is incorrect.",
-        "NoDocumentDetailsFoundForTheGivenFilestoreID": "No Document Details found for the given filestore ID.",
-        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
-        "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.",
-        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
+        "AuthenticationFailed.": "Authentificatie mislukt.",
+        "GivenFilestoreIdIsIncorrect": "De gegeven filestore Id is onjuist.",
+        "GivenInstitutionIdIsIncorrect": "Het Id van de bepaalde instelling is onjuist.",
+        "GivenOrganizationIdIsIncorrect": "De gegeven organisatie-informatie is onjuist.",
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "Geen documentdetails gevonden voor de gegeven filestore ID.",
+        "TheEPortfolioAccountNotFoundIncorrect": "De ePortfolio-rekening niet gevonden/onjuist.",
+        "UnableToGetTheFileStoreDetails": "Niet in staat om de File Store Details te krijgen.",
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "Het huidige organisatieknooppunt heeft geen virtuele directory geconfigureerd."
     }
 }
