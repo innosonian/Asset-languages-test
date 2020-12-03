@@ -48,7 +48,6 @@
         "OptionsTitle" : "Opciones"
     },
     "RealTimeTrainingPage" :{
-        "Página de entrenamiento en tiempo real",
         "NoOfCompressions" : "Número de compresiones",
         "Cycle" : "Ciclo",
         "CPREventPeriod" : "Período de RCP",
@@ -74,8 +73,8 @@
         "HandPosition" : "Posición\nde la mano",
         "ScoreOfCCF" : "Puntaje de CCF\n(factor de compresión toráxica)",
         "CompressionRate" : "Frecuencia de\ncompresión",
-        "CompressionRelease" : "Liberación de\compresión",
-        "CompressionDepth" : "Profundidad de\compresión",
+        "CompressionRelease" : "Liberación de\ncompresión",
+        "CompressionDepth" : "Profundidad de\ncompresión",
         "NoOfCompressions" : "Número de\ncompresión",
         "VentilationVolume" : "Volumen\nde compresiones",
         "VentilationFrequency" : "Frecuencia de\nventilación",
