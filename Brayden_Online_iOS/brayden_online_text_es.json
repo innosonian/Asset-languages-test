@@ -47,7 +47,8 @@
         "ScoreTitle" : "Resultados",
         "OptionsTitle" : "Opciones"
     },
-    "RealTimeTrainingPage" :{“Página de entrenamiento en tiempo real"
+    "RealTimeTrainingPage" :{
+        "Página de entrenamiento en tiempo real",
         "NoOfCompressions" : "Número de compresiones",
         "Cycle" : "Ciclo",
         "CPREventPeriod" : "Período de RCP",
