@@ -147,7 +147,7 @@
         "UserConnectSwitchButton" : "Los usuarios pueden conectar o desconectar maniquíes"
     },
     "VideoPage" : {
-        "SkipButton" : "Skip"
+        "SkipButton" : "Omitir"
     },
     "InformationPage" :{
         "Title" : "Information"
