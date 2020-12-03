@@ -149,70 +149,70 @@
         "SkipButton" : "Omitir"
     },
     "InformationPage" :{
-        "Title" : "Information"
+        "Title" : "Información"
     },
     "CheckDeviceStatus": {
-        "WifiConnRequired": "You're offline. Check your internet connection.",
-        "BLEConnRequired": "Bluetooth is deactivated. Check your bluetooth setting."
+        "WifiConnRequired": "Se encuentra desconectado. Revise su conexión de internet.",
+        "BLEConnRequired": "Bluetooth desactivado. Revise su configuración de bluetooth."
     },
     "PopupPrompt": {
         "PopupTermOK": "OK",
-        "PopupTermConfim": "Confirm",
-        "PopupTermCancel": "Cancel",
-        "PopupTermConnect": "Connect",
-        "PopupTermSwitch": "Switch",
-        "PopupTermEnd": "End",
-        "PopupTermReconnect": "Reconnect",
-        "SignInErrorTitle": "Sign In Error",
-        "SignInConnErrorContent": "You are not connected to the Internet.\nPlease check your network connection and try again.",
-        "SignInAuthErrorContent": "Please verify your username/password and try again.",
-        "BLEConnRequiredTitle": "Manikin Connection Required",
-        "BLEConnRequiredAdultTitle": "Adult Manikin Connection Required",
-        "BLEConnRequiredChildTitle": "Child Manikin Connection Required",
-        "BLEConnRequiredInfantTitle": "Infant Manikin Connection Required",
-        "BLEConnRequiredAdultContent": "Please connect adult manikin for the selected skills check.",
-        "BLEConnRequiredChildContent": "Please connect child manikin for the selected skills check.",
-        "BLEConnRequiredInfantContent": "Please connect infant manikin for the selected skills check.",
-        "ConnectatbleManikinList": "Connectable manikin",
-        "AppUpdateNeededTitle": "App Update Needed",
-        "AppUpdateNeededContent": "Update 'Resuscitation Skills' for the most accurate results.",
-        "BLEDisconnectedTitle": "Manikin Disconnected",
-        "BLEDisconnectedContent": "Please check the batteries and bluetooth connection and try again.",
+        "PopupTermConfim": "Confirmar",
+        "PopupTermCancel": "Cancelar",
+        "PopupTermConnect": "Conectar",
+        "PopupTermSwitch": "Cambiar",
+        "PopupTermEnd": "Terminar",
+        "PopupTermReconnect": "Reconectarse",
+        "SignInErrorTitle": "Error al iniciar sesión",
+        "SignInConnErrorContent": "No se encuentra conectado a internet.\nPor favor compruebe su conexión e intente de nuevo.",
+        "SignInAuthErrorContent": "Por favor verifique el nombre de usuario/contraseña e intente nuevamente.",
+        "BLEConnRequiredTitle": "Se requiere conexión con el maniquí",
+        "BLEConnRequiredAdultTitle": "Se requiere la conexión con el maniquí adulto",
+        "BLEConnRequiredChildTitle": "Requiere la conexión del maniquí de niño",
+        "BLEConnRequiredInfantTitle": "Requiere la conexión del maniquí infantil",
+        "BLEConnRequiredAdultContent": "Conecte el maniquí adulto para verificar las habilidades seleccionadas.",
+        "BLEConnRequiredChildContent": "Conecte el maniquí de niño para verificar las habilidades seleccionadas.",
+        "BLEConnRequiredInfantContent": "Conecte el maniquí infantil para verificar las habilidades seleccionadas.",
+        "ConnectatbleManikinList": "Maniquí conectable",
+        "AppUpdateNeededTitle": "Se requiere actualizar la aplicación",
+        "AppUpdateNeededContent": "Actualice las 'Habilidades de reanimación' para obtener resultados más precisos.",
+        "BLEDisconnectedTitle": "Maniquí desconectado",
+        "BLEDisconnectedContent": "Verifique las baterías y la conexión de Bluetooth y vuelva a intentarlo.",
         "EndSkillsCheckBProTitle": "Brayden Pro",
-        "EndSkillsCheckAdultTitle": "Brayden Pro Adult",
-        "EndSkillsCheckChildTitle": "Brayden Pro Child",
-        "EndSkillsCheckInfantTitle": "Brayden Infant",
-        "EndSkillsCheckTitle": "Are you sure you want to end this skills check?",
-        "NetErrUploadFailTitle": "Upload Error",
-        "NetErrUploadFailContent": "Upload train content failure. Please check the network connection",
+        "EndSkillsCheckAdultTitle": "Brayden Pro Adulto",
+        "EndSkillsCheckChildTitle": "Brayden Pro Niño",
+        "EndSkillsCheckInfantTitle": "Brayden Infantil",
+        "EndSkillsCheckTitle": "¿Está seguro de que desea terminar esta verificación de habilidades?",
+        "NetErrUploadFailTitle": "Error al cargar",
+        "NetErrUploadFailContent": "Error al cargar los datos de entrenamiento. Compruebe la conexión",
         "NetErrCommonTitle": "Error",
-        "NetErrCommonContent": "Failed to get result. Please check the network connection"
+        "NetErrCommonContent": "Imposible obtener los resultados. Compruebe la conexión"
     },
     "Report": {
-        "OverallResult": ""
+        "OverallResult": "Resultados generales"
     },
     "ExceptionCompletionAPI": {
-        "AuthenticationFailed": "Authentication Failed.",
-        "IncorrectCompletionDetails": "Incorrect Completion Details.",
-        "GivenOrganizationIdWasIncorrect.": "The given Organization Id was incorrect.",
-        "hStreamIdWasNotFoundIncorrect": "The hStream Id was not found/incorrect.",
-        "hStreamIdIsNotMappedWithAnyUser.": "The hStream Id is not mapped with any user."
+        "AuthenticationFailed": "Error de autentificación.",
+        "IncorrectCompletionDetails": "Detalles de finalización incorrectos.",
+        "GivenOrganizationIdWasIncorrect.": "El ID de la organización es incorrecto.",
+        "hStreamIdWasNotFoundIncorrect": "ID del hStream no encontrado / inválido.",
+        "hStreamIdIsNotMappedWithAnyUser.": "El ID de hStream no está asignado a ningún usuario."
     },
     "ExceptionOpenSkillsAPI": {
-        "AuthenticationFailed": "Authentication Failed.",
-        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
-        "TheManikinDeviceIdNotFoundIncorrect": "The manikin device id not found/incorrect.",
-        "NoUserDetailsFoundInUserProfile.": "No User details found in UserProfile.",
-        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "No open skills available for the ePortfolio account."
+        "AuthenticationFailed": "Autentificación fallida.",
+        "TheEPortfolioAccountNotFoundIncorrect": "La cuenta de ePortfolio no se encuentra / es incorrecta.",
+        "TheManikinDeviceIdNotFoundIncorrect": "La identificación del maniquí no se encuentra / es incorrecta.",
+        "NoUserDetailsFoundInUserProfile.": "No se encontraron detalles del usuario en perfil de usuario.",
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "No hay habilidades abiertas para la cuenta ePortfolio."
     },
     "ExceptionFileDocumentAPI": {
-        "AuthenticationFailed.": "Authentication Failed.",
-        "GivenFilestoreIdIsIncorrect": "The given filestore Id is incorrect.",
-        "GivenInstitutionIdIsIncorrect": "The given institution Id is incorrect.",
-        "GivenOrganizationIdIsIncorrect": "The given Organization Id is incorrect.",
-        "NoDocumentDetailsFoundForTheGivenFilestoreID": "No Document Details found for the given filestore ID.",
-        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
-        "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.",
-        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
+        "AuthenticationFailed.": "Autentificación incorrecta.",
+        "GivenFilestoreIdIsIncorrect": "El ID del almacén de archivos es incorrecto.",
+        "GivenInstitutionIdIsIncorrect": "La identificación de la institución es incorrecta.",
+        "GivenOrganizationIdIsIncorrect": "El ID de la organización es incorrecto.",
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "No se encontraron detalles del documento para el ID de almacén de archivos.",
+        "TheEPortfolioAccountNotFoundIncorrect": "La cuenta de ePortfolio no se encuentra / es incorrecta.",
+        "UnableToGetTheFileStoreDetails": "No se pueden obtener detalles del almacén de archivos.",
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "El nodo de la organización actual no cuenta con un directorio virtual configurado."
     }
 }
