@@ -12,12 +12,12 @@
     "AdminLoginPage": {
         "ClientID": "Client ID",
         "Code": "Code",
-        "SignIn": "TEST Connection"
+        "SignIn": "Connection"
     },
     "UserLoginPage": {
         "Email": "E-Mail",
         "Password": "Mot de passe",
-        "SignIn": "TEST Connection",
+        "SignIn": "Connection",
         "TrialSignIn": "Version d'essaie sans connection"
     },
     "DownloadContent": {
