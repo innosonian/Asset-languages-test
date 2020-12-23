@@ -10,7 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - name: Sync to S3
+      - name: Sync Brayden_Online_iOS (legacy)
+        author: 'Erick'
+        description: 'As of 2020-12-22, iosApp language urls refer to the root directory of S3 bucket. They are the same files as the below action, but they are synced until the link is disconnected.'
         uses: raulanatol/aws-s3-docker-action@master
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -19,3 +21,23 @@ jobs:
           AWS_BUCKET_NAME: ${{ secrets.AWS_S3_BUCKET }}
           SOURCE: 'Brayden_Online_iOS'
           TARGET: ''
+
+      - name: Sync Brayden_Online_iOS
+        uses: raulanatol/aws-s3-docker-action@master
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'eu-central-1'
+          AWS_BUCKET_NAME: ${{ secrets.AWS_S3_BUCKET }}
+          SOURCE: 'Brayden_Online_iOS'
+          TARGET: 'Brayden_Online_iOS'
+
+      - name: Sync Brayden_Online_Webapp
+        uses: raulanatol/aws-s3-docker-action@master
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'eu-central-1'
+          AWS_BUCKET_NAME: ${{ secrets.AWS_S3_BUCKET }}
+          SOURCE: 'Brayden_Online_Webapp'
+          TARGET: 'Brayden_Online_Webapp'
