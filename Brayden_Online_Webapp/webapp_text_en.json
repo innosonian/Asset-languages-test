@@ -1,3 +1,8 @@
 {
-    
+    "CarrouselPages": {
+        "YouCanConnectTo": "You can connect to",
+        "TouchIconToConnect": "Touch icon to connect",
+        "ChooseWhatYouWantToTrain": "Choose what you want to train!",
+        "ContinueButton" : "Continue"
+    }
 }
