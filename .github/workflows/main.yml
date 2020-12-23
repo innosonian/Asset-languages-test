@@ -11,8 +11,6 @@ jobs:
       - uses: actions/checkout@master
 
       - name: Sync Brayden_Online_iOS (legacy)
-        author: 'Erick'
-        description: 'As of 2020-12-22, iosApp language urls refer to the root directory of S3 bucket. They are the same files as the below action, but they are synced until the link is disconnected.'
         uses: raulanatol/aws-s3-docker-action@master
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
