@@ -1,0 +1,228 @@
+{
+    "CarrouselPages": {
+        "YouCanConnectTo": "U kunt verbinden met",
+        "TouchIconToConnect": "Raak het pictogram aan om te verbinden",
+        "ChooseWhatYouWantToTrain": "Kies wat u wilt trainen",
+        "ContinueButton": "Ga verder"
+    },
+    "StartPage": {
+        "Start": "TEST Start",
+        "PlanMemberLogin": "Als u Plan lid bent, klik dan hier."
+    },
+    "AdminLoginPage": {
+        "ClientID": "Klanten ID",
+        "Code": "Code",
+        "SignIn": "Log In"
+    },
+    "UserLoginPage": {
+        "Email": "E-mail",
+        "Password": "Wachtwoord",
+        "SignIn": "Log In",
+        "TrialSignIn": "Gebruik de proefversie zonder aan te melden"
+    },
+    "DownloadContent": {
+        "Downloading": "Download videobestanden\ndit duurt een paar minuten"
+    },
+    "MenuHome": {
+        "Title": "Startpagina",
+        "Subtitle": "Compressie, beademing of de volledige reanimatietraining met real-time feedback\n\nBegin de reanimatie wanneer u gereed bent",
+        "BodyMessage": "Raak het volwassene of baby pictogram aan om de dummy aan te sluiten",
+        "ExitButton": "Verlaat",
+        "LogOut": "Weet u zeker dat\nu wilt uitloggen?"
+    },
+    "MenuManikinConnectionsPopUp": {
+        "Title": "Verbindingen reanimatiepoppen"
+    },
+    "FirmwareUpdate": {
+        "Title": "Firmware update",
+        "NoteEndTop": "Update voltooid",
+        "NoteEndBottom": "Herstart de reanimatiepop"
+    },
+    "TrainningHistoryPage": {
+        "Title": "Training geschiedenis",
+        "SyncButton": "Synchroniseer alles",
+        "IDTitle": "ID",
+        "DateTimeTitle": "Datum / Tijd",
+        "OperationTitle": "Uitvoering",
+        "ScoreTitle": "Score",
+        "OptionsTitle": "Opties"
+    },
+    "RealTimeTrainingPage": {
+        "NoOfCompressions": "Aantal compressies",
+        "Cycle": "Cyclus",
+        "CPREventPeriod": "Reanimatiegebeurtenis",
+        "VentilationVolume": "Beademing volume",
+        "CompPerTime": "Comp. diepte * Comp. snelheid per keer",
+        "CompOverall": "Comp. diepte * Comp. snelheid algemeen",
+        "FingerPosition": "Vinger positie”",
+        "HandPosition": "Hand positie",
+        "StartButton": "Start training",
+        "StartAssesement": "Start",
+        "StopButton": "Stop training",
+        "StopPopUpText": "Wilt u stoppen met deze sessie?",
+        "ResultCalculatingPopOver": "Resultaten berekenen",
+        "Slow": "Langzaam",
+        "Deep": "Diep",
+        "Fast": "Snel",
+        "Shallow": "Ondiep"
+    },
+    "OverallResultPage": {
+        "Title": "Algehele\nprestatie",
+        "Score": "Score",
+        "FingerPosition": "Vinger\npositie",
+        "HandPosition": "Hand\npositie",
+        "ScoreOfCCF": "CCF\nScore",
+        "CompressionRate": "Compressiesnelheid",
+        "CompressionRelease": "Compressieverlossing",
+        "CompressionDepth": "Compressiediepte",
+        "NoOfCompressions": "Aantal\ncompressies",
+        "VentilationVolume": "Beademing\nvolume",
+        "VentilationFrequency": "Beademing\nfrequentie",
+        "AvgDepth": "Gemiddelde diepte",
+        "AvgVolume": "Gemiddeld volume",
+        "RescueNo": "Reddings aantal",
+        "RescueVolume": "Reddings volume",
+        "Pass": "Geslaagd",
+        "Fail": "Probeer het nog een keer"
+    },
+    "DetailedResultPage": {
+        "Title": "Nauwkeurige resultaten",
+        "SummaryTabTitle": "Samenvatting",
+        "ByCPRTabTitle": "Op basis van de vastgestelde reanimatie criteria",
+        "ByCycleTabTitle": "Op basis van de cyclus",
+        "OverallPerformance": "Algehele prestatie",
+        "Duration": "Duur",
+        "Cycle": "Cyclus",
+        "CCF": "CCF",
+        "OverallScore": "Algehele score",
+        "Compressions": "Compressies",
+        "AvgDepth": "Gemiddelde diepte",
+        "AvgRate": "Gemiddelde snelheid",
+        "Count": "Telling",
+        "AvgTimeOff": "Gemiddelde Time-off",
+        "FingerPositionAccuracy": "Nauwkeurigheid van de vingerpositie",
+        "HandPositionAccuracy": "Nauwkeurigheid van de handpositie",
+        "RescueVentilations": "Beademings reddingen",
+        "Ventilations": "Beademingen",
+        "AvgVolume": "Gemiddeld volume",
+        "Period": "Periode",
+        "Total": "Totaal",
+        "AvgSpeed": "Gemiddelde snelheid",
+        "TempGraphText": "Meer informatie (kwaliteit van de reanimatie) is beschikbaar via 'Brayden Online Expert'",
+        "FingerPosition": "6\nVinger positie",
+        "HandPosition": "6\nHand positie",
+        "ScoreOfCCF": "4\nScore van de\nCCF",
+        "CompressionRate": "3\nCompressie\nsnelheid",
+        "CompressionRelease": "2\nCompressieverlossing",
+        "CompressionDepth": "1\nCompressie\ndiepte",
+        "NoOfCompressions": "5\nNummer van\ncompressies",
+        "VentilationVolume": "7\nBeademings\nvolume",
+        "VentilationRate": "8\nBeademings\nsnelheid",
+        "RescueNo": "Reddings aantal",
+        "RescueVolume": "Reddings volume",
+        "Good": "Goed",
+        "TooShallow": "Te oppervlakkig",
+        "TooDeep": "Te diep",
+        "TooFast": "Te snel",
+        "TooSlow": "Te langzaam",
+        "TooFew": "Te weinig",
+        "TooMany": "Te veel",
+        "TooLittle": "Te weinig",
+        "TooMuch": "Te veel",
+        "Incorrect": "Fout",
+        "IncompleteRelease": "Onvolledige\nverlossing"
+    },
+    "SettingPage": {
+        "Title": "Instelling",
+        "Manufacture": "Fabrikant",
+        "Language": "Taal",
+        "LanguageValue": "Engels",
+        "AppVersion": "Applicatie versie",
+        "ApplyButton": "Nieuw menu toepassen",
+        "SwitchButton": "Wissel klant",
+        "HowToSeeRecords": "Hoe kan ik records bekijken",
+        "AllLocalRecords": "Alle plaatselijke records",
+        "Deactivated": "Gedeactiveerd",
+        "UserConnectSwitchButton": "Gebruikers kunnen de dummy's aansluiten of loskoppelen"
+    },
+    "VideoPage": {
+        "SkipButton": "Overslaan"
+    },
+    "InformationPage": {
+        "Title": "Informatie"
+    },
+    "CheckDeviceStatus": {
+        "WifiConnRequired": "U bent offline. Controleer uw internetverbinding.",
+        "BLEConnRequired": "Bluetooth is gedeactiveerd. Controleer uw bluetooth instellingen."
+    },
+    "PopupPrompt": {
+        "PopupTermOK": "OK",
+        "PopupTermConfim": "Bevestig",
+        "PopupTermCancel": "Annuleer",
+        "PopupTermConnect": "Verbind",
+        "PopupTermSwitch": "Overstappen naar",
+        "PopupTermEnd": "Einde",
+        "PopupTermReconnect": "Verbind opnieuw",
+        "SignInErrorTitle": "Log in Error",
+        "SignInConnErrorContent": "U bent niet verbonden met het internet.\nControleer uw netwerkverbinding en probeer het opnieuw.",
+        "SignInAuthErrorContent": "Controleer uw gebruikersnaam/wachtwoord en probeer het opnieuw.",
+        "BLEConnRequiredTitle": "Manikin-verbinding vereist",
+        "BLEConnRequiredAdultTitle": "Volwassene Manikin-verbinding vereist",
+        "BLEConnRequiredChildTitle": "Kind Manikin-verbinding vereist",
+        "BLEConnRequiredInfantTitle": "Baby Manikin-verbinding vereist",
+        "BLEConnRequiredAdultContent": "Sluit de volwassen dummy aan voor de geselecteerde vaardigheidstest.",
+        "BLEConnRequiredChildContent": "Sluit de kinderpop aan voor de geselecteerde vaardighedencheck.",
+        "BLEConnRequiredInfantContent": "Sluit de baby dummy aan voor de geselecteerde vaardighedencheck.",
+        "ConnectatbleManikinList": "Verbindbare dummy",
+        "AppUpdateNeededTitle": "App update noodzakelijk",
+        "AppUpdateNeededContent": "Update 'Reanimatievaardigheden' voor de meest nauwkeurige resultaten",
+        "BLEDisconnectedTitle": "Dummy ontkoppeld",
+        "BLEDisconnectedContent": "Controleer de batterijen en de bluetooth-verbinding en probeer het opnieuw.",
+        "EndSkillsCheckBProTitle": "Brayden Pro",
+        "EndSkillsCheckAdultTitle": "Brayden Pro Adult",
+        "EndSkillsCheckChildTitle": "Brayden Pro Child",
+        "EndSkillsCheckInfantTitle": "Brayden Infant",
+        "EndSkillsCheckTitle": "Weet u zeker dat u deze vaardighedencheck wilt beëindigen?",
+        "NetErrUploadFailTitle": "Upload fout",
+        "NetErrUploadFailContent": "Storing in de inhoud van de trein uploaden. Controleer de netwerkverbinding",
+        "NetErrCommonTitle": "Error",
+        "NetErrCommonContent": "Geen resultaat geboekt. Controleer de netwerkverbinding"
+    },
+    "Report": {
+        "OverallResult": "Algeheel resultaat"
+    },
+    "ExceptionCompletionAPI": {
+        "AuthenticationFailed": "Authentificatie mislukt.",
+        "IncorrectCompletionDetails": "Onjuiste voltooiing Details.",
+        "GivenOrganizationIdWasIncorrect.": "De gegeven organisatie-informatie was onjuist.",
+        "hStreamIdWasNotFoundIncorrect": "De hStream Id is niet gevonden/onjuist.",
+        "hStreamIdIsNotMappedWithAnyUser.": "De hStream Id is niet in kaart gebracht met een gebruiker."
+    },
+    "ExceptionOpenSkillsAPI": {
+        "AuthenticationFailed": "Authentificatie mislukt.",
+        "TheEPortfolioAccountNotFoundIncorrect": "De ePortfolio-rekening niet gevonden/onjuist.",
+        "TheManikinDeviceIdNotFoundIncorrect": "De pop id niet gevonden/onjuist.",
+        "NoUserDetailsFoundInUserProfile.": "Geen gebruikersgegevens gevonden in UserProfile.",
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "Geen open vaardigheden beschikbaar voor het ePortfolio-account."
+    },
+    "ExceptionFileDocumentAPI": {
+        "AuthenticationFailed.": "Authentificatie mislukt.",
+        "GivenFilestoreIdIsIncorrect": "De gegeven filestore Id is onjuist.",
+        "GivenInstitutionIdIsIncorrect": "Het Id van de bepaalde instelling is onjuist.",
+        "GivenOrganizationIdIsIncorrect": "De gegeven organisatie-informatie is onjuist.",
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "Geen documentdetails gevonden voor de gegeven filestore ID.",
+        "TheEPortfolioAccountNotFoundIncorrect": "De ePortfolio-rekening niet gevonden/onjuist.",
+        "UnableToGetTheFileStoreDetails": "Niet in staat om de File Store Details te krijgen.",
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "Het huidige organisatieknooppunt heeft geen virtuele directory geconfigureerd."
+    },
+    "WebOverwrite": {
+        "ConnectionNotify": "Trying bluetooth connection...",
+        "ConnectionSuccess": "Manikin connected!",
+        "GoBack": "Try again",
+        "GoTrainingList": "Go to training list",
+        "Disconnect": "Disconnect",
+        "NotFound": "Page not found",
+        "Redirect": "Click here to be redirected to the main page",
+        "Train": "Train"
+    }
+}
