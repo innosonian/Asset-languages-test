@@ -225,5 +225,9 @@
         "Redirect": "Click here to be redirected to the main page",
         "Train": "Train",
         "Manual": "Open manual"
+    },
+    "ResultDetail": {
+        "Title": "Detailed Results",
+        "SubTitle": "More information (quality of CPR) is available via \"Brayden Online Expert\""
     }
 }
