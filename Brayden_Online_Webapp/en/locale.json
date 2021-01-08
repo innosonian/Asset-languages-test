@@ -3,7 +3,8 @@
         "TouchIconToConnect": "Touch icon to connect"
     },
     "MenuHome": {
-        "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready"
+        "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
+        "Connect": "Connect"
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "No. of compressions",
