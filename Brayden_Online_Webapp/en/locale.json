@@ -23,7 +23,10 @@
         "Slow": "Slow",
         "Deep": "Deep",
         "Fast": "Fast",
-        "Shallow": "Shallow"
+        "Shallow": "Shallow",
+        "Pressed": "Pressed",
+        "Ventilation": "Ventilation",
+        "Duration": "Duration"
     },
     "OverallResultPage": {
         "Title": "Overall\nPerformance",
