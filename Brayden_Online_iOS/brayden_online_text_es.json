@@ -76,7 +76,7 @@
         "CompressionRelease" : "Liberación de\ncompresión",
         "CompressionDepth" : "Profundidad de\ncompresión",
         "NoOfCompressions" : "Número de\ncompresión",
-        "VentilationVolume" : "Volumen\nde compresiones",
+        "VentilationVolume" : "Volumen\nde ventilación",
         "VentilationFrequency" : "Frecuencia de\nventilación",
         "AvgDepth" : "Profundidad promedio",
         "AvgVolume" : "Volumen promedio",
