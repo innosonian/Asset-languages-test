@@ -12,7 +12,8 @@
         "UserID": "User ID",
         "Code": "Code",
         "LogIn": "Log in",
-        "Cancel": "Cancel"
+        "Cancel": "Cancel",
+        "Error": "Invalid username or password"
     },
     "MenuHome": {
         "Title": "Trainings Sessions",
