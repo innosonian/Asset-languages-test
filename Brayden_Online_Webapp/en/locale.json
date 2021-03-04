@@ -2,6 +2,10 @@
     "CarrouselPages": {
         "TouchIconToConnect": "Touch icon to connect"
     },
+    "Welcome": {
+        "Start": "Start",
+        "Member": "If you are member click here"
+    },
     "MenuHome": {
         "Title": "Trainings Sessions",
         "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
