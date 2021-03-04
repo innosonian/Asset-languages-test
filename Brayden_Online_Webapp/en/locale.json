@@ -6,6 +6,14 @@
         "Start": "Start",
         "Member": "If you are member click here"
     },
+    "Login": {
+        "Title": "LOGIN",
+        "ClientID": "Client ID",
+        "UserID": "User ID",
+        "Code": "Code",
+        "LogIn": "Log in",
+        "Cancel": "Cancel"
+    },
     "MenuHome": {
         "Title": "Trainings Sessions",
         "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
