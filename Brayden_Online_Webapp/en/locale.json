@@ -120,5 +120,10 @@
         "AvgSpeed": "Avg. Speed",
         "AvgRate": "Avg. Rate",
         "PercentCCF": "Percent of CCF"
+    },
+    "TopBar": {
+        "TrainingRecord": "Training records",
+        "Profile": "Profile",
+        "LogOut": "Log out"
     }
 }
