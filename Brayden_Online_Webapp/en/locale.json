@@ -124,6 +124,7 @@
     "TopBar": {
         "TrainingRecord": "Training records",
         "Profile": "Profile",
-        "LogOut": "Log out"
+        "LogOut": "Log out",
+        "LogIn": "Log in"
     }
 }
