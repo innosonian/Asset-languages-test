@@ -45,6 +45,11 @@
         "Ventilation": "Ventilation",
         "Duration": "Duration"
     },
+    "realtime_feedback_msg" : {
+        "initial_msg": "Do CPR",
+        "perfect_cpr": "Perfect",
+        "too_deep": "Do not press too deep"
+    },
     "OverallResultPage": {
         "Title": "Overall\nPerformance",
         "Score": "Score",
