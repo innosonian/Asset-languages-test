@@ -45,7 +45,7 @@
         "Ventilation": "Ventilation",
         "Duration": "Duration"
     },
-    "realtime_feedback_msg" : {
+    "RealtimeFeedBackMessage" : {
         "initial_msg": "Do CPR",
         "perfect_cpr": "Perfect",
         "too_deep": "Do not press too deep",
