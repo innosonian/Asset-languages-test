@@ -48,7 +48,12 @@
     "realtime_feedback_msg" : {
         "initial_msg": "Do CPR",
         "perfect_cpr": "Perfect",
-        "too_deep": "Do not press too deep"
+        "too_deep": "Do not press too deep",
+        "too_shallow": "Press deeper",
+        "too_fast":"Press slower",
+        "too_slow":  "Press faster",
+        "recoil": "Release chest enough",
+        "hands_off": "Do CPR"
     },
     "OverallResultPage": {
         "Title": "Overall\nPerformance",
