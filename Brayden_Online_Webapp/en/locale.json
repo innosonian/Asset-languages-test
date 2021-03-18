@@ -57,11 +57,7 @@
     "vent_too_much": "Too much ventilation",
     "vent_too_little": "Too little ventilation",
     "vent_too_quick": "Tough! breath gentle",
-    "vent_good": "Good ventilation",
-    "vent_too_slow": "Ventilate faster",
-    "vent_too_fast": "Ventilate slower",
-    "vent_too_shallow": "Do not press to deep",
-    "vent_too_deep": "Press deeper"
+    "vent_good": "Good ventilation"
   },
   "OverallResultPage": {
     "Title": "Overall\nPerformance",
