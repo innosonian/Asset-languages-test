@@ -54,6 +54,7 @@
     "too_slow": "Too slow",
     "recoil": "Release chest enough",
     "hands_off": "Do CPR",
+    "wrong_pos": "Wrong hand position",
     "vent_too_much": "Too much ventilation",
     "vent_too_little": "Too little ventilation",
     "vent_too_quick": "Tough! breath gentle",
