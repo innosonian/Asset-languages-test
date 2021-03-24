@@ -54,14 +54,11 @@
     "too_slow": "Too slow",
     "recoil": "Release chest enough",
     "hands_off": "Do CPR",
+    "wrong_pos": "Wrong hand position",
     "vent_too_much": "Too much ventilation",
     "vent_too_little": "Too little ventilation",
     "vent_too_quick": "Tough! breath gentle",
-    "vent_good": "Good ventilation",
-    "vent_too_slow": "Ventilate faster",
-    "vent_too_fast": "Ventilate slower",
-    "vent_too_shallow": "Do not press to deep",
-    "vent_too_deep": "Press deeper"
+    "vent_good": "Good ventilation"
   },
   "OverallResultPage": {
     "Title": "Overall\nPerformance",
@@ -144,5 +141,18 @@
     "Profile": "Profile",
     "LogOut": "Log out",
     "LogIn": "Log in"
+  },
+  "Notification": {
+    "CertificateSent": "Certificate sent on your email address"
+  },
+  "Error": {
+    "Title": {
+      "ManikinDisconnected": "Manikin disconnected",
+      "GattNotFound": "Can't connect to the manikin",
+      "UnexpectedError": "Unexpected error"
+    },
+    "ManikinDisconnected": "Your manikin was disconnected. Please check the battery and try to reconnect it",
+    "GattNotFound": "Error during manikin connection",
+    "UnexpectedError": "Oups, an internal error happened. click to restart the application"
   }
 }
