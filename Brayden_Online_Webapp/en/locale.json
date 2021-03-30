@@ -158,6 +158,10 @@
   "Record": {
     "Navigation": {
       "GoBack": "Go to record list"
-    }
+    },
+    "RecordType": "Record type",
+    "Date": "Date",
+    "PercentCCF": "% of CCF",
+    "Delete": "Delete"
   }
 }
