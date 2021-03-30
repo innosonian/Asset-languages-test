@@ -154,5 +154,10 @@
     "ManikinDisconnected": "Your manikin was disconnected. Please check the battery and try to reconnect it",
     "GattNotFound": "Error during manikin connection",
     "UnexpectedError": "Oups, an internal error happened. click to restart the application"
+  },
+  "Record": {
+    "Navigation": {
+      "GoBack": "Go to record list"
+    }
   }
 }
