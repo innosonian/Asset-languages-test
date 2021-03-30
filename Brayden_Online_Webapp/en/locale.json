@@ -162,6 +162,7 @@
     "RecordType": "Record type",
     "Date": "Date",
     "PercentCCF": "% of CCF",
-    "Delete": "Delete"
+    "Delete": "Delete",
+    "NotFound": "No records found"
   }
 }
