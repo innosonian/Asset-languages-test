@@ -159,10 +159,11 @@
     "Navigation": {
       "GoBack": "Go to record list"
     },
-    "RecordType": "Record type",
+    "RecordType": "Training type",
+    "Manikin": "Manikin",
     "Date": "Date",
-    "PercentCCF": "% of CCF",
-    "Delete": "Delete",
+    "ScoreCCF": "Score",
+    "Certificate": "Certificate",
     "NotFound": "No records found"
   }
 }
