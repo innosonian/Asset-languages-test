@@ -149,11 +149,13 @@
     "Title": {
       "ManikinDisconnected": "Manikin disconnected",
       "GattNotFound": "Can't connect to the manikin",
-      "UnexpectedError": "Unexpected error"
+      "UnexpectedError": "Unexpected error",
+      "ServerNoResponse": "No response from the server"
     },
     "ManikinDisconnected": "Your manikin was disconnected. Please check the battery and try to reconnect it",
     "GattNotFound": "Error during manikin connection",
-    "UnexpectedError": "Oups, an internal error happened. click to restart the application"
+    "UnexpectedError": "Oups, an internal error happened. click to restart the application",
+    "ServerNoResponse": "The server can't create any result. Try another training session"
   },
   "Record": {
     "Navigation": {
