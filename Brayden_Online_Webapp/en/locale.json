@@ -166,6 +166,8 @@
     "Date": "Date",
     "ScoreCCF": "Score",
     "Certificate": "Certificate",
-    "NotFound": "No records found"
+    "NotFound": "No records found",
+    "Yes": "Yes",
+    "No": "No"
   }
 }
