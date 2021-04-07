@@ -143,7 +143,10 @@
     "LogIn": "Log in"
   },
   "Notification": {
-    "CertificateSent": "Certificate sent on your email address"
+    "Certificate": {
+      "Title": "Congratulation",
+      "Content": "Well done! A Certificate was sent at your email address"
+    }
   },
   "Error": {
     "Title": {
