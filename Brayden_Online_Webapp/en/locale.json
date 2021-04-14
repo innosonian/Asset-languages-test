@@ -181,6 +181,8 @@
     "Protocol": "Protocol version",
     "Battery": "Battery",
     "Model": "Model type",
-    "ConnectedAs": "Connected as"
+    "ConnectedAs": "Connected as",
+    "Disconnect": "Disconnect",
+    "Close": "Close"
   }
 }
