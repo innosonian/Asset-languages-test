@@ -173,5 +173,14 @@
     "NotFound": "No records found",
     "Yes": "Yes",
     "No": "No"
+  },
+  "Hardware": {
+    "Firmware": "Firmware version",
+    "Circuit": "Circuit version",
+    "DeviceID": "Device ID",
+    "Protocol": "Protocol version",
+    "Battery": "Battery",
+    "Model": "Model type",
+    "ConnectedAs": "Connected as"
   }
 }
