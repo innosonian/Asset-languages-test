@@ -193,19 +193,19 @@
       "Cycle": "Compression by cycle"
     },
     "VentilationScore": {
-      "CompressionScore": "Ventilation score",
+      "VentilationScore": "Ventilation score",
       "LowestScore": "Lowest score",
       "HighestScore": "Highest score",
       "Cycle": "Ventilation by cycle"
     },
     "QualityCompression": {
-      "CompressionScore": "Compression score",
+      "QualityComp": "Quality of compression",
       "AssertedCompression": "Asserted compression",
       "AssertedRecoil": "Asserted recoil",
       "Cycle": "Quality of compression by cycle"
     },
     "Oxygen": {
-      "oxygenLvl": "Oxygen level",
+      "OxygenLvl": "Oxygen level",
       "HighestLvl": "Highest level",
       "LowestLevel": "Lowest level",
       "Cycle": "Oxygen level by cycle"
