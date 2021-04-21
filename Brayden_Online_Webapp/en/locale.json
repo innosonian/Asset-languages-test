@@ -184,5 +184,42 @@
     "ConnectedAs": "Connected as",
     "Disconnect": "Disconnect",
     "Close": "Close"
+  },
+  "QualityOfCpr": {
+    "Compression": {
+      "title": "Compression",
+      "CompressionScore": "Compression score",
+      "AverageDeep": "Average deepness",
+      "AverageRecoil": "Average recoil",
+      "Cycle": "Compression by cycle"
+    },
+    "VentilationScore": {
+      "title": "Compression",
+      "CompressionScore": "Compression score",
+      "AverageDeep": "Average deepness",
+      "AverageRecoil": "Average recoil",
+      "Cycle": "Compression by cycle"
+    },
+    "QualityCompression": {
+      "title": "Compression",
+      "CompressionScore": "Compression score",
+      "AverageDeep": "Average deepness",
+      "AverageRecoil": "Average recoil",
+      "Cycle": "Compression by cycle"
+    },
+    "Oxygen": {
+      "title": "Compression",
+      "CompressionScore": "Compression score",
+      "AverageDeep": "Average deepness",
+      "AverageRecoil": "Average recoil",
+      "Cycle": "Compression by cycle"
+    },
+    "QualityOfCpr": {
+      "title": "Compression",
+      "CompressionScore": "Compression score",
+      "AverageDeep": "Average deepness",
+      "AverageRecoil": "Average recoil",
+      "Cycle": "Compression by cycle"
+    }
   }
 }
