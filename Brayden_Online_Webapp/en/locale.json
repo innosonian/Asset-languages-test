@@ -187,35 +187,30 @@
   },
   "QualityOfCpr": {
     "Compression": {
-      "title": "Compression",
       "CompressionScore": "Compression score",
       "AverageDeep": "Average deepness",
       "AverageRecoil": "Average recoil",
       "Cycle": "Compression by cycle"
     },
     "VentilationScore": {
-      "title": "Compression",
-      "CompressionScore": "Compression score",
-      "AverageDeep": "Average deepness",
-      "AverageRecoil": "Average recoil",
-      "Cycle": "Compression by cycle"
+      "CompressionScore": "Ventilation score",
+      "LowestScore": "Lowest score",
+      "HighestScore": "Highest score",
+      "Cycle": "Ventilation by cycle"
     },
     "QualityCompression": {
-      "title": "Compression",
       "CompressionScore": "Compression score",
-      "AverageDeep": "Average deepness",
-      "AverageRecoil": "Average recoil",
-      "Cycle": "Compression by cycle"
+      "AssertedCompression": "Asserted compression",
+      "AssertedRecoil": "Asserted recoil",
+      "Cycle": "Quality of compression by cycle"
     },
     "Oxygen": {
-      "title": "Compression",
-      "CompressionScore": "Compression score",
-      "AverageDeep": "Average deepness",
-      "AverageRecoil": "Average recoil",
-      "Cycle": "Compression by cycle"
+      "oxygenLvl": "Oxygen level",
+      "HighestLvl": "Highest level",
+      "LowestLevel": "Lowest level",
+      "Cycle": "Oxygen level by cycle"
     },
     "QualityOfCpr": {
-      "title": "Compression",
       "CompressionScore": "Compression score",
       "AverageDeep": "Average deepness",
       "AverageRecoil": "Average recoil",
