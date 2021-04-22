@@ -211,9 +211,9 @@
       "Cycle": "Oxygen level by cycle"
     },
     "QualityOfCpr": {
-      "CompressionScore": "Compression score",
-      "AverageDeep": "Average deepness",
-      "AverageRecoil": "Average recoil",
+      "QualityOfCpr": "Average quality of cpr",
+      "Highest": "Highest quality of cpr",
+      "Lowest": "Lowest quality of cpr",
       "Cycle": "Compression by cycle"
     }
   }
