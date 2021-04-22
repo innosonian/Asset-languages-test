@@ -193,9 +193,9 @@
       "Cycle": "Compression by cycle"
     },
     "VentilationScore": {
-      "VentilationScore": "Ventilation score",
-      "LowestScore": "Lowest score",
-      "HighestScore": "Highest score",
+      "VentilationScore": "Average ventilation",
+      "LowestScore": "Lowest ventilation",
+      "HighestScore": "Highest ventilation",
       "Cycle": "Ventilation by cycle"
     },
     "QualityCompression": {
