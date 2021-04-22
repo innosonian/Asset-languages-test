@@ -207,7 +207,7 @@
     "Oxygen": {
       "OxygenLvl": "Oxygen level",
       "HighestLvl": "Highest level",
-      "LowestLevel": "Lowest level",
+      "LowestLvl": "Lowest level",
       "Cycle": "Oxygen level by cycle"
     },
     "QualityOfCpr": {
