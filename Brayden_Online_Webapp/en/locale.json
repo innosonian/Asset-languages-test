@@ -188,7 +188,9 @@
       "CompressionScore": "Compression score",
       "AverageDeep": "Average deepness",
       "AverageRecoil": "Average recoil",
-      "Cycle": "Compression by cycle"
+      "Cycle": "Compression by cycle",
+      "Recoil": "Recoil",
+      "Deepness": "Deepness"
     },
     "VentilationScore": {
       "VentilationScore": "Average ventilation",
