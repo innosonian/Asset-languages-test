@@ -85,8 +85,6 @@
     "DetailResultLink": "See Detailed Results",
     "GoTrainingList": "Go to training list",
     "Disconnect": "Disconnect",
-    "NotFound": "Page not found",
-    "Redirect": "Click here to be redirected to the main page",
     "Train": "Train",
     "Manual": "Open manual",
     "ResultLink": "See Result"
@@ -216,5 +214,10 @@
       "Lowest": "Lowest quality of cpr",
       "Cycle": "Compression by cycle"
     }
+  },
+  "HttpError": {
+    "NotFound": "Page not found",
+    "Redirect": "Click here to be redirected to the main page",
+    "Forbidden": "Oups access forbidden"
   }
 }
