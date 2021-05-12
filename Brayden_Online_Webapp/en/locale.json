@@ -85,8 +85,6 @@
     "DetailResultLink": "See Detailed Results",
     "GoTrainingList": "Go to training list",
     "Disconnect": "Disconnect",
-    "NotFound": "Page not found",
-    "Redirect": "Click here to be redirected to the main page",
     "Train": "Train",
     "Manual": "Open manual",
     "ResultLink": "See Result"
@@ -153,12 +151,14 @@
       "ManikinDisconnected": "Manikin disconnected",
       "GattNotFound": "Can't connect to the manikin",
       "UnexpectedError": "Unexpected error",
-      "ServerNoResponse": "No response from the server"
+      "ServerNoResponse": "No response from the server",
+      "FirmwareUpdate": "Manikin update"
     },
     "ManikinDisconnected": "Your manikin was disconnected. Please check the battery and try to reconnect it",
     "GattNotFound": "Error during manikin connection",
     "UnexpectedError": "Oups, an internal error happened. click to restart the application",
-    "ServerNoResponse": "The server can't create any result. Try another training session"
+    "ServerNoResponse": "The server can't create any result. Try another training session",
+    "FirmwareUpdate": "Your manikin need to be updated please update it and try to reconnect it"
   },
   "Record": {
     "Navigation": {
@@ -184,5 +184,44 @@
     "ConnectedAs": "Connected as",
     "Disconnect": "Disconnect",
     "Close": "Close"
+  },
+  "QualityOfCpr": {
+    "Compression": {
+      "CompressionScore": "Compression score",
+      "AverageDeep": "Average deepness",
+      "AverageRecoil": "Average recoil",
+      "Cycle": "Compression by cycle",
+      "Recoil": "Recoil",
+      "Deepness": "Deepness"
+    },
+    "VentilationScore": {
+      "VentilationScore": "Average ventilation",
+      "LowestScore": "Lowest ventilation",
+      "HighestScore": "Highest ventilation",
+      "Cycle": "Ventilation by cycle"
+    },
+    "QualityCompression": {
+      "QualityComp": "Quality of compression",
+      "AssertedCompression": "Asserted compression",
+      "AssertedRecoil": "Asserted recoil",
+      "Cycle": "Quality of compression by cycle"
+    },
+    "Oxygen": {
+      "OxygenLvl": "Oxygen level",
+      "HighestLvl": "Highest level",
+      "LowestLvl": "Lowest level",
+      "Cycle": "Oxygen level by cycle"
+    },
+    "QualityOfCpr": {
+      "QualityOfCpr": "Average quality of cpr",
+      "Highest": "Highest quality of cpr",
+      "Lowest": "Lowest quality of cpr",
+      "Cycle": "Compression by cycle"
+    }
+  },
+  "HttpError": {
+    "NotFound": "Page not found",
+    "Redirect": "Click here to be redirected to the main page",
+    "Forbidden": "Oups access forbidden"
   }
 }
