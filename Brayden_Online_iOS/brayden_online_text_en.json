@@ -140,7 +140,7 @@
         "AppVersion" : "Application Version",
         "ApplyButton" : "Apply new menu",
         "SwitchButton" : "Switch client",
-        "HowToSeeRecords" : "How to see records",
+        "HowToSeeRecords" : "Auto log out after",
         "AllLocalRecords" : "All local records",
         "Deactivated" : "Deactivated",
         "UserConnectSwitchButton" : "Users can connect or disconnect manikins"
