@@ -140,7 +140,7 @@
         "AppVersion": "어플리케이션 버전",
         "ApplyButton": "새 메뉴 적용",
         "SwitchButton": "고객 전환",
-        "HowToSeeRecords": "점수 보기 도움말",
+        "HowToSeeRecords": "자동 로그아웃",
         "AllLocalRecords": "모든 기록",
         "Deactivated": "비활성 상태",
         "UserConnectSwitchButton": "사용자가 마네킹을 연결하거나 연결 해제할 수 있습니다"
