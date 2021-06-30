@@ -217,6 +217,9 @@
       "Highest": "Highest quality of cpr",
       "Lowest": "Lowest quality of cpr",
       "Cycle": "Compression by cycle"
+    },
+    "TimeOff": {
+      "Legend": "Time off"
     }
   },
   "HttpError": {
