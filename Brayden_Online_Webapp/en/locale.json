@@ -201,13 +201,13 @@
       "Cycle": "Ventilation by cycle"
     },
     "QualityCompression": {
-      "QualityComp": "Compression efficiency",
+      "QualityComp": "Compression performance",
       "AssertedCompression": "Asserted compression",
       "AssertedRecoil": "Asserted recoil",
       "Cycle": "Quality of compression by cycle"
     },
     "Oxygen": {
-      "OxygenLvl": "Oxygen level",
+      "OxygenLvl": "Ventilation efficacy",
       "HighestLvl": "Highest level",
       "LowestLvl": "Lowest level",
       "Cycle": "Oxygen level by cycle"
