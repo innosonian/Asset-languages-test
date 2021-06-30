@@ -219,7 +219,7 @@
       "Cycle": "Compression by cycle"
     },
     "TimeOff": {
-      "Legend": "Time off"
+      "Legend": "Hands off time"
     }
   },
   "HttpError": {
