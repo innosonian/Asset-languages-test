@@ -133,7 +133,8 @@
     "Total": "Total",
     "AvgSpeed": "Avg. Speed",
     "AvgRate": "Avg. Rate",
-    "PercentCCF": "Percent of CCF"
+    "PercentCCF": "Percent of CCF",
+    "RescueVentilations": "Rescue ventilations"
   },
   "TopBar": {
     "TrainingRecord": "Training records",
