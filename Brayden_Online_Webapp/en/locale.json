@@ -81,6 +81,7 @@
     "Fail": "Try again"
   },
   "WebOverwrite": {
+    "ConnectManikin": "Please Connect the manikin",
     "ConnectionNotify": "Trying bluetooth connection...",
     "ConnectionSuccess": "Manikin connected!",
     "DetailResultLink": "See Detailed Results",
@@ -188,6 +189,7 @@
     "Close": "Close"
   },
   "QualityOfCpr": {
+    "Ranking": "Ranking",
     "Compression": {
       "CompressionScore": "Compression score",
       "AverageDeep": "Average deepness",
