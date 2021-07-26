@@ -189,7 +189,7 @@
     "Close": "Close"
   },
   "QualityOfCpr": {
-    "Ranking": "Ranking",
+    "Ranking": "Conclusion",
     "Compression": {
       "CompressionScore": "Compression score",
       "AverageDeep": "Average deepness",
@@ -217,7 +217,7 @@
       "Cycle": "Oxygen level by cycle"
     },
     "QualityOfCpr": {
-      "QualityOfCpr": "Quality of CPR",
+      "QualityOfCpr": "Continuous Quality of CPR",
       "Highest": "Highest quality of cpr",
       "Lowest": "Lowest quality of cpr",
       "Cycle": "Compression by cycle"
