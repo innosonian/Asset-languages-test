@@ -24,19 +24,10 @@
     "InfantMannikin": "Infant Mannikin"
   },
   "RealTimeTrainingPage": {
-    "NoOfCompressions": "No. of compressions",
     "Cycle": "Cycle",
-    "CPREventPeriod": "CPR Event Period",
-    "VentilationVolume": "Ventilation Volume",
-    "CompPerTime": "Comp. depth * Comp. rate / per time",
-    "CompOverall": "Comp. depth * Comp. rate / in overall",
-    "FingerPosition": "Finger Position",
-    "HandPosition": "Hand Position",
     "StartButton": "Start training",
     "StartAssesement": "Start",
     "StopButton": "Stop training",
-    "StopPopUpText": "Do you want to stop this session?",
-    "ResultCalculatingPopOver": "Results Calculating",
     "Slow": "Slow",
     "Deep": "Deep",
     "Fast": "Fast",
@@ -190,31 +181,9 @@
   },
   "QualityOfCpr": {
     "Ranking": "Conclusion",
-    "Compression": {
-      "CompressionScore": "Compression score",
-      "AverageDeep": "Average deepness",
-      "AverageRecoil": "Average recoil",
-      "Cycle": "Compression by cycle",
-      "Recoil": "Recoil",
-      "Deepness": "Deepness"
-    },
-    "VentilationScore": {
-      "VentilationScore": "Average ventilation",
-      "LowestScore": "Lowest ventilation",
-      "HighestScore": "Highest ventilation",
-      "Cycle": "Ventilation by cycle"
-    },
-    "QualityCompression": {
-      "QualityComp": "Compression performance",
-      "AssertedCompression": "Asserted compression",
-      "AssertedRecoil": "Asserted recoil",
-      "Cycle": "Quality of compression by cycle"
-    },
+
     "Oxygen": {
-      "OxygenLvl": "Ventilation efficacy",
-      "HighestLvl": "Highest level",
-      "LowestLvl": "Lowest level",
-      "Cycle": "Oxygen level by cycle"
+      "OxygenLvl": "Ventilation efficacy"
     },
     "QualityOfCpr": {
       "QualityOfCpr": "Continuous Quality of CPR",
