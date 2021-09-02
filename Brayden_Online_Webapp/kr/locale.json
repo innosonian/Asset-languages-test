@@ -1,24 +1,24 @@
 {
   "CarrouselPages": {
-    "TouchIconToConnect": "Touch icon to connect"
+    "TouchIconToConnect": "아이콘을 눌러 연결하세요."
   },
   "Welcome": {
-    "Start": "Start",
-    "Member": "If you are member click here"
+    "Start": "시작",
+    "Member": "멤버면 여길 누르세요."
   },
   "Login": {
-    "Title": "LOGIN",
-    "ClientID": "Client ID",
-    "UserID": "User ID",
-    "Code": "Code",
-    "LogIn": "Log in",
-    "Cancel": "Cancel",
-    "Error": "Invalid username or password"
+    "Title": "로그인",
+    "ClientID": "클라이언트 아이디",
+    "UserID": "유저 아이디",
+    "Code": "패스워드",
+    "LogIn": "로그인",
+    "Cancel": "취소",
+    "Error": "유효하지 않은 유저 아이디 혹은 패스워드입니다."
   },
   "MenuHome": {
-    "Title": "Trainings Sessions",
-    "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
-    "Connect": "Connect",
+    "Title": "훈련 모드",
+    "Subtitle": "실시간 피드백이 포함된 압박, 호흡 또는 전체 CPR 교육 과목의 준비가 되었으면 CPR 평가를 시작합니다.",
+    "Connect": "연결",
     "BabyMannikin": "Baby Mannikin",
     "AdultMannikin": "Adult Mannikin",
     "InfantMannikin": "Infant Mannikin"
