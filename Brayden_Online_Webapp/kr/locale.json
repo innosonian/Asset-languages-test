@@ -1,0 +1,203 @@
+{
+  "CarrouselPages": {
+    "TouchIconToConnect": "Touch icon to connect"
+  },
+  "Welcome": {
+    "Start": "Start",
+    "Member": "If you are member click here"
+  },
+  "Login": {
+    "Title": "LOGIN",
+    "ClientID": "Client ID",
+    "UserID": "User ID",
+    "Code": "Code",
+    "LogIn": "Log in",
+    "Cancel": "Cancel",
+    "Error": "Invalid username or password"
+  },
+  "MenuHome": {
+    "Title": "Trainings Sessions",
+    "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
+    "Connect": "Connect",
+    "BabyMannikin": "Baby Mannikin",
+    "AdultMannikin": "Adult Mannikin",
+    "InfantMannikin": "Infant Mannikin"
+  },
+  "RealTimeTrainingPage": {
+    "Cycle": "Cycle",
+    "StartButton": "Start training",
+    "StartAssesement": "Start",
+    "StopButton": "Stop training",
+    "Slow": "Slow",
+    "Deep": "Deep",
+    "Fast": "Fast",
+    "Shallow": "Shallow",
+    "Pressed": "Pressed",
+    "Ventilation": "Ventilation",
+    "Duration": "Duration"
+  },
+  "RealtimeFeedBackMessage": {
+    "initial_msg": "Do CPR",
+    "perfect_cpr": "Good, keep CPR",
+    "too_deep": "Too deep",
+    "too_shallow": "Too shallow",
+    "too_fast": "Too fast",
+    "too_slow": "Too slow",
+    "recoil": "Release chest enough",
+    "hands_off": "Do CPR",
+    "wrong_pos": "Wrong hand position",
+    "vent_too_much": "Too much ventilation",
+    "vent_too_little": "Too little ventilation",
+    "vent_too_quick": "Tough! breath gentle",
+    "vent_good": "Good ventilation"
+  },
+  "OverallResultPage": {
+    "Title": "Overall\nPerformance",
+    "Score": "Score",
+    "FingerPosition": "Finger\nposition",
+    "HandPosition": "Hand\nposition",
+    "ScoreOfCCF": "Score of\nCCF",
+    "CompressionRate": "Compression\nrate",
+    "CompressionRelease": "Compression\nrelease",
+    "CompressionDepth": "Compression\ndepth",
+    "NoOfCompressions": "No. of\nCompressions",
+    "VentilationVolume": "Ventilation\nVolume",
+    "VentilationFrequency": "Ventilation\nfrequency",
+    "RescueVentilation": "Rescue Ventilation",
+    "AvgDepth": "Avg. Depth",
+    "AvgVolume": "Avg. Volume",
+    "RescueNo": "Rescue No.",
+    "RescueVolume": "Rescue volume",
+    "Pass": "Passed",
+    "Fail": "Try again"
+  },
+  "WebOverwrite": {
+    "ConnectManikin": "Please Connect the manikin",
+    "ConnectionNotify": "Trying bluetooth connection...",
+    "ConnectionSuccess": "Manikin connected!",
+    "DetailResultLink": "See Detailed Results",
+    "GoTrainingList": "Go to training list",
+    "Disconnect": "Disconnect",
+    "Train": "Train",
+    "Manual": "Open manual",
+    "ResultLink": "Back to overall result"
+  },
+  "ResultDetail": {
+    "Title": "Detailed Results",
+    "SubTitle": "More information (quality of CPR) is available via \"Brayden Online Expert\"",
+    "Tabs": {
+      "Summary": "Summary",
+      "Cpr": "By CPR metric criteria",
+      "Cycle": "By Cycle"
+    },
+    "CompDepth": "Compression Depth",
+    "Comp": "No. of Compressions",
+    "CompRelease": "Compression Release",
+    "HandPos": "Hand Position",
+    "CompRate": "Compression Rate",
+    "VentVol": "Ventilation Volume",
+    "CCF": "Score of CCF",
+    "VentFreq": "Ventilation Frequency",
+    "TooShallow": "Too Shallow",
+    "Good": "Good",
+    "TooDeep": "Too Deep",
+    "TooFew": "Too Few",
+    "TooMany": "Too Many",
+    "IncompleteRelease": "Incomplete Release",
+    "Incorrect": "Incorrect",
+    "TooSlow": "Too Slow ",
+    "TooFast": "Too Fast",
+    "TooLittle": "Too Little",
+    "TooMuch": "Too Much",
+    "Score": "Score",
+    "Comps": "Compressions",
+    "Ventilations": "Ventilations",
+    "OverallPerf": "Overall Performance",
+    "OverallScore": "Overall Score",
+    "Duration": "Duration",
+    "Cycle": "Cycle",
+    "AvgDepth": "Avg. Depth",
+    "Count": "Count",
+    "AvgTimeOff": "Avg. Time-off",
+    "Avg. Rate": "Avg. Rate",
+    "HandPosAccuracy": "Hand position accuracy",
+    "AvgVolume": "Avg. Volume",
+    "Total": "Total",
+    "AvgSpeed": "Avg. Speed",
+    "AvgRate": "Avg. Rate",
+    "PercentCCF": "Percent of CCF",
+    "RescueVentilations": "Rescue ventilations"
+  },
+  "TopBar": {
+    "TrainingRecord": "Training records",
+    "Profile": "Profile",
+    "LogOut": "Log out",
+    "LogIn": "Log in"
+  },
+  "Notification": {
+    "Certificate": {
+      "Title": "Congratulation",
+      "Content": "Well done! A Certificate was sent at your email address"
+    }
+  },
+  "Error": {
+    "Title": {
+      "ManikinDisconnected": "Manikin disconnected",
+      "GattNotFound": "Can't connect to the manikin",
+      "UnexpectedError": "Unexpected error",
+      "ServerNoResponse": "No response from the server",
+      "FirmwareUpdate": "Manikin update"
+    },
+    "ManikinDisconnected": "Your manikin was disconnected. Please check the battery and try to reconnect it",
+    "GattNotFound": "Error during manikin connection",
+    "UnexpectedError": "Oups, an internal error happened. click to restart the application",
+    "ServerNoResponse": "The server can't create any result. Try another training session",
+    "FirmwareUpdate": "Your manikin need to be updated please update it and try to reconnect it"
+  },
+  "Record": {
+    "Navigation": {
+      "GoBack": "Go to record list",
+      "CprQuality": "Quality of CPR"
+    },
+    "RecordType": "Training type",
+    "Manikin": "Manikin",
+    "Date": "Date",
+    "ScoreCCF": "Score",
+    "Certificate": "Certificate",
+    "NotFound": "No records found",
+    "Yes": "Yes",
+    "No": "No"
+  },
+  "Hardware": {
+    "Firmware": "Firmware version",
+    "Circuit": "Circuit version",
+    "DeviceID": "Device ID",
+    "Protocol": "Protocol version",
+    "Battery": "Battery",
+    "Model": "Model type",
+    "ConnectedAs": "Connected as",
+    "Disconnect": "Disconnect",
+    "Close": "Close"
+  },
+  "QualityOfCpr": {
+    "Ranking": "Conclusion",
+
+    "Oxygen": {
+      "OxygenLvl": "Ventilation efficacy"
+    },
+    "QualityOfCpr": {
+      "QualityOfCpr": "Continuous Quality of CPR",
+      "Highest": "Highest quality of cpr",
+      "Lowest": "Lowest quality of cpr",
+      "Cycle": "Compression by cycle"
+    },
+    "TimeOff": {
+      "Legend": "Hands off time"
+    }
+  },
+  "HttpError": {
+    "NotFound": "Page not found",
+    "Redirect": "Click here to be redirected to the main page",
+    "Forbidden": "Oups access forbidden"
+  }
+}
