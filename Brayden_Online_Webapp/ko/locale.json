@@ -9,11 +9,11 @@
   "Login": {
     "Title": "로그인",
     "ClientID": "클라이언트 ID",
-    "UserID": "유저 아이디",
-    "Code": "패스워드",
+    "UserID": "사용자 ID",
+    "Code": "비밀번호",
     "LogIn": "로그인",
     "Cancel": "취소",
-    "Error": "유효하지 않은 유저 아이디 혹은 패스워드입니다."
+    "Error": "유효하지 않은 사용자 ID 혹은 패스워드입니다."
   },
   "MenuHome": {
     "Title": "훈련 모드",
