@@ -19,22 +19,22 @@
     "Title": "훈련 모드",
     "Subtitle": "실시간 피드백이 포함된 압박, 호흡 또는 전체 CPR 교육 과목의 준비가 되었으면 CPR 평가를 시작합니다.",
     "Connect": "연결",
-    "BabyMannikin": "Baby Mannikin",
-    "AdultMannikin": "Adult Mannikin",
-    "InfantMannikin": "Infant Mannikin"
+    "BabyMannikin": "소아 마네킹",
+    "AdultMannikin": "성인 마네킹",
+    "InfantMannikin": "영아 마네킹"
   },
   "RealTimeTrainingPage": {
-    "Cycle": "Cycle",
-    "StartButton": "Start training",
-    "StartAssesement": "Start",
-    "StopButton": "Stop training",
-    "Slow": "Slow",
-    "Deep": "Deep",
-    "Fast": "Fast",
-    "Shallow": "Shallow",
-    "Pressed": "Pressed",
-    "Ventilation": "Ventilation",
-    "Duration": "Duration"
+    "Cycle": "주기",
+    "StartButton": "훈련 시작",
+    "StartAssesement": "시작",
+    "StopButton": "훈련 멈춤",
+    "Slow": "느림",
+    "Deep": "깊음",
+    "Fast": "빠름",
+    "Shallow": "얕음",
+    "Pressed": "압박횟수",
+    "Ventilation": "호흡",
+    "Duration": "지속기간"
   },
   "RealtimeFeedBackMessage": {
     "initial_msg": "Do CPR",
