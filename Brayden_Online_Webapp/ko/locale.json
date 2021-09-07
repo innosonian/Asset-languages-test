@@ -52,11 +52,11 @@
     "vent_good": "좋은 호흡입니다."
   },
   "OverallResultPage": {
-    "Title": "종합결과",
+    "Title": "종합\결과",
     "Score": "점수",
     "FingerPosition": "Finger\nposition",
-    "HandPosition": "Hand\nposition",
-    "ScoreOfCCF": "Score of\nCCF",
+    "HandPosition": "압박위치",
+    "ScoreOfCCF": "가슴압박비중(CCF)",
     "CompressionRate": "Compression\nrate",
     "CompressionRelease": "Compression\nrelease",
     "CompressionDepth": "Compression\ndepth",
