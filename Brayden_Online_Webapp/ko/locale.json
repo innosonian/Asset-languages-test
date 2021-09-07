@@ -1,10 +1,10 @@
 {
   "CarrouselPages": {
-    "TouchIconToConnect": "아이콘을 눌러 연결하세요."
+    "TouchIconToConnect": "아이콘을 눌러 연결하세요"
   },
   "Welcome": {
     "Start": "시작",
-    "Member": "멤버면 여길 누르세요."
+    "Member": "멤버면 여길 누르세요"
   },
   "Login": {
     "Title": "로그인",
@@ -13,11 +13,11 @@
     "Code": "비밀번호",
     "LogIn": "로그인",
     "Cancel": "취소",
-    "Error": "유효하지 않은 사용자 ID 혹은 패스워드입니다."
+    "Error": "유효하지 않은 사용자 ID 혹은 패스워드입니다"
   },
   "MenuHome": {
     "Title": "훈련 모드",
-    "Subtitle": "실시간 피드백이 포함된 압박, 호흡 또는 전체 CPR 교육 과목의 준비가 되었으면 CPR 평가를 시작합니다.",
+    "Subtitle": "실시간 피드백이 포함된 압박, 호흡 또는 전체 CPR 교육 과목의 준비가 되었으면 CPR 평가를 시작합니다",
     "Connect": "연결",
     "BabyMannikin": "소아 마네킹",
     "AdultMannikin": "성인 마네킹",
@@ -34,22 +34,22 @@
     "Shallow": "얕음",
     "Pressed": "압박횟수",
     "Ventilation": "호흡",
-    "Duration": "지속기간"
+    "Duration": "지속시간"
   },
   "RealtimeFeedBackMessage": {
-    "initial_msg": "CPR을 시작하세요.",
-    "perfect_cpr": "쫗습니다, CPR을 계속 하세요.",
-    "too_deep": "너무 깊습니다.",
-    "too_shallow": "너무 얕습니다.",
-    "too_fast": "너무 빠릅니다.",
-    "too_slow": "너무 느립니다.",
-    "recoil": "이완을 충분히 하세요.",
-    "hands_off": "CPR을 시작하세요.",
-    "wrong_pos": "압박 위치를 조정 하세요.",
-    "vent_too_much": "너무 많은 호흡 입니다.",
-    "vent_too_little": "너무 적은 호흡 입니다.",
-    "vent_too_quick": "과합니다! 부드럽게 불어 넣어 주세요.",
-    "vent_good": "좋은 호흡입니다."
+    "initial_msg": "CPR을 시작하세요",
+    "perfect_cpr": "쫗습니다, CPR을 계속 하세요",
+    "too_deep": "너무 깊습니다",
+    "too_shallow": "너무 얕습니다",
+    "too_fast": "너무 빠릅니다",
+    "too_slow": "너무 느립니다",
+    "recoil": "이완을 충분히 하세요",
+    "hands_off": "CPR을 시작하세요",
+    "wrong_pos": "압박 위치를 조정 하세요",
+    "vent_too_much": "너무 많은 호흡 입니다",
+    "vent_too_little": "너무 적은 호흡 입니다",
+    "vent_too_quick": "과합니다! 부드럽게 불어 넣어 주세요",
+    "vent_good": "좋은 호흡입니다"
   },
   "OverallResultPage": {
     "Title": "종합결과",
@@ -57,22 +57,22 @@
     "FingerPosition": "Finger\nposition",
     "HandPosition": "압박위치",
     "ScoreOfCCF": "가슴압박비중(CCF)",
-    "CompressionRate": "Compression\nrate",
-    "CompressionRelease": "Compression\nrelease",
-    "CompressionDepth": "Compression\ndepth",
-    "NoOfCompressions": "No. of\nCompressions",
-    "VentilationVolume": "Ventilation\nVolume",
-    "VentilationFrequency": "Ventilation\nfrequency",
+    "CompressionRate": "압박속도",
+    "CompressionRelease": "이완율",
+    "CompressionDepth": "압박깊이",
+    "NoOfCompressions": "압박횟수",
+    "VentilationVolume": "호흡량",
+    "VentilationFrequency": "호흡빈도",
     "RescueVentilation": "Rescue Ventilation",
-    "AvgDepth": "Avg. Depth",
-    "AvgVolume": "Avg. Volume",
-    "RescueNo": "Rescue No.",
-    "RescueVolume": "Rescue volume",
-    "Pass": "Passed",
-    "Fail": "Try again"
+    "AvgDepth": "평균 압박깊이",
+    "AvgVolume": "평균 호흡량",
+    "RescueNo": "구조 번호",
+    "RescueVolume": "구조률",
+    "Pass": "통과",
+    "Fail": "다시 시도 하세요."
   },
   "WebOverwrite": {
-    "ConnectManikin": "마네킹을 연결하세요.",
+    "ConnectManikin": "마네킹을 연결하세요",
     "ConnectionNotify": "블루투스 연결을 시도 중입니다...",
     "ConnectionSuccess": "마네킹이 연결 되었습니다!",
     "DetailResultLink": "세부 결과 확인",
@@ -84,7 +84,7 @@
   },
   "ResultDetail": {
     "Title": "세부 결과",
-    "SubTitle": "자세한 정보(CPR 품질)는 브레이든 온라인 엑스퍼트를 통해 제공됩니다.",
+    "SubTitle": "자세한 정보(CPR 품질)는 브레이든 온라인 엑스퍼트를 통해 제공됩니다",
     "Tabs": {
       "Summary": "결과",
       "Cpr": "CPR 메트릭 기준",
@@ -125,79 +125,79 @@
     "Total": "호흡횟수",
     "AvgSpeed": "평균 호흡속도",
     "AvgRate": "Avg. Rate",
-    "PercentCCF": "Percent of CCF",
-    "RescueVentilations": "Rescue ventilations"
+    "PercentCCF": "가슴압박비중률",
+    "RescueVentilations": "구조 호흡"
   },
   "TopBar": {
-    "TrainingRecord": "Training records",
-    "Profile": "Profile",
-    "LogOut": "Log out",
-    "LogIn": "Log in"
+    "TrainingRecord": "훈련 기록",
+    "Profile": "프로필",
+    "LogOut": "로그아웃",
+    "LogIn": "로그인"
   },
   "Notification": {
     "Certificate": {
-      "Title": "Congratulation",
-      "Content": "Well done! A Certificate was sent at your email address"
+      "Title": "축하합니다",
+      "Content": "잘 하셨습니다! 전자 메일 주소로 인증서가 전송 되었습니다"
     }
   },
   "Error": {
     "Title": {
-      "ManikinDisconnected": "Manikin disconnected",
-      "GattNotFound": "Can't connect to the manikin",
-      "UnexpectedError": "Unexpected error",
-      "ServerNoResponse": "No response from the server",
-      "FirmwareUpdate": "Manikin update"
+      "ManikinDisconnected": "마네킹 연결이 해제 되었습니다",
+      "GattNotFound": "마네킹에 연결할 수 없습니다",
+      "UnexpectedError": "예기치 못한 에러입니다",
+      "ServerNoResponse": "서버에서 응답이 없습니다",
+      "FirmwareUpdate": "마네킹 업데이트"
     },
-    "ManikinDisconnected": "Your manikin was disconnected. Please check the battery and try to reconnect it",
-    "GattNotFound": "Error during manikin connection",
-    "UnexpectedError": "Oups, an internal error happened. click to restart the application",
-    "ServerNoResponse": "The server can't create any result. Try another training session",
-    "FirmwareUpdate": "Your manikin need to be updated please update it and try to reconnect it"
+    "ManikinDisconnected": "마네킹의 연결이 끊어졌습니다. 배터리를 확인 후에 다시 연결해 보세요",
+    "GattNotFound": "마네킹 연결중에 에러가 발생했습니다",
+    "UnexpectedError": "이런, 내부적인 에러가 발생했습니다. 눌러서 어플리케이션을 다시 시작하세요",
+    "ServerNoResponse": "서버에서 결과를 생성해 내지 못했습니다. 다시 훈련모드를 실행하세.",
+    "FirmwareUpdate": "마네킹의 업데이트가 필요 합니다. 업데이트 후에 다시 접속하세요"
   },
   "Record": {
     "Navigation": {
-      "GoBack": "Go to record list",
-      "CprQuality": "Quality of CPR"
+      "GoBack": "기록 리스트 확인",
+      "CprQuality": "CPR 품질"
     },
-    "RecordType": "Training type",
-    "Manikin": "Manikin",
-    "Date": "Date",
-    "ScoreCCF": "Score",
-    "Certificate": "Certificate",
-    "NotFound": "No records found",
-    "Yes": "Yes",
-    "No": "No"
+    "RecordType": "훈련 유형",
+    "Manikin": "마네킹",
+    "Date": "날짜",
+    "ScoreCCF": "점수",
+    "Certificate": "인증서",
+    "NotFound": "기록이 없습니다",
+    "Yes": "네",
+    "No": "아니요"
   },
   "Hardware": {
-    "Firmware": "Firmware version",
-    "Circuit": "Circuit version",
-    "DeviceID": "Device ID",
-    "Protocol": "Protocol version",
-    "Battery": "Battery",
-    "Model": "Model type",
-    "ConnectedAs": "Connected as",
-    "Disconnect": "Disconnect",
-    "Close": "Close"
+    "Firmware": "펌웨어 버전",
+    "Circuit": "회로 버전",
+    "DeviceID": "장치 ID",
+    "Protocol": "프로토콜 버전",
+    "Battery": "배터리",
+    "Model": "모델 유형",
+    "ConnectedAs": "로 연결됨",
+    "Disconnect": "연결 분리",
+    "Close": "닫음"
   },
   "QualityOfCpr": {
-    "Ranking": "Conclusion",
+    "Ranking": "결과",
 
     "Oxygen": {
-      "OxygenLvl": "Ventilation efficacy"
+      "OxygenLvl": "호흡 효과"
     },
     "QualityOfCpr": {
-      "QualityOfCpr": "Continuous Quality of CPR",
-      "Highest": "Highest quality of cpr",
-      "Lowest": "Lowest quality of cpr",
-      "Cycle": "Compression by cycle"
+      "QualityOfCpr": "CPR 품질 추이",
+      "Highest": "최고 품질의 CPR",
+      "Lowest": "최하 품질의 CPR",
+      "Cycle": "주기별 압박"
     },
     "TimeOff": {
-      "Legend": "Hands off time"
+      "Legend": "핸즈 오프 타임"
     }
   },
   "HttpError": {
-    "NotFound": "Page not found",
-    "Redirect": "Click here to be redirected to the main page",
-    "Forbidden": "Oups access forbidden"
+    "NotFound": "페이지를 찾을 수 없습니다",
+    "Redirect": "이 곳을 눌러 메인페이지로 돌아가세요",
+    "Forbidden": "이런 접속 금지입니다"
   }
 }
