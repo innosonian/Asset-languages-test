@@ -38,7 +38,7 @@
   },
   "RealtimeFeedBackMessage": {
     "initial_msg": "CPR을 시작하세요",
-    "perfect_cpr": "쫗습니다, CPR을 계속 하세요",
+    "perfect_cpr": "좋습니다, CPR을 계속 하세요",
     "too_deep": "너무 깊습니다",
     "too_shallow": "너무 얕습니다",
     "too_fast": "너무 빠릅니다",
@@ -54,7 +54,7 @@
   "OverallResultPage": {
     "Title": "종합결과",
     "Score": "점수",
-    "FingerPosition": "Finger\nposition",
+    "FingerPosition": "압박위치",
     "HandPosition": "압박위치",
     "ScoreOfCCF": "가슴압박비중(CCF)",
     "CompressionRate": "압박속도",
@@ -63,7 +63,7 @@
     "NoOfCompressions": "압박횟수",
     "VentilationVolume": "호흡량",
     "VentilationFrequency": "호흡빈도",
-    "RescueVentilation": "Rescue Ventilation",
+    "RescueVentilation": "구조 호흡",
     "AvgDepth": "평균 압박깊이",
     "AvgVolume": "평균 호흡량",
     "RescueNo": "구조 번호",
@@ -124,7 +124,7 @@
     "AvgVolume": "평균 호흡량",
     "Total": "호흡횟수",
     "AvgSpeed": "평균 호흡속도",
-    "AvgRate": "Avg. Rate",
+    "AvgRate": "평균 압박속도",
     "PercentCCF": "가슴압박비중률",
     "RescueVentilations": "구조 호흡"
   },
@@ -175,7 +175,7 @@
     "Protocol": "프로토콜 버전",
     "Battery": "배터리",
     "Model": "모델 유형",
-    "ConnectedAs": "로 연결됨",
+    "ConnectedAs": "연결된 마네킹",
     "Disconnect": "연결 분리",
     "Close": "닫음"
   },
