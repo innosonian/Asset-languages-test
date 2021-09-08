@@ -84,7 +84,7 @@
   },
   "ResultDetail": {
     "Title": "세부 결과",
-    "SubTitle": "CPR 품질에 대한 자세한 정보는 "브레이든 온라인 엑스퍼트"를 통해 제공됩니다",
+    "SubTitle": "CPR 품질에 대한 자세한 정보는 브레이든 온라인 엑스퍼트를 통해 제공됩니다",
     "Tabs": {
       "Summary": "결과",
       "Cpr": "CPR 메트릭 기준",
@@ -188,7 +188,7 @@
     "QualityOfCpr": {
       "QualityOfCpr": "CPR 품질 추이",
       "Highest": "최고 품질의 CPR",
-      "Lowest": "최하 품질의 CPR",
+      "Lowest": "최 품질의 CPR",
       "Cycle": "주기별 압박"
     },
     "TimeOff": {
