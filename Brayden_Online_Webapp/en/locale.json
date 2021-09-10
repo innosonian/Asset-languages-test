@@ -199,5 +199,10 @@
     "NotFound": "Page not found",
     "Redirect": "Click here to be redirected to the main page",
     "Forbidden": "Oups access forbidden"
+  },
+  "Classroom": {
+    "TitleButton": "Classroom",
+    "NoStudent": "Waiting for other student...",
+    "Cancel": "Cancel"
   }
 }
