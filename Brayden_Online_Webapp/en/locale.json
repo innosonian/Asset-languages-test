@@ -203,6 +203,7 @@
   "Classroom": {
     "TitleButton": "Classroom",
     "NoStudent": "Waiting for other student...",
-    "Cancel": "Cancel"
+    "Cancel": "Cancel",
+    "Connecting": "Connecting to classroom. Please wait and select your screen to share"
   }
 }
