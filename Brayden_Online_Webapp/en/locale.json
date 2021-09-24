@@ -193,6 +193,9 @@
     },
     "TimeOff": {
       "Legend": "Hands off time"
+    },
+    "QualityCompression": {
+      "QualityComp": "Compression Quality"
     }
   },
   "HttpError": {
