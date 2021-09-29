@@ -207,6 +207,8 @@
     "TitleButton": "Classroom",
     "NoStudent": "Waiting for other student...",
     "Cancel": "Cancel",
-    "Connecting": "Connecting to classroom. Please wait and select your screen to share"
+    "Connecting": "Connecting to classroom. Please wait and select your screen to share",
+    "TryAgain": "Try again",
+    "Error": "Classroom unavailable. Please try again later"
   }
 }
