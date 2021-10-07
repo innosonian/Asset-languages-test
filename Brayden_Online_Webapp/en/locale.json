@@ -216,6 +216,9 @@
     "StartAll": "Start All",
     "StopAll": "Stop All",
     "AllTryAgain": "All Try Again",
-    "ShowDetailAll": "Show Details to all"
+    "ShowDetailAll": "Show Details to All",
+    "Start": "Start",
+    "Stop": "Stop",
+    "ShowDetail": "Show Details"
   }
 }
