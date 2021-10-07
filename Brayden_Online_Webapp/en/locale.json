@@ -209,6 +209,9 @@
     "Cancel": "Cancel",
     "Connecting": "Connecting to classroom. Please wait and select your screen to share",
     "TryAgain": "Try again",
-    "Error": "Classroom unavailable. Please try again later"
+    "Error": "Classroom unavailable. Please try again later",
+    "InviteStudents": "Invite Students",
+    "SearchUser": "Search user...",
+    "StartSession": "Start"
   }
 }
