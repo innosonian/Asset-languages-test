@@ -212,6 +212,10 @@
     "Error": "Classroom unavailable. Please try again later",
     "InviteStudents": "Invite Students",
     "SearchUser": "Search user...",
-    "StartSession": "Start"
+    "StartSession": "Start session",
+    "StartAll": "Start All",
+    "StopAll": "Stop All",
+    "All Try Again": "All Try Again",
+    "ShowDetailAll": "Show Details to all"
   }
 }
