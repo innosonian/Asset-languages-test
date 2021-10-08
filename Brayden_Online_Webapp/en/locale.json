@@ -12,6 +12,8 @@
     "UserID": "User ID",
     "Code": "Code",
     "LogIn": "Log in",
+    "ClientLogin": "Client Login",
+    "UserLogin": "User Login",
     "Cancel": "Cancel",
     "Error": "Invalid username or password"
   },
