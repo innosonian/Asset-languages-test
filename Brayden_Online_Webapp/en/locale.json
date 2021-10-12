@@ -230,6 +230,8 @@
     "Surname": "Surname",
     "Email": "Email",
     "ClientID": "ClientID",
-    "Action": "Actions"
+    "Action": "Actions",
+    "Save": "Save",
+    "Cancel": "Cancel"
   }
 }
