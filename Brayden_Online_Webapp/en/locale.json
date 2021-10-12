@@ -231,6 +231,7 @@
     "Email": "Email",
     "ClientID": "ClientID",
     "Action": "Actions",
+    "Password": "Password",
     "Save": "Save",
     "Cancel": "Cancel"
   }
