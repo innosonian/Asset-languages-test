@@ -223,5 +223,12 @@
     "Start": "Start",
     "Stop": "Stop",
     "ShowDetail": "Show Details"
+  },
+  "UserList": {
+    "Name": "Name",
+    "Surname": "Surname",
+    "Email": "Email",
+    "ClientID": "ClientID",
+    "Action": "Actions"
   }
 }
