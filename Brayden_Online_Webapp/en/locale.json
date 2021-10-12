@@ -135,7 +135,8 @@
     "Profile": "Profile",
     "LogOut": "Log out",
     "LogIn": "Log in",
-    "Users": "Users"
+    "Users": "Users",
+    "Classroom": "Classroom"
   },
   "Notification": {
     "Certificate": {
