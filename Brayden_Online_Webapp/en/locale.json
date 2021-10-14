@@ -235,6 +235,9 @@
     "Password": "Password",
     "Save": "Save",
     "Cancel": "Cancel",
-    "EditProfile": "Edit profile"
+    "EditProfile": "Edit profile",
+    "CreateProfile": "Create User",
+    "Create": "Create",
+    "CreateUser": "New User"
   }
 }
