@@ -238,6 +238,7 @@
     "EditProfile": "Edit profile",
     "CreateProfile": "Create User",
     "Create": "Create",
-    "CreateUser": "New User"
+    "CreateUser": "New User",
+    "Search": "Search User"
   }
 }
