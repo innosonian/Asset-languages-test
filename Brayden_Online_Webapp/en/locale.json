@@ -216,6 +216,7 @@
     "Error": "Classroom unavailable. Please try again later",
     "InviteStudents": "Invite Students",
     "SearchUser": "Search user...",
+    "UserNotFound": "User not found...",
     "StartSession": "Start session",
     "StopSession": "Stop session",
     "StartAll": "Start All",
@@ -224,7 +225,8 @@
     "ShowDetailAll": "Show Details to All",
     "Start": "Start",
     "Stop": "Stop",
-    "ShowDetail": "Show Details"
+    "ShowDetail": "Show Details",
+    "NoUserInSession": "No user in the classroom, please add users"
   },
   "UserList": {
     "Name": "Name",
