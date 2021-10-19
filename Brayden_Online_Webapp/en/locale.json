@@ -229,6 +229,7 @@
     "ShowDetail": "Show Details",
     "NoUserInSession": "No user in the classroom, please add users",
     "SetupInfo": "Please, set up the mannequin in front of the camera.",
+    "SetupCamera": "Please, set up your camera",
     "Ok": "Ok",
     "InitCamera": "Start Camera"
   },
