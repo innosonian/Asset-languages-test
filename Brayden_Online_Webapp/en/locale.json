@@ -249,5 +249,10 @@
     "Create": "Create",
     "CreateUser": "New User",
     "Search": "Search User"
+  },
+  "Stats": {
+    "Title": "Statistics",
+    "ManikinType": "Manikin Type",
+    "Year": "Year"
   }
 }
