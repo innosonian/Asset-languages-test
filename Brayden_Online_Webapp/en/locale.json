@@ -251,7 +251,9 @@
     "Search": "Search User",
     "ConfirmDeleteUser": "Delete User Confirmation",
     "ConfirmDeleteUserContent": "Are you sure you want to delete this User ?",
-    "Delete": "Delete"
+    "Delete": "Delete",
+    "DeletedUser": "Deleted User",
+    "NotFound": "Users Not found"
   },
   "Stats": {
     "Title": "Statistics",
