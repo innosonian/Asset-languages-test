@@ -265,6 +265,7 @@
   },
   "Config": {
     "Update": "Update",
-    "Delete": "Delete"
+    "Delete": "Delete",
+    "Cancel": "Cancel"
   }
 }
