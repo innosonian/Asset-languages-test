@@ -262,5 +262,9 @@
     "Title": "Statistics",
     "ManikinType": "Manikin Type",
     "Year": "Year"
+  },
+  "Config": {
+    "Update": "Update",
+    "Delete": "Delete"
   }
 }
