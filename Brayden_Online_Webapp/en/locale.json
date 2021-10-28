@@ -266,6 +266,21 @@
   "Config": {
     "Update": "Update",
     "Delete": "Delete",
-    "Cancel": "Cancel"
+    "Cancel": "Cancel",
+    "Title": "Title",
+    "Type": "Type",
+    "Feedback": "Feedback",
+    "Threshold": "Threshold",
+    "AutoStop": "Auto Stop",
+    "FinishCycle": "Finish Cycle",
+    "FinishCompression": "Finish Compression",
+    "FinishVentilation": "Finish Ventilation",
+    "ExceedSecond": "Exceed Second",
+    "Guideline": "Guideline",
+    "Certification": "Certification",
+    "Movie": "Movie",
+    "MovieType": "Movie Type",
+    "MovieContentId": "Movie ContentID",
+    "MovieUrl": "Movie Url"
   }
 }
