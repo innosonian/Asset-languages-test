@@ -234,7 +234,8 @@
     "SetupCamera": "Please, set up your camera",
     "ManikinPosition": "Manikin should be inside this square",
     "Ok": "Ok",
-    "InitCamera": "Start Camera"
+    "InitCamera": "Start Camera",
+    "PermissionError": "Please be sure that your microphone and camera is allowed on your Browser's permission. For screen sharing be sure that your Browser is allowed to screen share by your OS"
   },
   "UserList": {
     "Name": "Name",
