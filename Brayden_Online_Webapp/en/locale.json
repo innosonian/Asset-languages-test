@@ -235,7 +235,8 @@
     "ManikinPosition": "Manikin should be inside this square",
     "Ok": "Ok",
     "InitCamera": "Start Camera",
-    "PermissionError": "Please be sure that your microphone and camera is allowed on your Browser's permission. For screen sharing be sure that your Browser is allowed to screen share by your OS"
+    "PermissionError": "Please be sure that your microphone and camera is allowed on your Browser's permission. For screen sharing be sure that your Browser is allowed to screen share by your OS",
+    "PermissionErrorExplanation": "In case of screen sharing permission issue. Be sure that you selected Tab only instead of entire screen"
   },
   "UserList": {
     "Name": "Name",
