@@ -262,6 +262,28 @@
     "EditProfileError": "Every field have to be filled. Email address is mandatory",
     "CreateProfileError": "Every field have to be filled. Email address is mandatory"
   },
+  "UserClientList": {
+    "Name": "Name",
+    "Rank": "Rank",
+    "ClientType": "Client Type",
+    "Organization": "Organization",
+    "ClientId": "Client ID",
+    "ClientNumber": "Client Number",
+    "PassCode": "Pass Code",
+    "Cancel": "Cancel",
+    "EditProfile": "Edit profile",
+    "CreateProfile": "Create User Client",
+    "CreateUser": "New User Client",
+    "ConfirmDeleteUserClient": "Delete User Client Confirmation",
+    "ConfirmDeleteUserClientContent": "Are you sure you want to delete this User Client?",
+    "ConfirmHardDeleteUserClient": "Delete User Client Confirmation",
+    "ConfirmHardDeleteUserClientContent": "Are you sure you want to delete this User Client? It will be removed from the application.",
+    "Delete": "Delete",
+    "DeletedUserClient": "Deleted User Client",
+    "NotFound": "Users Client Not found",
+    "EditProfileError": "Every field have to be filled.",
+    "CreateProfileError": "Every field have to be filled."
+  },
   "Stats": {
     "Title": "Statistics",
     "ManikinType": "Manikin Type",
