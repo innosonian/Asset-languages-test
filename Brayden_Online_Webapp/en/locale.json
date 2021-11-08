@@ -274,6 +274,7 @@
     "EditProfile": "Edit profile",
     "CreateProfile": "Create User Client",
     "CreateUser": "New User Client",
+    "Action": "Actions",
     "ConfirmDeleteUserClient": "Delete User Client Confirmation",
     "ConfirmDeleteUserClientContent": "Are you sure you want to delete this User Client?",
     "ConfirmHardDeleteUserClient": "Delete User Client Confirmation",
