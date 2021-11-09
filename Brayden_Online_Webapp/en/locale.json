@@ -285,7 +285,8 @@
     "DeletedUserClient": "Deleted User Client",
     "NotFound": "Users Client Not found",
     "EditProfileError": "Every field have to be filled.",
-    "CreateProfileError": "Every field have to be filled."
+    "CreateProfileError": "Every field have to be filled.",
+    "Create": "Create"
   },
   "Stats": {
     "Title": "Statistics",
