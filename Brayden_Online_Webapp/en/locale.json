@@ -139,7 +139,8 @@
     "Classroom": "Classroom",
     "Config": "Configuration",
     "Stats": "Statistic",
-    "Admin": "Admin"
+    "Admin": "Admin",
+    "Certificate": "Certificate"
   },
   "Notification": {
     "Certificate": {
