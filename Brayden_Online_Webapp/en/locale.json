@@ -313,5 +313,20 @@
     "MovieType": "Movie Type",
     "MovieContentId": "Movie ContentID",
     "MovieUrl": "Movie Url"
+  },
+  "Certificate": {
+    "Create": "Create",
+    "Duration": "Duration",
+    "Certificate": "Certificate",
+    "Title": "Title",
+    "TopLeft": "Top Left Text",
+    "TopRight": "Top Right",
+    "MiddleText": "Middle Text",
+    "File": "Choose File",
+    "CertificateDate": "Certificate Date",
+    "Certificate Number": "Certificate Number",
+    "BottomText": "Bottom Text",
+    "Cancel": "Cancel",
+    "Save": "Save"
   }
 }
