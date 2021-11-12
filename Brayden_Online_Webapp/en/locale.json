@@ -327,6 +327,14 @@
     "Certificate Number": "Certificate Number",
     "BottomText": "Bottom Text",
     "Cancel": "Cancel",
-    "Save": "Save"
+    "Save": "Save",
+    "Name": "Name",
+    "Surname": "Surname",
+    "Password": "Password",
+    "Email": "Email",
+    "Other": "Other",
+    "DayMonthYear": "Day / Month / Year",
+    "MonthDayYear": "Month / Day / Year",
+    "YearMonthDay": "Year / Month / Day"
   }
 }
