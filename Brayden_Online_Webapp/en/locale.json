@@ -272,6 +272,7 @@
     "Organization": "Organization",
     "ClientId": "Client ID",
     "ClientNumber": "Client Number",
+    "OrganizationName": "Organization Name",
     "PassCode": "Pass Code",
     "Cancel": "Cancel",
     "EditProfile": "Edit profile",
