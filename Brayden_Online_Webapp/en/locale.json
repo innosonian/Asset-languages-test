@@ -335,6 +335,7 @@
     "Other": "Other",
     "DayMonthYear": "Day / Month / Year",
     "MonthDayYear": "Month / Day / Year",
-    "YearMonthDay": "Year / Month / Day"
+    "YearMonthDay": "Year / Month / Day",
+    "Update": "Update"
   }
 }
