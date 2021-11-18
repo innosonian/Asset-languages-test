@@ -140,7 +140,8 @@
     "Config": "Configuration",
     "Stats": "Statistic",
     "Admin": "Admin",
-    "Certificate": "Certificate"
+    "Certificate": "Certificate",
+    "Record": "Record"
   },
   "Notification": {
     "Certificate": {
