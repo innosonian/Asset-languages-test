@@ -341,5 +341,9 @@
     "MonthDayYear": "Month / Day / Year",
     "YearMonthDay": "Year / Month / Day",
     "Update": "Update"
+  },
+  "RecordConfig": {
+    "Title": "Periodic Record",
+    "Download": "Download"
   }
 }
