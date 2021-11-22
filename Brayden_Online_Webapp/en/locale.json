@@ -344,6 +344,10 @@
   },
   "RecordConfig": {
     "Title": "Periodic Record",
-    "Download": "Download"
+    "Download": "Download",
+    "StartDate": "From",
+    "EndDate": "To",
+    "TimeFormat": "Time Format",
+    "TimeZone": "Timezone"
   }
 }
