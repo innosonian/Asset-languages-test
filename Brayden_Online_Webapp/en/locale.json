@@ -289,7 +289,10 @@
     "NotFound": "Users Client Not found",
     "EditProfileError": "Every field have to be filled.",
     "CreateProfileError": "Every field have to be filled.",
-    "Create": "Create"
+    "Create": "Create",
+    "General": "General",
+    "Coach": "Coach",
+    "OrganizationAdmin": "Organization Admin"
   },
   "Stats": {
     "Title": "Statistics",
