@@ -146,7 +146,8 @@
   "Notification": {
     "Certificate": {
       "Title": "Congratulation",
-      "Content": "Well done! A Certificate was sent at your email address"
+      "Content": "Well done! A Certificate was sent at your email address",
+      "Close": "Close"
     }
   },
   "Error": {
