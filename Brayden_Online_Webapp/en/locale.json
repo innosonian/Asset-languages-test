@@ -269,7 +269,8 @@
     "CreateProfileError": "Every field have to be filled. Email address is mandatory",
     "Download": "Download",
     "Certificate": "Certificate",
-    "DownloadCertificate": "Download Certificate"
+    "DownloadCertificate": "Download Certificate",
+    "SentByEmail": "Send by Email"
   },
   "UserClientList": {
     "Name": "Name",
