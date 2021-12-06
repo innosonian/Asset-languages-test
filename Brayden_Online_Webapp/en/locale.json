@@ -266,7 +266,9 @@
     "DeletedUser": "Deleted User",
     "NotFound": "Users Not found",
     "EditProfileError": "Every field have to be filled. Email address is mandatory",
-    "CreateProfileError": "Every field have to be filled. Email address is mandatory"
+    "CreateProfileError": "Every field have to be filled. Email address is mandatory",
+    "Download": "Download",
+    "Certificate": "Certificate"
   },
   "UserClientList": {
     "Name": "Name",
