@@ -358,5 +358,9 @@
     "EndDate": "To",
     "TimeFormat": "Time Format",
     "TimeZone": "Timezone"
+  },
+  "ToasterManager": {
+    "CertificateSent": "Certificate Sent!",
+    "CertificateSentError": "Couldn't Send Certificate"
   }
 }
