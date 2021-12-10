@@ -368,6 +368,8 @@
     "ImportUserSuccess": "Users imported!",
     "ImportUserError": "Couldn't import Users",
     "RestoreUserSuccess": "User Restored",
-    "RestoreUserError": "Couldn't restore User"
+    "RestoreUserError": "Couldn't restore User",
+    "DeleteUserSuccess": "User Deleted",
+    "DeleteUserError": "Couldn't delete User"
   }
 }
