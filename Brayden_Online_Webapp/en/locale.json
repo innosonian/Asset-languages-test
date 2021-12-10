@@ -271,7 +271,8 @@
     "Certificate": "Certificate",
     "DownloadCertificate": "Download Certificate",
     "SentByEmail": "Send by Email",
-    "ImportUser": "Import User"
+    "ImportUser": "Import User",
+    "ChooseFile": "Select File"
   },
   "UserClientList": {
     "Name": "Name",
