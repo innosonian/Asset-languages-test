@@ -364,6 +364,8 @@
   },
   "ToasterManager": {
     "CertificateSent": "Certificate Sent!",
-    "CertificateSentError": "Couldn't Send Certificate"
+    "CertificateSentError": "Couldn't Send Certificate",
+    "ImportUserSuccess": "Users imported!",
+    "ImportUserError": "Couldn't import Users"
   }
 }
