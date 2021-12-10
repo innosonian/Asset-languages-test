@@ -366,6 +366,7 @@
     "CertificateSent": "Certificate Sent!",
     "CertificateSentError": "Couldn't Send Certificate",
     "ImportUserSuccess": "Users imported!",
-    "ImportUserError": "Couldn't import Users"
+    "ImportUserError": "Couldn't import Users",
+    "RestoreUserSuccess": "User Restored"
   }
 }
