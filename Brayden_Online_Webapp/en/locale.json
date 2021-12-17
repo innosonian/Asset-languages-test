@@ -331,6 +331,7 @@
     "MovieUrl": "Movie Url"
   },
   "Certificate": {
+    "Error": "Every text field have to be filled",
     "Create": "Create",
     "Duration": "Duration",
     "Certificate": "Certificate",
