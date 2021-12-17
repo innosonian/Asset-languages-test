@@ -331,7 +331,6 @@
     "MovieUrl": "Movie Url"
   },
   "Certificate": {
-    "Error": "Every text field have to be filled",
     "Create": "Create",
     "Duration": "Duration",
     "Certificate": "Certificate",
@@ -372,5 +371,8 @@
     "RestoreUserError": "Couldn't restore User",
     "DeleteUserSuccess": "User Deleted",
     "DeleteUserError": "Couldn't delete User"
+  },
+  "Guideline": {
+    "Title": "CPR Guideline"
   }
 }
