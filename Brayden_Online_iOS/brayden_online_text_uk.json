@@ -194,7 +194,7 @@
     "ExceptionCompletionAPI": {
         "AuthenticationFailed": "Authentication Failed.","Помилка авторизації.",
         "IncorrectCompletionDetails": "Incorrect Completion Details.", "Невірні дані про завершення.",
-        "GivenOrganizationIdWasIncorrect.": "The given Organization Id was incorrect.",."Невірний ідентифікатор компанії.",
+        "GivenOrganizationIdWasIncorrect.": "The given Organization Id was incorrect.","Невірний ідентифікатор компанії.",
         "hStreamIdWasNotFoundIncorrect": "The hStream Id was not found/incorrect" "ID hStream не знайдений/неправильний.",
         "hStreamIdIsNotMappedWithAnyUser.": "The hStream Id is not mapped with any user." " ID hStream не зіставляється з жодним користувачем."
     },
