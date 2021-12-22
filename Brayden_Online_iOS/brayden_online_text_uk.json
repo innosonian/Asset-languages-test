@@ -95,7 +95,7 @@
         "Cycle" : "Cycle","Цикл",
         "CCF" : "CCF","Якість СЛР",
         "OverallScore" : "Overall Score","Загальний результат",
-        "Compressions" : "Compressions",Компресії",
+        "Compressions" : "Compressions", "Компресії",
         "AvgDepth" : "Avg. Depth","Середня глибина",
         "AvgRate" : "Avg. Rate"," Середня частота",
         "Count" : "Count","Кількість",
@@ -202,7 +202,7 @@
         "AuthenticationFailed": "Authentication Failed.","Помилка авторизації.",
         "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.", "Обліковий запис ePortfolio не знайдено/невірний.",
         "TheManikinDeviceIdNotFoundIncorrect": "The manikin device id not found/incorrect.", "ID манекена не знайдено/невірний.",
-        "NoUserDetailsFoundInUserProfile.": "No User details found in UserProfile.",."Немає даних у профілі користувача.",
+        "NoUserDetailsFoundInUserProfile.": "No User details found in UserProfile.", "Немає даних у профілі користувача.",
         "NoOpenSkillsAvailableForTheEPortfolioAccount.": "No open skills available for the ePortfolio account."" Немає доступних навичок в обліковому записі ePortfolio."
     },
     "ExceptionFileDocumentAPI": {
