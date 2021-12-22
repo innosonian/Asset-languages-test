@@ -25,7 +25,7 @@
     },
     "MenuHome": {
         "Title": "Home", "Головна",
-        "Subtitle" : "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",v "Компресії, вентиляція або СЛР зі зворотнім зв’язком\n\nПочніть СЛР по готовності",
+        "Subtitle" : "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready", "Компресії, вентиляція або СЛР зі зворотнім зв’язком\n\nПочніть СЛР по готовності",
         "BodyMessage" : "Touch adult, child or baby icon to connect manikin", "Оберіть відповідне зображення для підключення до манекену дорослого, дитини або немовля",
         "ExitButton" : "Exit", "Вихід"
         "LogOut" : "Are you sure\nyou want to log out?" "Ви впевнені\nщо бажаєте вийти?"
