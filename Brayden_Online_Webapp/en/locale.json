@@ -328,7 +328,8 @@
     "Movie": "Movie",
     "MovieType": "Movie Type",
     "MovieContentId": "Movie ContentID",
-    "MovieUrl": "Movie Url"
+    "MovieUrl": "Movie Url",
+    "CompVent": "Compression/Ventilation Ratio"
   },
   "Certificate": {
     "Error": "Every field must be filled",
