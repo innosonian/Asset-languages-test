@@ -312,6 +312,7 @@
   },
   "Config": {
     "Update": "Update",
+    "Create": "Create",
     "Delete": "Delete",
     "Cancel": "Cancel",
     "Title": "Title",
