@@ -311,8 +311,8 @@
     "NumberOfAssessment": "Number of staff taking assessment"
   },
   "Config": {
-    "Update": "Update",
     "Create": "Create",
+    "Update": "Update",
     "Delete": "Delete",
     "Cancel": "Cancel",
     "Title": "Title",
@@ -330,7 +330,7 @@
     "MovieType": "Movie Type",
     "MovieContentId": "Movie ContentID",
     "MovieUrl": "Movie Url",
-    "CompVent": "Compression/Ventilation Ratio"
+    "CompVent": "Compression/ventilation Ratio"
   },
   "Certificate": {
     "Error": "Every field must be filled",
@@ -373,7 +373,8 @@
     "RestoreUserSuccess": "User Restored",
     "RestoreUserError": "Couldn't restore User",
     "DeleteUserSuccess": "User Deleted",
-    "DeleteUserError": "Couldn't delete User"
+    "DeleteUserError": "Couldn't delete User",
+    "ImageToBig": "Image is too big"
   },
   "Guideline": {
     "Title": "CPR Guideline"
