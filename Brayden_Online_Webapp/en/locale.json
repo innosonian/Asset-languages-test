@@ -311,6 +311,7 @@
     "NumberOfAssessment": "Number of staff taking assessment"
   },
   "Config": {
+    "Error": "Every field have to be filled",
     "Create": "Create",
     "Update": "Update",
     "Delete": "Delete",
