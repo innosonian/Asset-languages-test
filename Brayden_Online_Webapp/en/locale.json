@@ -379,5 +379,12 @@
   },
   "Guideline": {
     "Title": "CPR Guideline"
+  },
+  "SignUp": {
+    "SignUp": "Sign Up",
+    "ClientId": "Client ID",
+    "Email": "Email",
+    "Name": "Name",
+    "Surname": "Surname"
   }
 }
