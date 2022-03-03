@@ -21,9 +21,9 @@
     "Title": "Trainings Sessions",
     "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
     "Connect": "Connect",
-    "BabyMannikin": "Baby Mannikin",
-    "AdultMannikin": "Adult Mannikin",
-    "InfantMannikin": "Infant Mannikin"
+    "BabyMannikin": "Baby Manikin",
+    "AdultMannikin": "Adult Manikin",
+    "InfantMannikin": "Junior Manikin"
   },
   "RealTimeTrainingPage": {
     "Cycle": "Cycle",
@@ -34,24 +34,24 @@
     "Deep": "Deep",
     "Fast": "Fast",
     "Shallow": "Shallow",
-    "Pressed": "Pressed",
+    "Pressed": "Number of compressions",
     "Ventilation": "Ventilation",
     "Duration": "Duration"
   },
   "RealtimeFeedBackMessage": {
     "initial_msg": "Do CPR",
-    "perfect_cpr": "Good, keep CPR",
+    "perfect_cpr": "Good Compressions, Continue",
     "too_deep": "Too deep",
     "too_shallow": "Too shallow",
     "too_fast": "Too fast",
     "too_slow": "Too slow",
-    "recoil": "Release chest enough",
+    "recoil": "Release fully between compressions",
     "hands_off": "Do CPR",
     "wrong_pos": "Wrong hand position",
-    "vent_too_much": "Too much ventilation",
-    "vent_too_little": "Too little ventilation",
-    "vent_too_quick": "Tough! breath gentle",
-    "vent_good": "Good ventilation"
+    "vent_too_much": "Ventilation volume - too much",
+    "vent_too_little": "Ventilation volume - too little",
+    "vent_too_quick": "Ventilation volume - too rapid",
+    "vent_good": "Correct ventilation volume"
   },
   "OverallResultPage": {
     "Title": "Overall\nPerformance",
@@ -146,7 +146,7 @@
   "Notification": {
     "Certificate": {
       "Title": "Congratulation",
-      "Content": "Well done! A Certificate was sent at your email address",
+      "Content": "Well done! A Certificate was sent to your email address",
       "Close": "Close"
     }
   },
@@ -160,13 +160,13 @@
     },
     "ManikinDisconnected": "Your manikin was disconnected. Please check the battery and try to reconnect it",
     "GattNotFound": "Error during manikin connection",
-    "UnexpectedError": "Oups, an internal error happened. click to restart the application",
-    "ServerNoResponse": "The server can't create any result. Try another training session",
-    "FirmwareUpdate": "Your manikin need to be updated please update it and try to reconnect it"
+    "UnexpectedError": "Oops, an internal error happened. Click to restart the application",
+    "ServerNoResponse": "The server can't produce a result. Try another training session",
+    "FirmwareUpdate": "Your manikin needs to be updated. Please update it and try to reconnect"
   },
   "Record": {
     "Navigation": {
-      "GoBack": "Go to record list",
+      "GoBack": "Go to records list",
       "CprQuality": "Quality of CPR"
     },
     "RecordType": "Training type",
@@ -193,7 +193,7 @@
     "Ranking": "Conclusion",
 
     "Oxygen": {
-      "OxygenLvl": "Ventilation efficacy"
+      "OxygenLvl": "Ventilation Quality"
     },
     "QualityOfCpr": {
       "QualityOfCpr": "Continuous Quality of CPR",
@@ -211,11 +211,11 @@
   "HttpError": {
     "NotFound": "Page not found",
     "Redirect": "Click here to be redirected to the main page",
-    "Forbidden": "Oups access forbidden"
+    "Forbidden": "Oops access forbidden"
   },
   "Classroom": {
     "TitleButton": "Classroom",
-    "NoStudent": "Waiting for other student...",
+    "NoStudent": "Waiting for other student(s)...",
     "Cancel": "Cancel",
     "Connecting": "Connecting to classroom. Please wait and select your screen to share",
     "TryAgain": "Try again",
@@ -233,15 +233,15 @@
     "Stop": "Stop",
     "ShowDetail": "Show Details",
     "NoUserInSession": "No user in the classroom, please add users",
-    "SetupInfo": "Please, set up the mannequin in front of the camera.",
+    "SetupInfo": "Please set up the manikin in front of the camera",
     "SetupCamera": "Please, set up your camera",
     "ManikinPosition": "Manikin should be inside this square",
     "Ok": "Ok",
     "InitCamera": "Start Camera",
-    "PermissionError": "Please be sure that your microphone and camera is allowed on your Browser's permission. For screen sharing be sure that your Browser is allowed to screen share by your OS",
-    "PermissionErrorExplanation": "In case of screen sharing permission issue. Be sure that you selected Tab only instead of entire screen",
-    "KickOutTitle": "Kicked out",
-    "KickOutContent": "You are Kicked out from the classroom session",
+    "PermissionError": "Please ensure your microphone and camera are 'allowed' via your Browser.  For screen sharing, be sure your Browser allows 'screen share' ",
+    "PermissionErrorExplanation": "If you have a screen sharing permission issue, check that you have selected 'Tab only' instead of entire screen",
+    "KickOutTitle": "Excluded",
+    "KickOutContent": "You have been excluded from the classroom session",
     "Leave": "Leave"
   },
   "UserList": {
@@ -265,8 +265,8 @@
     "Delete": "Delete",
     "DeletedUser": "Deleted User",
     "NotFound": "Users Not found",
-    "EditProfileError": "Every field have to be filled. Email address is mandatory",
-    "CreateProfileError": "Every field have to be filled. Email address is mandatory",
+    "EditProfileError": "Every field has to be completed. Email address is mandatory",
+    "CreateProfileError": "Every field has to be completed. Email address is mandatory",
     "Download": "Download",
     "Certificate": "Certificate",
     "DownloadCertificate": "Download Certificate",
@@ -311,7 +311,6 @@
     "NumberOfAssessment": "Number of staff taking assessment"
   },
   "Config": {
-    "Error": "Every field have to be filled",
     "Create": "Create",
     "Update": "Update",
     "Delete": "Delete",
@@ -322,8 +321,8 @@
     "Threshold": "Threshold",
     "AutoStop": "Auto Stop",
     "FinishCycle": "Finish Cycle",
-    "FinishCompression": "Finish Compression",
-    "FinishVentilation": "Finish Ventilation",
+    "FinishCompression": "Finish Compressions",
+    "FinishVentilation": "Finish Ventilations",
     "ExceedSecond": "Exceed Second",
     "Guideline": "Guideline",
     "Certification": "Certification",
