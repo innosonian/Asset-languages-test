@@ -5,7 +5,8 @@
   "Welcome": {
     "Start": "Start",
     "SignUp": "Sign Up",
-    "Member": "If you are member click here"
+    "Member": "If you are member click here",
+    "Login": "Log In"
   },
   "Login": {
     "Title": "LOGIN",
