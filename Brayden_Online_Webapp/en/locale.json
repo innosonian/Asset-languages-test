@@ -35,7 +35,7 @@
     "Deep": "Deep",
     "Fast": "Fast",
     "Shallow": "Shallow",
-    "Pressed": "Number of compressions",
+    "Pressed": "Compressions",
     "Ventilation": "Ventilation",
     "Duration": "Duration"
   },
@@ -63,7 +63,7 @@
     "CompressionRate": "Compression\nrate",
     "CompressionRelease": "Compression\nrelease",
     "CompressionDepth": "Compression\ndepth",
-    "NoOfCompressions": "No. of\nCompressions",
+    "NoOfCompressions": "Compressions",
     "VentilationVolume": "Ventilation\nVolume",
     "VentilationFrequency": "Ventilation\nfrequency",
     "RescueVentilation": "Rescue Ventilation",
@@ -375,7 +375,9 @@
     "RestoreUserError": "Couldn't restore User",
     "DeleteUserSuccess": "User Deleted",
     "DeleteUserError": "Couldn't delete User",
-    "ImageToBig": "Image is too big"
+    "ImageToBig": "Image is too big",
+    "CreateUserSuccess": "User created",
+    "UpdateUserSuccess": "User updated"
   },
   "Guideline": {
     "Title": "CPR Guideline"
