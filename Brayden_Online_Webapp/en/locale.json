@@ -378,7 +378,13 @@
     "DeleteUserError": "Couldn't delete User",
     "ImageToBig": "Image is too big",
     "CreateUserSuccess": "User created",
-    "UpdateUserSuccess": "User updated"
+    "UpdateUserSuccess": "User updated",
+    "CreateUserClientSuccess": "User client created",
+    "UpdateUserClientSuccess": "User client updated",
+    "RestoreUserClientSuccess": "User client Restored",
+    "RestoreUserClientError": "Couldn't restore User client",
+    "DeleteUserClientSuccess": "User client Deleted",
+    "DeleteUserClientError": "Couldn't delete User client"
   },
   "Guideline": {
     "Title": "CPR Guideline"
