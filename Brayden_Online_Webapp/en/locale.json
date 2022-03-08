@@ -5,17 +5,17 @@
   "Welcome": {
     "Start": "Start",
     "SignUp": "Sign Up",
-    "Member": "If you are member click here",
+    "Member": "Log in",
     "Login": "Log In"
   },
   "Login": {
     "Title": "LOGIN",
-    "ClientID": "Client ID",
-    "UserID": "User ID",
+    "ClientID": "Instructor ID",
+    "UserID": "Student ID",
     "Code": "Code",
     "LogIn": "Log in",
-    "ClientLogin": "Client Login",
-    "UserLogin": "User Login",
+    "ClientLogin": "Instructor Login",
+    "UserLogin": "Student Login",
     "Cancel": "Cancel",
     "Error": "Invalid username or password"
   },
