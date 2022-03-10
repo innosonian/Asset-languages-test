@@ -17,7 +17,9 @@
     "ClientLogin": "Client Login",
     "UserLogin": "User Login",
     "Cancel": "Cancel",
-    "Error": "Invalid username or password"
+    "Error": "Invalid username or password",
+    "Admin": "Admin",
+    "Student": "Student"
   },
   "MenuHome": {
     "Title": "Training Sessions",
