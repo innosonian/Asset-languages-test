@@ -10,7 +10,7 @@
   },
   "Login": {
     "Title": "LOGIN",
-    "ClientID": "Instructor ID",
+    "ClientID": "Organization ID",
     "UserID": "Student ID",
     "Code": "Code",
     "LogIn": "Log in",
