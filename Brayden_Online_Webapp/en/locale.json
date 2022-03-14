@@ -10,7 +10,8 @@
   },
   "Login": {
     "Title": "LOGIN",
-    "ClientID": "Institution",
+    "Institution": "Institution",
+    "ClientID": "Organization ID",
     "UserID": "Student ID",
     "Code": "Code",
     "LogIn": "Log in",
