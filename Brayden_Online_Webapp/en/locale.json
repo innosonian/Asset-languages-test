@@ -11,7 +11,7 @@
   "Login": {
     "Title": "LOGIN",
     "Institution": "Institution",
-    "ClientID": "Organization ID",
+    "ClientID": "Instructor ID",
     "UserID": "Student ID",
     "Code": "Code",
     "LogIn": "Log in",
