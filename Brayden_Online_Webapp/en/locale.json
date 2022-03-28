@@ -397,6 +397,9 @@
     "ClientId": "Client ID",
     "Email": "Email",
     "Name": "Name",
-    "Surname": "Surname"
+    "Surname": "Surname",
+    "RegistrationComplete": "The registration is complete!",
+    "CheckEmail": "A confirmation e-mail has been sent to you",
+    "Login": "Login"
   }
 }
