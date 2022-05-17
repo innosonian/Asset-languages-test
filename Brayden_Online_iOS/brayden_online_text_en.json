@@ -7,7 +7,10 @@
     },
     "StartPage": {
         "Start": "TEST Start",
-        "PlanMemberLogin": "If you are a Plan member, please click here."
+        "PlanMemberLogin": "If you are a Plan member, please click here.",
+        "SelfRegister": "Self Register User",
+        "Organization": "Organization",
+        "Guest": "TEST Guest"
     },
     "AdminLoginPage": {
         "ClientID": "Client ID",
@@ -18,7 +21,9 @@
         "Email": "E-Mail",
         "Password": "Password",
         "SignIn": "Sign In",
-        "TrialSignIn" : "Use trial without log-in"
+        "TrialSignIn" : "Use trial without log-in",
+        "Guideline" : "Guideline",
+        "SelectGuideline" : "Select guideline"
     },
     "DownloadContent": {
         "Downloading": "Download video files\nIt takes a few minutes"
