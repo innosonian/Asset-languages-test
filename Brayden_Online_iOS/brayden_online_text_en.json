@@ -6,6 +6,8 @@
         "ContinueButton" : "Continue"
     },
     "StartPage": {
+        "BoxTitleFree": "FREE",
+        "BoxTitleSubscription": "Subscription",
         "SelfRegister": "Registered",
         "Organization": "Client only",
         "Guest": "Real-time only",
