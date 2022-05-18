@@ -6,11 +6,12 @@
         "ContinueButton" : "Continue"
     },
     "StartPage": {
+        "SelfRegister": "Registered",
+        "Organization": "Client only",
+        "Guest": "Real-time only",
+        "Note": "Expired items below",
         "Start": "TEST Start",
-        "PlanMemberLogin": "If you are a Plan member, please click here.",
-        "SelfRegister": "Self Register User",
-        "Organization": "Organization",
-        "Guest": "TEST Guest"
+        "PlanMemberLogin": "If you are a Plan member, please click here."
     },
     "AdminLoginPage": {
         "ClientID": "Client ID",
