@@ -26,8 +26,85 @@
     "CreateRegisteredFree": {
         "chkBoxAcceptTerms": "I accept the terms and conditions",
         "Continue": "Continue",
-        "urlDisclaimer": "https://dkfkfkfkffk.s3bucket"
-
+        "urlDisclaimer": "https://dkfkfkfkffk.s3bucket",
+        "SubTitle": "Create Account",
+        "Guideline": "Guideline*",
+        "ChooseGuidelineDropdown": "Choose a guideline",
+        "Name": "Name",
+        "Surname": "Surname",
+        "Email": "Email*",
+        "ConfirmEmail": "Confirm Email*",
+        "Mandatory": "Mandatory Fields",
+        "SignUp": "Sign up",
+        "Cancel": "Cancel"
+    },
+    "CreateRegisteredFreePopUp": {
+        "EmailPromptFailureTitle": "Email is already registered\nwith the following setting.",
+        "RegisteredGuideline": "Guideline",
+        "UseDifferentEmail": "Use a different email",
+        "ForgotCode": "I forgot my Code",
+        "EmailPromptSuccessTitle": "Successful Registration",
+        "CheckEmailPasscode": "Check your mailbox to complete\nthe creation of your new account.",
+        "Close": "Close"
+    },
+    "RegisteredFreeSettingPage": {
+        "Title": "Setting",
+        "SubTitle": "Manage Account",
+        "Guideline": "Guideline",
+        "NameSurname": "Name",
+        "EditName": "Edit",
+        "Email": "Email",
+        "ChangePasscode": "ChangeCode",
+        "Confirm": "Confirm",
+        "Cancel": "Cancel",
+        "DeleteAccount": "Delete Account",
+        "Manufacture" : "Manufacture",
+        "ApplyButton" : "Apply new menu",
+        "HowToSeeRecords" : "How to see records",
+        "AllLocalRecords" : "All local records",
+        "Deactivated" : "Deactivated",
+        "UserConnectSwitchButton" : "Users can connect or disconnect manikins"
+    },
+    "RegisteredFreeManagePagePopUp": {
+        "SubTitle": "Manage Account",
+        "Guideline": "Guideline",
+        "Name": "Name",
+        "Surname": "Surname",
+        "EditName": "Edit",
+        "Email": "Email",
+        "ChangePasscode": "ChangeCode",
+        "Confirm": "Confirm",
+        "Cancel": "Cancel",
+        "DeleteAccount": "Delete Account",
+    },
+    "ChangeCodeRegisteredFreePopUp": {
+        "CurrentPasscode": "Enter old code",
+        "NewCode": "Enter new code",
+        "confirmNewCode": "Confirm new code",
+        "Confirm": "Confirm",
+        "Cancel": "Cancel"
+    },
+    "NewCodeRegisteredFree": {
+        "PromptSuccess": "The code has been changed successfully",
+        "Close": "Close"
+    },
+    "ForgotCodeRegisteredFree": {
+        "ForgotCodePromptTitle": "Please enter your email address\nto recover your code",
+        "Guideline": "Guideline",
+        "ChooseGuidelineDropdown": "Choose a guideline",
+        "Email": "Email",
+        "RenewCode": "Renew the code"
+    },
+    "ForgotCodeRegisteredFreePopUp": {
+        "RenewCodePromptTitle": "We sent you a new code",
+        "CheckEmailNewCode": "PLease check your mailbox to complete the process",
+        "Close": "Close"
+    },
+    "DeleteRegisteredFree": {
+        "DeleteNotice": "Deletion of the account will\naslso delete all the record\nand user profile information\nfrom our system.\n\nYour account cannot be recovered after\ndeletion.",
+        "CurrentPasscode": "Code",
+        "Confirm": "Confirm",
+        "Cancel": "Cancel"
     },
     "AdminLoginPage": {
         "ClientID": "Client ID",
