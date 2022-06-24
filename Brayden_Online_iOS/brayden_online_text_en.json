@@ -49,11 +49,15 @@
     "TrainningHistoryPage" : {
         "Title" : "Training History",
         "SyncButton"  : "Sync all",
-        "IDTitle"  : "ID",
         "DateTimeTitle" : "Date / Time",
+        "ManikinType" : "Manikin",
+        "BabyManikin" : "Baby",
+        "AdultManikin" : "Adult",
+        "InfantManikin" : "Junior",
         "OperationTitle" : "Operation",
         "ScoreTitle" : "Score",
-        "OptionsTitle" : "Options"
+        "OptionsTitle" : "Options",
+        "IDTitle"  : "ID"
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "No. of compressions",
