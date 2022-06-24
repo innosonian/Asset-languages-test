@@ -6,7 +6,7 @@
         "ContinueButton" : "Continue"
     },
     "StartPage": {
-        "BoxTitleFree": "FREE",
+        "BoxTitleFree": "Free User",
         "BoxTitleSubscription": "Subscription",
         "SelfRegister": "Self Registered User",
         "Organization": "Organization",
