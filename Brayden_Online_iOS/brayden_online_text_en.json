@@ -77,7 +77,7 @@
         "ChangePasscode": "ChangeCode",
         "Confirm": "Confirm",
         "Cancel": "Cancel",
-        "DeleteAccount": "Delete Account",
+        "DeleteAccount": "Delete Account"
     },
     "ChangeCodeRegisteredFreePopUp": {
         "CurrentPasscode": "Enter old code",
