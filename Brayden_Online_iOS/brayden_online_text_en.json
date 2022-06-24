@@ -8,10 +8,12 @@
     "StartPage": {
         "BoxTitleFree": "FREE",
         "BoxTitleSubscription": "Subscription",
-        "SelfRegister": "Registered",
-        "Organization": "Client only",
-        "Guest": "Real-time only",
+        "SelfRegister": "Self Registered User",
+        "Organization": "Organization",
+        "QuickStart": "Real-Time Only",
+        "CreateNew": "Create New Account",
         "Note": "Expired items below",
+        "Guest": "Real-time only",
         "Start": "TEST Start",
         "PlanMemberLogin": "If you are a Plan member, please click here."
     },
