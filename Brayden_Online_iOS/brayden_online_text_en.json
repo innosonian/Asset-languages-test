@@ -15,6 +15,20 @@
         "Start": "TEST Start",
         "PlanMemberLogin": "If you are a Plan member, please click here."
     },
+    "LoginRegisteredFree": {
+        "Guideline": "Guideline",
+        "Email": "E-mail",
+        "Password": "Code",
+        "SignIn": "Sign In",
+        "CreateNew": "Create New Account",
+        "ForgotCode": "I forgot my Code"
+    },
+    "CreateRegisteredFree": {
+        "chkBoxAcceptTerms": "I accept the terms and conditions",
+        "Continue": "Continue",
+        "urlDisclaimer": "https://dkfkfkfkffk.s3bucket"
+
+    },
     "AdminLoginPage": {
         "ClientID": "Client ID",
         "Code": "Code",
