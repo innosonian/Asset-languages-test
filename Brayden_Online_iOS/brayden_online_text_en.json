@@ -84,9 +84,9 @@
         "CurrentPasscode": "Enter old code",
         "OldCode" = "Old Code",
         "NewCodeTitle": "Enter new code",
-        "NewCode" = "New Code",
+        "NewCode" = "New code",
         "ConfirmNewCode": "Confirm new code",
-        "ConfirmCode" = "Confirm Code",
+        "ConfirmCode" = "Confirm code",
         "Confirm": "Confirm",
         "Cancel": "Cancel"
     },
