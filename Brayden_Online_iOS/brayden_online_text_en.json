@@ -82,8 +82,11 @@
     },
     "ChangeCodeRegisteredFreePopUp": {
         "CurrentPasscode": "Enter old code",
+        "OldCode" = "Old Code",
         "NewCode": "Enter new code",
-        "confirmNewCode": "Confirm new code",
+        "NewCode" = "New Code",
+        "ConfirmNewCode": "Confirm new code",
+        "ConfirmCode" = "New Code",
         "Confirm": "Confirm",
         "Cancel": "Cancel"
     },
