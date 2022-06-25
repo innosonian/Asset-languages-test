@@ -107,7 +107,8 @@
         "Close": "Close"
     },
     "DeleteRegisteredFree": {
-        "DeleteNotice": "Deletion of the account will\naslso delete all the record\nand user profile information\nfrom our system.\n\nYour account cannot be recovered after\ndeletion.",
+        "DeleteNotice": "Deletion of the account will\naslso delete all the record\nand user profile information\nfrom our system.",
+        "DeleteWarning": "Your account cannot be recovered after deletion",
         "CurrentPasscode": "Code",
         "Confirm": "Confirm",
         "Cancel": "Cancel"
