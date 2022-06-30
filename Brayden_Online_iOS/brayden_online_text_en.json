@@ -242,6 +242,15 @@
         "Incorrect" : "Incorrect",
         "IncompleteRelease" : "Incomplete\nrelease"
     },
+    "SelfRegiserMessages": {
+        "SelectGuidLineMessage": "Please Select Guideline",
+        "EmailEmptyMessage": "E-mail OR Confirm E-mail should not be empity",
+        "EmailAndConfirmEmailMessage": "E-mail And Confirm E-mail should be same",
+        "EmailVaideMessage": "Please enter a valide E-mail",
+        "AllFieldMessage": "Please fill all the filds",
+        "PasswordMessage": "New password and confirm password must be same",
+        "EnterCodeMessage": "Please enter your code for the deletion of your account"
+    },
     "SettingPage" : {
         "Title" : "Setting",
         "Manufacture" : "Manufacture",
