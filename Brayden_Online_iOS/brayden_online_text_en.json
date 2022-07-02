@@ -251,6 +251,11 @@
         "PasswordMessage": "New password and confirm password must be same",
         "EnterCodeMessage": "Please enter your code for the deletion of your account"
     },
+    "MultipleManikins": {
+        "ManikinsSelection": "Please select an option",
+        "SingleManikin": "Single Manikin",
+        "MultipleManikins": "Multiple Manikins"
+    },
     "SettingPage" : {
         "Title" : "Setting",
         "Manufacture" : "Manufacture",
