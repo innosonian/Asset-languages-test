@@ -254,7 +254,16 @@
     "MultipleManikins": {
         "ManikinsSelection": "Please select an option",
         "SingleManikin": "Single Manikin",
-        "MultipleManikins": "Multiple Manikins"
+        "MultipleManikins": "Multiple Manikins",
+        "ConnectManikins": "Connect Manikins",
+        "WriteName":"Write Name (Optional)",
+        "Connect":"Connect",
+        "ONLINE":"ONLINE",
+        "Disconnect":"Disconnect",
+        "MainMenu":"Main Menu",
+        "Back":"Back",
+        "Next":"Next",
+        "MultipleCPRTraining":"Multiple CPR Training"
     },
     "SettingPage" : {
         "Title" : "Setting",
