@@ -255,8 +255,8 @@
         "CodeSent":"We sent you a new code.",
         "CodeSentMessage":"Please check your mailbox to complete the process.",
         "CodeChanged":"The Code has been changed sucessfully",
-        "AccountUpdated":"The Code has been updated sucessfully",
-        "AccountDeleted":"The Code has been deleted sucessfully"
+        "AccountUpdated":"The Profile has been updated sucessfully",
+        "AccountDeleted":"The Account has been deleted sucessfully"
     },
     "MultipleManikins": {
         "ManikinsSelection": "Please select an option",
