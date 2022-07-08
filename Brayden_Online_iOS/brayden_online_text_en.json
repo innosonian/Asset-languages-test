@@ -249,7 +249,14 @@
         "EmailVaideMessage": "Please enter a valide E-mail",
         "AllFieldMessage": "Please fill all the filds",
         "PasswordMessage": "New password and confirm password must be same",
-        "EnterCodeMessage": "Please enter your code for the deletion of your account"
+        "EnterCodeMessage": "Please enter your code for the deletion of your account",
+        "SuccessfulRegistration": "Successful Registration",
+        "SuccessfulRegistrationMessage":"Check your mailbox to complete the creation your new account.",
+        "CodeSent":"We sent you a new code.",
+        "CodeSentMessage":"Please check your mailbox to complete the process.",
+        "CodeChanged":"The Code has been changed sucessfully",
+        "AccountUpdated":"The Code has been updated sucessfully",
+        "AccountDeleted":"The Code has been deleted sucessfully"
     },
     "MultipleManikins": {
         "ManikinsSelection": "Please select an option",
