@@ -148,7 +148,7 @@
         "Title" : "Training History",
         "SyncButton"  : "Sync all",
         "DateTimeTitle" : "Date / Time",
-        "Target" : "Target",
+        "Target" : "Manikin",
         "ManikinType" : "Manikin",
         "BabyManikin" : "Baby",
         "AdultManikin" : "Adult",
