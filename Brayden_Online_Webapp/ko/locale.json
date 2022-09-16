@@ -154,6 +154,38 @@
     "ServerNoResponse": "서버에서 결과를 생성해 내지 못했습니다. 다시 훈련모드를 실행하세.",
     "FirmwareUpdate": "마네킹의 업데이트가 필요 합니다. 업데이트 후에 다시 접속하세요"
   },
+   "UserList": {
+    "Name": "이름",
+    "Surname": "성",
+    "Email": "이메일",
+    "ClientID": "고객 이름",
+    "Action": "액션",
+    "Password": "비밀번호",
+    "Save": "저장",
+    "Cancel": "취소",
+    "EditProfile": "프로파일 변경",
+    "CreateProfile": "사용자 생성",
+    "Create": "생성",
+    "CreateUser": "새로운 사용자",
+    "Search": "사용자 검색",
+    "ConfirmDeleteUser": "사용자 삭제 컨펌",
+    "ConfirmDeleteUserContent": "영구 삭제 하시겠습니까?",
+    "ConfirmHardDeleteUser": "영구 삭제 컨펌",
+    "ConfirmHardDeleteUserContent": "이 사용자를 삭제하시겠습니까? 응용 프로그램에서 제거됩니다.",
+    "Delete": "삭제",
+    "DeletedUser": "삭제된 사용자",
+    "NotFound": "사용자를 찾을 수 없습니다.",
+    "EditProfileError": "모든 필드를 완료해야 합니다. 이메일 주소는 필수 항목입니다.",
+    "CreateProfileError": "모든 필드를 완료해야 합니다. 이메일 주소는 필수 항목입니다.",
+    "Download": "다운로드",
+    "Certificate": "증명서",
+    "DownloadCertificate": "증명서 다운로드",
+    "SentByEmail": "이메일 보내기",
+    "ImportUser": "사용자 가져오기",
+    "ChooseFile": "파일 선택",
+    "DownloadSample": "다운로드샘플.xlsx"
+    "Import": "가져오기"
+  },
   "Record": {
     "Navigation": {
       "GoBack": "기록 리스트 확인",
@@ -199,5 +231,5 @@
     "NotFound": "페이지를 찾을 수 없습니다",
     "Redirect": "이 곳을 눌러 메인페이지로 돌아가세요",
     "Forbidden": "이런 접속 금지입니다"
-  }
+  },
 }
