@@ -20,7 +20,8 @@
     "Cancel": "Cancel",
     "Error": "Invalid username or password",
     "Admin": "Admin",
-    "Student": "Student"
+    "Student": "Student",
+    "GuidelineCPR": "CPR Guideline"
   },
   "MenuHome": {
     "Title": "Training Sessions",
@@ -278,7 +279,6 @@
     "SentByEmail": "Send by Email",
     "ImportUser": "Import User",
     "ChooseFile": "Select File",
-    "DownloadSample": "Download Sample.xlxs",
     "Import": "Import"
   },
   "UserClientList": {
