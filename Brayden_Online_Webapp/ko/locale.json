@@ -3,20 +3,26 @@
     "TouchIconToConnect": "아이콘을 눌러 연결하세요"
   },
   "Welcome": {
-    "Start": "시작",
-    "Member": "멤버면 여길 누르세요"
+    "Start": "체험하기​",
+    "SignUp": "회원가입​",
+    "Member": "멤버면 여길 누르세요",
+    "Login": "멤버쉽 로그인​"
   },
   "Login": {
     "Title": "로그인",
-    "ClientID": "클라이언트 ID",
-    "UserID": "사용자 ID",
+    "Institution": "소속명",
+    "ClientID": "관리자/강사 ID​",
+    "UserID": "교육생 이메일",
     "Code": "비밀번호",
     "LogIn": "로그인",
     "Cancel": "취소",
-    "Error": "유효하지 않은 사용자 ID 혹은 패스워드입니다"
+    "Error": "유효하지 않은 교육생 이메일 혹은 비밀번호입니다",
+    "Admin": "관리자/\n강사",
+    "Student": "교육생​",
+    "GuidelineCPR": "CPR 가이드라인​​"
   },
   "MenuHome": {
-    "Title": "훈련 모드",
+    "Title": "심폐소생술 학습",
     "Subtitle": "실시간 피드백이 포함된 압박, 호흡 또는 전체 CPR 교육 과목의 준비가 되었으면 CPR 평가를 시작합니다",
     "Connect": "연결",
     "BabyMannikin": "소아 마네킹",
@@ -33,8 +39,8 @@
     "Fast": "빠름",
     "Shallow": "얕음",
     "Pressed": "압박횟수",
-    "Ventilation": "호흡",
-    "Duration": "지속시간"
+    "Ventilation": "호흡횟수",
+    "Duration": "훈련시간"
   },
   "RealtimeFeedBackMessage": {
     "initial_msg": "CPR을 시작하세요",
@@ -154,6 +160,37 @@
     "ServerNoResponse": "서버에서 결과를 생성해 내지 못했습니다. 다시 훈련모드를 실행하세.",
     "FirmwareUpdate": "마네킹의 업데이트가 필요 합니다. 업데이트 후에 다시 접속하세요"
   },
+  "Classroom": {
+    "TitleButton": "원격학",
+    "NoStudent": "다른 교육생을 기다리고 있습니...",
+    "Cancel": "취소",
+    "Connecting": "원격학습을 연결하고 공유할 화면을 선택하세요",
+    "TryAgain": "재훈련 시작",
+    "Error": "원격학습을 이용할 수 없습니다. 다시 시도해 주세요",
+    "InviteStudents": "교육생 초대",
+    "SearchUser": "교육생 찾기...",
+    "UserNotFound": "교육생을 찾을수 없습니다...",
+    "StartSession": "학습 시작",
+    "StopSession": "학습 종료",
+    "StartAll": "전체 훈련시작",
+    "StopAll": "훈련 종료",
+    "AllTryAgain": "재훈련",
+    "ShowDetailAll": "결과보기",
+    "Start": "시작",
+    "Stop": "종료",
+    "ShowDetail": "결과보기",
+    "NoUserInSession": "원격학습실에 교육생이 없습니다. 교육생을 초대하세요​",
+    "SetupInfo": "카메라 각도에 맞게 마네킨을 놓아주세요",
+    "SetupCamera": "카메라 각도를 조절하세요",
+    "ManikinPosition": "마네킨이 사각형 안에 놓이도록 조정해주세요",
+    "Ok": "확인",
+    "InitCamera": "카메라를 켜세요",
+    "PermissionError": "브라우져를 통해 마이크와 카메라가 허용되었는지 확인하세요,  브라우져는 화면공유를 허용해야 합니다'  ",
+    "PermissionErrorExplanation": "화면공유의 문제가 있는 경우 전체화면 대신 탭만 선택되었는지 확인해 주세요",
+    "KickOutTitle": "제외",
+    "KickOutContent": "귀하는 원격학습에서 제외되었습니다",
+    "Leave": "나가기"
+  },
    "UserList": {
     "Name": "이름",
     "Surname": "성",
@@ -183,7 +220,7 @@
     "SentByEmail": "이메일 보내기",
     "ImportUser": "사용자 가져오기",
     "ChooseFile": "파일 선택",
-    "DownloadSample": "다운로드샘플.xlsx"
+    "DownloadSample": "다운로드샘플.xlsx",
     "Import": "가져오기"
   },
   "Record": {
@@ -231,5 +268,5 @@
     "NotFound": "페이지를 찾을 수 없습니다",
     "Redirect": "이 곳을 눌러 메인페이지로 돌아가세요",
     "Forbidden": "이런 접속 금지입니다"
-  },
+  }
 }
