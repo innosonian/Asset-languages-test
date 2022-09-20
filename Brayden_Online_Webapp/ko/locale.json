@@ -264,7 +264,7 @@
     "QualityOfCpr": {
       "QualityOfCpr": "CPR 품질 추이",
       "Highest": "최고 품질의 CPR",
-      "Lowest": "최 품질의 CPR",
+      "Lowest": "최저 품질의 CPR",
       "Cycle": "주기별 압박"
     },
     "TimeOff": {
