@@ -44,18 +44,18 @@
   },
   "RealtimeFeedBackMessage": {
     "initial_msg": "CPR을 시작하세요",
-    "perfect_cpr": "좋습니다, CPR을 계속 하세요",
+    "perfect_cpr": "압박을 잘 하고 있습니다. 계속하세요",
     "too_deep": "너무 깊습니다",
     "too_shallow": "너무 얕습니다",
     "too_fast": "너무 빠릅니다",
     "too_slow": "너무 느립니다",
     "recoil": "이완을 충분히 하세요",
     "hands_off": "CPR을 시작하세요",
-    "wrong_pos": "압박 위치를 조정 하세요",
-    "vent_too_much": "너무 많은 호흡 입니다",
-    "vent_too_little": "너무 적은 호흡 입니다",
-    "vent_too_quick": "과합니다! 부드럽게 불어 넣어 주세요",
-    "vent_good": "좋은 호흡입니다"
+    "wrong_pos": "압박위치가 다릅니다",
+    "vent_too_much": "호흡량이 너무 많습니다",
+    "vent_too_little": "호흡량이 너무 적습니다",
+    "vent_too_quick": "호흡속도가 너무 빠릅니다",
+    "vent_good": "호흡량이 적정합니다"
   },
   "OverallResultPage": {
     "Title": "종합결과",
