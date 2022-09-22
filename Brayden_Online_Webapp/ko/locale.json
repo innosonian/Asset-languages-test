@@ -357,5 +357,45 @@
     "MonthDayYear": "월 / 일 / 연도",
     "YearMonthDay": "연도 / 월 / 일",
     "Update": "업데이트"
+  },
+  "RecordConfig": {
+    "Title": "기간별 결과",
+    "Download": "다운로드",
+    "StartDate": "부터",
+    "EndDate": "까지",
+    "TimeFormat": "Time Format",
+    "TimeZone": "Timezone"
+  },
+  "ToasterManager": {
+    "CertificateSent": "인증서가 발송되었습니다!",
+    "CertificateSentError": "인증서를 발송하지 못했습니다",
+    "ImportUserSuccess": "교육생들을 등록했습니다",
+    "ImportUserError": "교육생들을 등록할 수 없습니다",
+    "RestoreUserSuccess": "교육생 계정을 복구 했습니다",
+    "RestoreUserError": "교육생 계정을 복구할 수 없습니다",
+    "DeleteUserSuccess": "교육생을 삭제했습니다",
+    "DeleteUserError": "교육생을 삭제할 수 없습니다",
+    "ImageToBig": "이미지가 너무 큽니다",
+    "CreateUserSuccess": "교육생이 등록되었습니다",
+    "UpdateUserSuccess": "교육생 계정이 업데이트 되었습니다",
+    "CreateUserClientSuccess": "강사가 등록되었습니다",
+    "UpdateUserClientSuccess": "강사 계정이 업데이트 되었습니다",
+    "RestoreUserClientSuccess": "강사 계정을 복구했습니다",
+    "RestoreUserClientError": "강사 계정을 복구할 수 없습니다",
+    "DeleteUserClientSuccess": "강사를 삭제했습니다",
+    "DeleteUserClientError": "강사를 삭제할 수 없습니다"
+  },
+  "Guideline": {
+    "Title": "CPR 가이드라인"
+  },
+  "SignUp": {
+    "SignUp": "회원가입",
+    "ClientId": "관리자 / 강사ID",
+    "Email": "이메일",
+    "Name": "이름",
+    "Surname": "성",
+    "RegistrationComplete": "등록이 완료되었습니다!",
+    "CheckEmail": "이메일이 발송되었습니다",
+    "Login": "로그인"
   }
 }
