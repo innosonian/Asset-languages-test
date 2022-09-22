@@ -120,18 +120,18 @@
     "Ventilations": "호흡",
     "OverallPerf": "종합 결과",
     "OverallScore": "종합 점수",
-    "Duration": "수행 시간",
+    "Duration": "훈련시간",
     "Cycle": "주기",
     "AvgDepth": "평균 압박깊이",
     "Count": "횟수",
-    "AvgTimeOff": "핸즈오프 타임",
+    "AvgTimeOff": "평균 핸즈오프 타임",
     "Avg. Rate": "평균 압박속도",
     "HandPosAccuracy": "압박위치 정확도",
     "AvgVolume": "평균 호흡량",
     "Total": "호흡횟수",
     "AvgSpeed": "평균 호흡속도",
     "AvgRate": "평균 압박속도",
-    "PercentCCF": "가슴압박비중률",
+    "PercentCCF": "가슴압박분율",
     "RescueVentilations": "구조 호흡"
   },
   "TopBar": {
@@ -150,15 +150,15 @@
   "Notification": {
     "Certificate": {
       "Title": "축하합니다",
-      "Content": "잘 하셨습니다! 전자 메일 주소로 인증서가 전송 되었습니다"
+      "Content": "잘하셨습니다! 이메일로 인증서가 전송되었습니다"
     }
   },
   "Error": {
     "Title": {
       "ManikinDisconnected": "마네킹 연결이 해제 되었습니다",
       "GattNotFound": "마네킹에 연결할 수 없습니다",
-      "UnexpectedError": "예기치 못한 에러입니다",
-      "ServerNoResponse": "서버에서 응답이 없습니다",
+      "UnexpectedError": "내부적인 에러가 발행했습니다. 어플리케이션을 다시 시작하세요",
+      "ServerNoResponse": "서버에서 결과를 생성해 내지 못했습니다. 다시 훈련모드를 실행하세요",
       "FirmwareUpdate": "마네킹 업데이트"
     },
     "ManikinDisconnected": "마네킹의 연결이 끊어졌습니다. 배터리를 확인 후에 다시 연결해 보세요",
@@ -170,7 +170,7 @@
   "Record": {
     "Navigation": {
       "GoBack": "기록 리스트 확인",
-      "CprQuality": "CPR 품질"
+      "CprQuality": "QCPR"
     },
     "RecordType": "훈련 유형",
     "Manikin": "마네킹",
@@ -183,7 +183,7 @@
   },
   "Hardware": {
     "Firmware": "펌웨어 버전",
-    "Circuit": "회로 버전",
+    "Circuit": "회로보드 버전",
     "DeviceID": "장치 ID",
     "Protocol": "프로토콜 버전",
     "Battery": "배터리",
@@ -199,13 +199,13 @@
       "OxygenLvl": "호흡 효과"
     },
     "QualityOfCpr": {
-      "QualityOfCpr": "CPR 품질 추이",
+      "QualityOfCpr": "CQCPR",
       "Highest": "최고 품질의 CPR",
       "Lowest": "최저 품질의 CPR",
       "Cycle": "주기별 압박"
     },
     "TimeOff": {
-      "Legend": "핸즈 오프 타임"
+      "Legend": "핸즈오프 타임"
     }
   },
   "HttpError": {
