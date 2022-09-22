@@ -211,7 +211,7 @@
   "HttpError": {
     "NotFound": "페이지를 찾을 수 없습니다",
     "Redirect": "이 곳을 눌러 메인페이지로 돌아가세요",
-    "Forbidden": "이런 접속 금지입니다"
+    "Forbidden": "접속이 불가능합니다"
   },
   "Classroom": {
     "TitleButton": "원격학",
@@ -249,7 +249,7 @@
     "Surname": "성",
     "Email": "이메일",
     "ClientID": "고객 이름",
-    "Action": "액션",
+    "Action": "편집",
     "Password": "비밀번호",
     "Save": "저장",
     "Cancel": "취소",
@@ -289,13 +289,13 @@
     "EditProfile": "프로파일 변경",
     "CreateProfile": "Create User Client",
     "CreateUser": "새로운 강사 등록",
-    "Action": "액션",
+    "Action": "편집",
     "ConfirmDeleteUserClient": "삭제된 강사 확인",
     "ConfirmDeleteUserClientContent": "영구 삭제 하시겠습니까?",
     "ConfirmHardDeleteUserClient": "영구 삭제 확인",
     "ConfirmHardDeleteUserClientContent": "이 강사를 삭제하시겠습니까? 응용 프로그램에서 제거됩니다.",
     "Delete": "삭제",
-    "DeletedUserClient": "삭제된 강사 ",
+    "DeletedUserClient": "삭제된 강사 목록",
     "NotFound": "강사를 찾을 수 없습니다",
     "EditProfileError": "모든 필드를 완료해야 합니다.",
     "CreateProfileError": "모든 필드를 완료해야 합니다",
