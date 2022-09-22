@@ -62,7 +62,7 @@
     "Score": "점수",
     "FingerPosition": "압박위치",
     "HandPosition": "압박위치",
-    "ScoreOfCCF": "가슴압박비중(CCF)",
+    "ScoreOfCCF": "가슴압박분율(CCF)",
     "CompressionRate": "압박속도",
     "CompressionRelease": "이완율",
     "CompressionDepth": "압박깊이",
@@ -74,7 +74,7 @@
     "AvgVolume": "평균 호흡량",
     "RescueNo": "구조호흡 횟수",
     "RescueVolume": "구조호흡량",
-    "Pass": "통과",
+    "Pass": "합격",
     "Fail": "다시 시도 하세요."
   },
   "WebOverwrite": {
