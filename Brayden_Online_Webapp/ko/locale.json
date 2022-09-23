@@ -11,8 +11,8 @@
   "Login": {
     "Title": "로그인",
     "Institution": "소속명",
-    "ClientID": "관리자 / 강사ID​",
-    "UserID": "교육생 이메일",
+    "ClientID": "관리자 /강사ID​",
+    "UserID": "교육생\n이메일",
     "Code": "비밀번호",
     "LogIn": "로그인",
     "Cancel": "취소",
@@ -31,7 +31,7 @@
   },
   "RealTimeTrainingPage": {
     "Cycle": "주기",
-    "StartButton": "훈련 시작",
+    "StartButton": "준비가 되시면 시작 버튼을 누르세요.",
     "StartAssesement": "시작",
     "StopButton": "훈련 멈춤",
     "Slow": "느림",
@@ -84,14 +84,14 @@
     "DetailResultLink": "세부 결과 확인",
     "GoTrainingList": "다시 훈련하기",
     "Disconnect": "마네킹 연결 해제",
-    "Train": "훈련",
+    "Train": "개별학습 시작",
     "Manual": "매뉴얼 보기",
     "MovieIntro": "교육 영상",
     "ResultLink": "종합 결과로 돌아가기"
   },
   "ResultDetail": {
     "Title": "세부 결과",
-    "SubTitle": "CPR 품질에 대한 자세한 정보는 브레이든 온라인 엑스퍼트를 통해 제공됩니다",
+    "SubTitle": "CPR 품질에 대한 자세한 정보는 브레이든 온라인 엑스퍼트를 통해 제공됩니다.",
     "Tabs": {
       "Summary": "결과",
       "Cpr": "항목별 결과보기",
@@ -151,7 +151,8 @@
   "Notification": {
     "Certificate": {
       "Title": "축하합니다",
-      "Content": "잘하셨습니다! 이메일로 인증서가 전송되었습니다"
+      "Content": "잘하셨습니다! 이메일로 인증서가 전송되었습니다.",
+      "Close": "닫기"
     }
   },
   "Error": {
@@ -159,7 +160,7 @@
       "ManikinDisconnected": "마네킹 연결이 해제 되었습니다",
       "GattNotFound": "마네킹에 연결할 수 없습니다",
       "UnexpectedError": "내부적인 에러가 발행했습니다. 어플리케이션을 다시 시작하세요",
-      "ServerNoResponse": "서버에서 결과를 생성해 내지 못했습니다. 다시 훈련모드를 실행하세요",
+      "ServerNoResponse": "서버에서 응답이 없습니다.",
       "FirmwareUpdate": "마네킹 업데이트"
     },
     "ManikinDisconnected": "마네킹의 연결이 끊어졌습니다. 배터리를 확인 후에 다시 연결해 보세요",
@@ -169,8 +170,9 @@
     "FirmwareUpdate": "마네킹의 업데이트가 필요 합니다. 업데이트 후에 다시 접속하세요"
   },
   "Record": {
+    "Title": "Record",
     "Navigation": {
-      "GoBack": "기록 리스트 확인",
+      "GoBack": "전체결과 보기",
       "CprQuality": "QCPR"
     },
     "RecordType": "훈련 유형",
@@ -191,7 +193,7 @@
     "Model": "모델 유형",
     "ConnectedAs": "연결된 마네킹",
     "Disconnect": "연결 분리",
-    "Close": "닫음"
+    "Close": "닫기"
   },
   "QualityOfCpr": {
     "Ranking": "결과",
@@ -207,6 +209,9 @@
     },
     "TimeOff": {
       "Legend": "핸즈오프 타임"
+    },
+    "QualityCompression": {
+      "QualityComp": "가슴압박 효과"
     }
   },
   "HttpError": {
@@ -215,17 +220,20 @@
     "Forbidden": "접속이 불가능합니다"
   },
   "Classroom": {
-    "TitleButton": "원격학습",
+    "TitleButton": "원격학습 시작",
     "NoStudent": "다른 교육생(들)을 기다리고 있습니다...",
     "Cancel": "취소",
     "Connecting": "원격학습을 연결하고 공유할 화면을 선택하세요",
-    "TryAgain": "재훈련 시작",
+    "TryAgain": "원격학습 시작",
     "Error": "원격학습을 이용할 수 없습니다. 다시 시도해 주세요",
     "InviteStudents": "교육생 초대",
     "SearchUser": "교육생 찾기...",
     "UserNotFound": "교육생을 찾을수 없습니다...",
     "StartSession": "학습 시작",
     "StopSession": "학습 종료",
+    "Adult": "성인",
+    "Infant": "소아",
+    "Child": "영아",
     "StartAll": "전체 훈련시작",
     "StopAll": "훈련 종료",
     "AllTryAgain": "재훈련",
@@ -233,14 +241,14 @@
     "Start": "시작",
     "Stop": "종료",
     "ShowDetail": "결과보기",
-    "NoUserInSession": "원격학습실에 교육생이 없습니다. 교육생을 초대하세요​",
-    "SetupInfo": "카메라 각도에 맞게 마네킨을 놓아주세요",
+    "NoUserInSession": "원격학습실에 교육생이 없습니다. 교육생을 초대하세요​.",
+    "SetupInfo": "카메라 각도에 맞게 마네킹을 놓아 주세요.",
     "SetupCamera": "카메라 각도를 조절하세요",
-    "ManikinPosition": "마네킨이 사각형 안에 놓이도록 조정해주세요",
+    "ManikinPosition": "마네킹이 사각형 안에 놓이도록 조정해 주세요.",
     "Ok": "확인",
     "InitCamera": "카메라를 켜세요",
-    "PermissionError": "브라우져를 통해 마이크와 카메라가 허용되었는지 확인하세요,  브라우져는 화면공유를 허용해야 합니다'  ",
-    "PermissionErrorExplanation": "화면공유의 문제가 있는 경우 전체화면 대신 탭만 선택되었는지 확인해 주세요",
+    "PermissionError": "브라우저를 통해 마이크와 카메라가 허용되었는지 확인하세요. 브라우저는 화면공유를 허용해야 합니다.",
+    "PermissionErrorExplanation": "화면공유의 문제가 있는 경우 전체화면 대신 탭만 선택되었는지 확인해 주세요.",
     "KickOutTitle": "제외",
     "KickOutContent": "귀하는 원격학습에서 제외되었습니다",
     "Leave": "나가기"
@@ -249,7 +257,7 @@
     "Name": "이름",
     "Surname": "성",
     "Email": "이메일",
-    "ClientID": "고객 이름",
+    "ClientID": "관리자 / 강사ID",
     "Action": "편집",
     "Password": "비밀번호",
     "Save": "저장",
@@ -269,7 +277,7 @@
     "EditProfileError": "모든 필드를 완료해야 합니다. 이메일 주소는 필수 항목입니다.",
     "CreateProfileError": "모든 필드를 완료해야 합니다. 이메일 주소는 필수 항목입니다.",
     "Download": "다운로드",
-    "Certificate": "인증서",
+    "Certificate": "평가모드",
     "DownloadCertificate": "인증서 다운로드",
     "SentByEmail": "이메일 보내기",
     "ImportUser": "교육생 가져오기",
