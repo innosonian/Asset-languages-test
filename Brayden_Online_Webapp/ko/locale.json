@@ -75,14 +75,14 @@
     "RescueNo": "구조호흡 횟수",
     "RescueVolume": "구조호흡량",
     "Pass": "합격",
-    "Fail": "다시 시도 하세요."
+    "Fail": "다시 시도하기"
   },
   "WebOverwrite": {
     "ConnectManikin": "마네킹을 연결하세요",
     "ConnectionNotify": "블루투스 연결을 시도 중입니다...",
     "ConnectionSuccess": "마네킹이 연결 되었습니다!",
     "DetailResultLink": "세부 결과 확인",
-    "GoTrainingList": "다시 훈련하기",
+    "GoTrainingList": "훈련모드 가기",
     "Disconnect": "마네킹 연결 해제",
     "Train": "개별학습 시작",
     "Manual": "매뉴얼 보기",
@@ -173,7 +173,7 @@
     "Title": "Record",
     "Navigation": {
       "GoBack": "전체결과 보기",
-      "CprQuality": "QCPR"
+      "CprQuality": "CQCPR"
     },
     "RecordType": "훈련 유형",
     "Manikin": "마네킹",
