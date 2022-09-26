@@ -27,6 +27,7 @@
     },
     "CreateRegisteredFree": {
         "chkBoxAcceptTerms": "I accept the terms and conditions",
+         "chkBoxPrivacyPolicy": "I accept the privacy policy",
         "Continue": "Continue",
         "urlDisclaimer": "https://web.braydenlab.com/",
         "SubTitle": "Create Account",
