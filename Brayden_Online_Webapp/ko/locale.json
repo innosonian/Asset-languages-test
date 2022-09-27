@@ -31,8 +31,8 @@
   },
   "RealTimeTrainingPage": {
     "Cycle": "주기",
-    "StartButton": "준비가 되시면 시작 버튼을 누르세요.",
-    "StartAssesement": "시작",
+    "StartButton": "훈련 시작",
+    "StartAssesement": "준비가 되시면 시작 버튼을 누르세요.",
     "StopButton": "훈련 멈춤",
     "Slow": "느림",
     "Deep": "깊음",
