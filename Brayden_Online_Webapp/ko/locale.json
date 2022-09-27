@@ -101,9 +101,9 @@
     "Comp": "압박 횟수",
     "CompRelease": "이완",
     "HandPos": "압박위치",
-    "CompRate": "압박율",
+    "CompRate": "압박속도",
     "VentVol": "호흡량",
-    "CCF": "가슴압박비중점수",
+    "CCF": "가슴압박분율(CCF)",
     "VentFreq": "호흡빈도",
     "TooShallow": "얕음",
     "Good": "좋음",
@@ -170,7 +170,7 @@
     "FirmwareUpdate": "마네킹의 업데이트가 필요 합니다. 업데이트 후에 다시 접속하세요"
   },
   "Record": {
-    "Title": "Record",
+    "Title": "학습 결과",
     "Navigation": {
       "GoBack": "전체결과 보기",
       "CprQuality": "CQCPR"
@@ -266,7 +266,7 @@
     "EditProfile": "프로파일 변경",
     "CreateProfile": "교육생 등록",
     "Create": "등록",
-    "CreateUser": "새로운 교육생",
+    "CreateUser": "교육생 등록",
     "Search": "교육생 검색",
     "ConfirmDeleteUser": "교육생 삭제 확인",
     "ConfirmDeleteUserContent": "영구 삭제 하시겠습니까?",
@@ -298,7 +298,7 @@
     "Cancel": "취소",
     "EditProfile": "프로파일 변경",
     "CreateProfile": "Create User Client",
-    "CreateUser": "새로운 강사 등록",
+    "CreateUser": "강사 등록",
     "Action": "편집",
     "ConfirmDeleteUserClient": "삭제된 강사 확인",
     "ConfirmDeleteUserClientContent": "영구 삭제 하시겠습니까?",
@@ -369,7 +369,7 @@
     "Update": "업데이트"
   },
   "RecordConfig": {
-    "Title": "기간별 결과",
+    "Title": "학습 결과",
     "Download": "다운로드",
     "StartDate": "부터",
     "EndDate": "까지",
