@@ -251,7 +251,8 @@
     "PermissionErrorExplanation": "화면공유의 문제가 있는 경우 전체화면 대신 탭만 선택되었는지 확인해 주세요.",
     "KickOutTitle": "제외",
     "KickOutContent": "귀하는 원격학습에서 제외되었습니다",
-    "Leave": "나가기"
+    "Leave": "나가기",
+    "EmailNotification": "{{studentEmail}}로 이메일이 발송되었습니다."
   },
    "UserList": {
     "Name": "이름",
