@@ -376,7 +376,7 @@
     "TimeFormat": "Time Format",
     "TimeZone": "Timezone"
   },
-  "ToasterManager": {
+  "ToastManager": {
     "CertificateSent": "Certificate Sent!",
     "CertificateSentError": "Couldn't Send Certificate",
     "ImportUserSuccess": "Users imported!",

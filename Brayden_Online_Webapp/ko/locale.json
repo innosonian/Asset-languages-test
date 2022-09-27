@@ -376,7 +376,7 @@
     "TimeFormat": "Time Format",
     "TimeZone": "Timezone"
   },
-  "ToasterManager": {
+  "ToastManager": {
     "CertificateSent": "인증서가 발송되었습니다!",
     "CertificateSentError": "인증서를 발송하지 못했습니다",
     "ImportUserSuccess": "교육생들을 등록했습니다",
