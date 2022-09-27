@@ -252,7 +252,8 @@
     "PermissionErrorExplanation": "If you have a screen sharing permission issue, check that you have selected 'Tab only' instead of entire screen",
     "KickOutTitle": "Excluded",
     "KickOutContent": "You have been excluded from the classroom session",
-    "Leave": "Leave"
+    "Leave": "Leave",
+    "EmailNotification": "Email sent to {{studentEmail}}"
   },
   "UserList": {
     "Name": "Name",
