@@ -3,23 +3,23 @@
     "TouchIconToConnect": "Touch icon to connect"
   },
   "Welcome": {
-    "Start": "Start",
+    "Start": "Real-time Start",
     "SignUp": "Sign Up",
     "Member": "Log in",
     "Login": "Log In"
   },
   "Login": {
     "Title": "LOGIN",
-    "Institution": "Institution",
-    "ClientID": "Instructor ID",
-    "UserID": "Student ID",
+    "Institution": "Instructor ID",
+    "ClientID": "Admin/\nInstructor ID",
+    "UserID": "Student email",
     "Code": "Code",
     "LogIn": "Log in",
     "ClientLogin": "Instructor Login",
     "UserLogin": "Student Login",
     "Cancel": "Cancel",
     "Error": "Invalid username or password",
-    "Admin": "Admin",
+    "Admin": "Admin / Instructor",
     "Student": "Student",
     "GuidelineCPR": "CPR Guideline"
   },
@@ -253,7 +253,7 @@
     "KickOutTitle": "Excluded",
     "KickOutContent": "You have been excluded from the classroom session",
     "Leave": "Leave",
-    "EmailNotification": "Email sent to {{studentEmail}}"
+    "EmailNotification": "Email sent to {{studentEmail}}",
     "UnstableNetwork": "Unstable Connection"
   },
   "UserList": {
