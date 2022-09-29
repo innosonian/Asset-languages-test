@@ -252,7 +252,8 @@
     "KickOutTitle": "제외",
     "KickOutContent": "귀하는 원격학습에서 제외되었습니다",
     "Leave": "나가기",
-    "EmailNotification": "{{studentEmail}}로 이메일이 발송되었습니다."
+    "EmailNotification": "{{studentEmail}}로 이메일이 발송되었습니다.",
+    "Classroom.UnstableNetwork": "연결이 불안정합니다."
   },
    "UserList": {
     "Name": "이름",
