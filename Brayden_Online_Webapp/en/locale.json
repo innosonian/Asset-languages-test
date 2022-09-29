@@ -254,6 +254,7 @@
     "KickOutContent": "You have been excluded from the classroom session",
     "Leave": "Leave",
     "EmailNotification": "Email sent to {{studentEmail}}"
+    "UnstableNetwork": "Unstable Connection"
   },
   "UserList": {
     "Name": "Name",
