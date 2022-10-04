@@ -224,6 +224,8 @@
         "FingerPosition" : "6\nFinger position",
         "HandPosition" : "6\nHand position",
         "ScoreOfCCF" : "4\nScore of\nCCF",
+        
+        "NoOfVentilation" : "No. of Ventilations",
         "CompressionRate" : "3\nCompression\nrate",
         "CompressionRelease" : "2\nCompression\nrelease",
         "CompressionDepth" : "1\nCompression\ndepth",
