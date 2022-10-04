@@ -34,7 +34,7 @@
   "RealTimeTrainingPage": {
     "Cycle": "Cycle",
     "StartButton": "Start training",
-    "StartAssesement": "Start",
+    "StartAssesement": "When you're ready, click the Start button.",
     "StopButton": "Stop training",
     "Slow": "Slow",
     "Deep": "Deep",
@@ -90,7 +90,7 @@
     "Manual": "Open manual",
     "MovieIntro": "Intro Video",
     "ResultLink": "Back to overall result",
-    "TrainingCardDisable": "Selection disable. Follow wait for instructor."
+    "TrainingCardDisable": "Selection disabled. Wait for instructor."
   },
   "ResultDetail": {
     "Title": "Detailed Results",
