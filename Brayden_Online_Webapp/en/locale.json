@@ -89,7 +89,8 @@
     "Train": "Train",
     "Manual": "Open manual",
     "MovieIntro": "Intro Video",
-    "ResultLink": "Back to overall result"
+    "ResultLink": "Back to overall result",
+    "TrainingCardDisable": "Selection disable. Follow wait for instructor."
   },
   "ResultDetail": {
     "Title": "Detailed Results",
