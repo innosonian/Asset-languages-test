@@ -24,7 +24,7 @@
     "GuidelineCPR": "CPR Guideline"
   },
   "MenuHome": {
-    "Title": "Training Sessions",
+    "Title": "Training Modes",
     "Subtitle": "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
     "Connect": "Connect",
     "BabyMannikin": "Baby Manikin",
@@ -84,7 +84,7 @@
     "ConnectionNotify": "Trying bluetooth connection...",
     "ConnectionSuccess": "Manikin connected!",
     "DetailResultLink": "See Detailed Results",
-    "GoTrainingList": "Go to training list",
+    "GoTrainingList": "Back to Training Modes",
     "Disconnect": "Disconnect",
     "Train": "Train",
     "Manual": "Open manual",
