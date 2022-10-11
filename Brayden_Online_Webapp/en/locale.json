@@ -223,6 +223,7 @@
   },
   "Classroom": {
     "TitleButton": "Classroom",
+    "RejoinClassroom": "RejoinClassroom",
     "NoStudent": "Waiting for other student(s)...",
     "Cancel": "Cancel",
     "Connecting": "Connecting to classroom. Please wait and select your screen to share",
@@ -255,7 +256,15 @@
     "KickOutContent": "You have been excluded from the classroom session",
     "Leave": "Leave",
     "EmailNotification": "Email sent to {{studentEmail}}",
-    "UnstableNetwork": "Unstable Connection"
+    "UnstableNetwork": "Unstable Connection",
+    "Controls": {
+      "OverallResults": "Overall",
+      "DetailedResults": "Detailed",
+      "CQCPR": "CQCPR",
+      "Summary": "Summary",
+      "Cpr": "By metric",
+      "Cycle": "By Cycle"
+    }
   },
   "UserList": {
     "Name": "Name",

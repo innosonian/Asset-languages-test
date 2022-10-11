@@ -222,6 +222,7 @@
   },
   "Classroom": {
     "TitleButton": "원격학습 시작",
+    "RejoinClassroom": "원격학습 돌아가기",
     "NoStudent": "다른 교육생(들)을 기다리고 있습니다...",
     "Cancel": "취소",
     "Connecting": "원격학습을 연결하고 공유할 화면을 선택하세요",
@@ -254,9 +255,17 @@
     "KickOutContent": "귀하는 원격학습에서 제외되었습니다",
     "Leave": "나가기",
     "EmailNotification": "{{studentEmail}}로 이메일이 발송되었습니다.",
-    "Classroom.UnstableNetwork": "연결이 불안정합니다."
+    "Classroom.UnstableNetwork": "연결이 불안정합니다.",
+    "Controls": {
+      "OverallResults": "종합결과",
+      "DetailedResults": "세부결과",
+      "CQCPR": "CQCPR",
+      "Summary": "요약결과",
+      "Cpr": "항목별",
+      "Cycle": "주기별"
+    }
   },
-   "UserList": {
+  "UserList": {
     "Name": "이름",
     "Surname": "성",
     "Email": "이메일",
