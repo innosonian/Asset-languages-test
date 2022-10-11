@@ -83,7 +83,7 @@
     "ConnectManikin": "Please Connect the manikin",
     "ConnectionNotify": "Trying bluetooth connection...",
     "ConnectionSuccess": "Manikin connected!",
-    "DetailResultLink": "See Detailed Results",
+    "DetailResultLink": "Detailed Results",
     "GoTrainingList": "Back to Training Modes",
     "Disconnect": "Disconnect",
     "Train": "Train",
@@ -97,8 +97,8 @@
     "SubTitle": "More information (quality of CPR) is available via \"Brayden Online Expert\"",
     "Tabs": {
       "Summary": "Summary",
-      "Cpr": "By CPR metric criteria",
-      "Cycle": "By Cycle"
+      "Cpr": "By Metric",
+      "Cycle": "ByCycle"
     },
     "CompDepth": "Compression Depth",
     "Comp": "No. of Compressions",
@@ -223,6 +223,7 @@
   },
   "Classroom": {
     "TitleButton": "Classroom",
+    "Rejoin": "Rejoin Classroom",
     "NoStudent": "Waiting for other student(s)...",
     "Cancel": "Cancel",
     "Connecting": "Connecting to classroom. Please wait and select your screen to share",
@@ -236,13 +237,11 @@
     "Adult": "Adult",
     "Infant": "Infant",
     "Child": "Child",
-    "StartAll": "Start All",
-    "StopAll": "Stop All",
-    "AllTryAgain": "All Try Again",
     "ShowDetailAll": "Show Results",
     "Start": "Start",
     "Stop": "Stop",
     "ShowDetail": "Show Details",
+    "OverallResult": "Overall",
     "NoUserInSession": "No user in the classroom, please add users",
     "SetupInfo": "Please set up the manikin in front of the camera",
     "SetupCamera": "Please, set up your camera",

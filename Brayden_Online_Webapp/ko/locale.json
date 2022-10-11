@@ -95,8 +95,8 @@
     "SubTitle": "CPR 품질에 대한 자세한 정보는 브레이든 온라인 엑스퍼트를 통해 제공됩니다.",
     "Tabs": {
       "Summary": "결과",
-      "Cpr": "항목별 결과보기",
-      "Cycle": "주기별 결과 보기"
+      "Cpr": "항목별",
+      "Cycle": "주기별"
     },
     "CompDepth": "압박깊이",
     "Comp": "압박 횟수",
@@ -222,10 +222,11 @@
   },
   "Classroom": {
     "TitleButton": "원격학습 시작",
+    "Rejoin": "원격학습 재접속",
     "NoStudent": "다른 교육생(들)을 기다리고 있습니다...",
     "Cancel": "취소",
     "Connecting": "원격학습을 연결하고 공유할 화면을 선택하세요",
-    "TryAgain": "원격학습 시작",
+    "TryAgain": "재시작",
     "Error": "원격학습을 이용할 수 없습니다. 다시 시도해 주세요",
     "InviteStudents": "교육생 초대",
     "SearchUser": "교육생 찾기...",
@@ -242,6 +243,7 @@
     "Start": "시작",
     "Stop": "종료",
     "ShowDetail": "결과보기",
+    "OverallResult": "종합결과",
     "NoUserInSession": "원격학습실에 교육생이 없습니다. 교육생을 초대하세요​.",
     "SetupInfo": "카메라 각도에 맞게 마네킹을 놓아 주세요.",
     "SetupCamera": "카메라 각도를 조절하세요",
@@ -256,7 +258,7 @@
     "EmailNotification": "{{studentEmail}}로 이메일이 발송되었습니다.",
     "Classroom.UnstableNetwork": "연결이 불안정합니다."
   },
-   "UserList": {
+  "UserList": {
     "Name": "이름",
     "Surname": "성",
     "Email": "이메일",
