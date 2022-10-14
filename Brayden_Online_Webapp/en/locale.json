@@ -279,6 +279,7 @@
     "CreateProfile": "Create User",
     "Create": "Create",
     "CreateUser": "New User",
+    "CreateUserEmailError": "Please enter a correct email format.",
     "Search": "Search User",
     "ConfirmDeleteUser": "Delete User Confirmation",
     "ConfirmDeleteUserContent": "Are you sure you want to delete this User ?",

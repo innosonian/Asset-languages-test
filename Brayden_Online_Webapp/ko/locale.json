@@ -276,6 +276,7 @@
     "Cancel": "취소",
     "EditProfile": "프로파일 변경",
     "CreateProfile": "교육생 등록",
+    "CreateUserEmailError": "올바른 이메일 형식을 입력하세요.",
     "Create": "등록",
     "CreateUser": "교육생 등록",
     "Search": "교육생 검색",
