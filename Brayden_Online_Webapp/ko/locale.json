@@ -88,7 +88,7 @@
     "Manual": "매뉴얼 보기",
     "MovieIntro": "교육 영상",
     "ResultLink": "종합 결과로 돌아가기",
-    "TrainingCardDisable": "선택할 수 없습니다. 강사의 지시가 있을 예정입니다."
+    "TrainingCardDisabled": "선택할 수 없습니다. 강사의 지시가 있을 예정입니다."
   },
   "ResultDetail": {
     "Title": "세부 결과",

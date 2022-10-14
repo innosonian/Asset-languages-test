@@ -90,7 +90,7 @@
     "Manual": "Open manual",
     "MovieIntro": "Intro Video",
     "ResultLink": "Back to overall result",
-    "TrainingCardDisable": "Selection disabled. Wait for instructor."
+    "TrainingCardDisabled": "Selection disabled. Wait for instructor."
   },
   "ResultDetail": {
     "Title": "Detailed Results",
