@@ -94,7 +94,7 @@
     "Title": "세부 결과",
     "SubTitle": "CPR 품질에 대한 자세한 정보는 브레이든 온라인 엑스퍼트를 통해 제공됩니다.",
     "Tabs": {
-      "Summary": "결과",
+      "Summary": "요약결과",
       "Cpr": "항목별 결과보기",
       "Cycle": "주기별 결과 보기"
     },
@@ -111,7 +111,7 @@
     "TooDeep": "깊음",
     "TooFew": "적음",
     "TooMany": "많음",
-    "IncompleteRelease": "이완 부족",
+    "IncompleteRelease": "부족",
     "Incorrect": "부정확",
     "TooSlow": "느림",
     "TooFast": "빠름",
@@ -173,7 +173,7 @@
   "Record": {
     "Title": "학습 결과",
     "Navigation": {
-      "GoBack": "전체결과 보기",
+      "GoBack": "훈련 기록 보기",
       "CprQuality": "CQCPR"
     },
     "RecordType": "훈련 유형",
@@ -226,7 +226,7 @@
     "NoStudent": "다른 교육생(들)을 기다리고 있습니다...",
     "Cancel": "취소",
     "Connecting": "원격학습을 연결하고 공유할 화면을 선택하세요",
-    "TryAgain": "원격학습 시작",
+    "TryAgain": "재훈련",
     "Error": "원격학습을 이용할 수 없습니다. 다시 시도해 주세요",
     "InviteStudents": "교육생 초대",
     "SearchUser": "교육생 찾기...",
@@ -285,7 +285,7 @@
     "ConfirmHardDeleteUser": "영구 삭제 확인",
     "ConfirmHardDeleteUserContent": "이 교육생을 삭제하시겠습니까? 응용 프로그램에서 제거됩니다.",
     "Delete": "삭제",
-    "DeletedUser": "삭제된 교육생",
+    "DeletedUser": "삭제된 교육생 목록",
     "NotFound": "교육생을 찾을 수 없습니다.",
     "EditProfileError": "모든 필드를 완료해야 합니다. 이메일 주소는 필수 항목입니다.",
     "CreateProfileError": "모든 필드를 완료해야 합니다. 이메일 주소는 필수 항목입니다.",
@@ -300,8 +300,8 @@
   },
   "UserClientList": {
     "Name": "이름",
-    "Rank": "Rank",
-    "ClientType": "Account Type",
+    "Rank": "서비스 종류",
+    "ClientType": "계정 타입",
     "Organization": "관리자 ID",
     "ClientId": "관리자/강사 ID",
     "ClientNumber": "Client Number",
@@ -309,7 +309,7 @@
     "PassCode": "비밀번호",
     "Cancel": "취소",
     "EditProfile": "프로파일 변경",
-    "CreateProfile": "Create User Client",
+    "CreateProfile": "강사 등록",
     "CreateUser": "강사 등록",
     "Action": "편집",
     "ConfirmDeleteUserClient": "삭제된 강사 확인",
