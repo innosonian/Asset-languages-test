@@ -173,6 +173,7 @@
     "FirmwareUpdate": "Your manikin needs to be updated. Please update it and try to reconnect"
   },
   "Record": {
+    "Title": "Records",
     "Navigation": {
       "GoBack": "Go to records list",
       "CprQuality": "Quality of CPR"
