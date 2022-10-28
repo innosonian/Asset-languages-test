@@ -255,7 +255,7 @@
     "KickOutContent": "귀하는 원격학습에서 제외되었습니다",
     "Leave": "나가기",
     "EmailNotification": "{{studentEmail}}로 이메일이 발송되었습니다.",
-    "Classroom.UnstableNetwork": "연결이 불안정합니다.",
+    "UnstableNetwork": "연결이 불안정합니다.",
     "Controls": {
       "OverallResults": "종합결과",
       "DetailedResults": "세부결과",
