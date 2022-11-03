@@ -225,6 +225,23 @@
   "Classroom": {
     "TitleButton": "Classroom",
     "RejoinClassroom": "Rejoin Classroom",
+    "SetupStudentPage": {
+      "ConnectManikinCheck": "Connect the manikin",
+      "ShareScreenCheck": "Share Screen",
+      "CameraCheck": "Setup Camera",
+      "ShareScreenTitle": "Please share your screen",
+      "ShareScreenButton": "Share Screen",
+      "ShareScreenGuide1":"Hit the Share Screen Button",
+      "ShareScreenGuide2": "Select Chrome Tab in the pop-up window",
+      "ShareScreenGuide3": "Click Share",
+      "ScreenZoomSetting": "Your computer's screen setting should be at 100% (recommended).",
+      "ScreenZoomGuideLink": "Click here for Guide",
+      "CameraManikinPositionGuide": "Please setup the manikin infront of the camera",
+      "ManikinBoxMessage": "Manikin Area",
+      "CameraConnectButton": "Camera Ready",
+      "FinishSetupMessage": "You Are now Ready.",
+      "ClassroomWaitMessage": "Your Scheduled Class will start soon. Please wait."
+    },
     "NoStudent": "Waiting for other student(s)...",
     "Cancel": "Cancel",
     "Connecting": "Connecting to classroom. Please wait and select your screen to share",
