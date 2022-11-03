@@ -244,6 +244,7 @@
     },
     "NoStudent": "Waiting for other student(s)...",
     "Cancel": "Cancel",
+    "Close": "Close",
     "Connecting": "Connecting to classroom. Please wait and select your screen to share",
     "TryAgain": "Try again",
     "Error": "Classroom unavailable. Please try again later",
