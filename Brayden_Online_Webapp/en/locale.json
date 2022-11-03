@@ -315,6 +315,7 @@
     "SentByEmail": "Send by Email",
     "ImportUser": "Import User",
     "ChooseFile": "Select File",
+    "DownloadSample": "SampleUserlist.xlsx",
     "Import": "Import"
   },
   "UserClientList": {
