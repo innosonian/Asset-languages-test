@@ -26,7 +26,7 @@
     "MenuHome": {
         "Title": "Página principal",
         "Subtitle" : "Compresión, ventilación, u opciones completas de entrenamiento de RCP con retroalimentación en tiempo real\n\nComience la evaluación de RCP cuando este listo",
-        "BodyMessage" : "Selecciona el ícono de adulto o niño para conectar el maniquí",
+        "BodyMessage" : "Selecciona el ícono de adulto,niño o bebés para conectar el maniquí",
         "ExitButton" : "Salir",
         "LogOut" : "¿Esta seguro de\nque desea salir?"
     },
@@ -41,11 +41,12 @@
     "TrainningHistoryPage" : {
         "Title" : "Historial de entrenamiento",
         "SyncButton"  : "Sincronizar todo",
-        "IDTitle"  : "Usuario",
+        "Target": "Maniquí",
         "DateTimeTitle" : "Fecha / Hora",
         "OperationTitle" : "Operación",
         "ScoreTitle" : "Resultados",
-        "OptionsTitle" : "Opciones"
+        "OptionsTitle" : "Opciones",
+        "IDTitle"  : "Usuario"
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "Número de compresiones",

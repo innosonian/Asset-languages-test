@@ -26,7 +26,7 @@
     "MenuHome": {
         "Title": "홈",
         "Subtitle": "실시간 피드백과 함께 심폐소생술 또는 가슴압박, 인공호흡을 훈련하십시오.\n준비가 되면 심폐소생술 평가를 하십시오.",
-        "BodyMessage": "성인 또는 아기 아이콘을 터치해 마네킹을 연결하십시오",
+        "BodyMessage": "성인, 소아 또는 영아 아이콘을 터치해 마네킹을 연결하십시오",
         "ExitButton": "나가기",
         "LogOut": "정말로 로그아웃 하시겠습니까?"
     },
@@ -41,11 +41,12 @@
     "TrainningHistoryPage": {
         "Title": "훈련 기록",
         "SyncButton": "데이터 동기화",
-        "IDTitle": "아이디",
+        "Target": "마네킹",
         "DateTimeTitle": "날짜/시간",
         "OperationTitle": "훈련",
         "ScoreTitle": "점수",
-        "OptionsTitle": "동기화/삭제"
+        "OptionsTitle": "동기화/삭제",
+        "IDTitle": "아이디"
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "압박 횟수",

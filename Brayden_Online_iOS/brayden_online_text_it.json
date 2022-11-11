@@ -26,7 +26,7 @@
     "MenuHome": {
         "Title": "Casa",
         "Subtitle": "Opzioni di formazione di compressione, ventilazione o CPR completo con feedback in tempo reale\n\nInizia la valutazione della RCP quando sei pronto",
-        "BodyMessage": "Tocca l'icona di un adulto o un bambino per collegare il manichino",
+        "BodyMessage": "Tocca l'icona di un adulto bambini o neonati per collegare il manichino",
         "ExitButton": "Uscita",
         "LogOut": "Sei sicuro \n di voler uscire?"
     },
@@ -41,11 +41,12 @@
     "TrainningHistoryPage": {
         "Title": "Storia della formazione",
         "SyncButton": "Sincronizza tutto",
-        "IDTitle": "ID",
+        "Target": "Manichino",
         "DateTimeTitle": "Data / ora",
         "OperationTitle": "Operazione",
         "ScoreTitle": "Punto",
-        "OptionsTitle": "Opzioni"
+        "OptionsTitle": "Opzioni",
+        "IDTitle": "ID"
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "N. di compressioni",

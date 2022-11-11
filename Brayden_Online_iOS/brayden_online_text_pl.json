@@ -26,7 +26,7 @@
     "MenuHome": {
         "Title": "Strona główna",
         "Subtitle": "##########",
-        "BodyMessage": "Dotknij ikony dorosłego lub dziecka, aby połączyć manekina",
+        "BodyMessage": "Dotknij ikony osoby dorosłej, dziecka lub niemowlęcia, aby podłączyć manekina",
         "ExitButton": "##########",
         "LogOut": "##########",
         "LogOut ": "Czy na pewno\nchcesz się wylogować?"
@@ -42,11 +42,12 @@
     "TrainningHistoryPage": {
         "Title": "Historia treningu",
         "SyncButton": "Synchronizuj wszystkie",
-        "IDTitle": "Identyfikator",
+        "Target": "Manekina",
         "DateTimeTitle": "Data / Czas",
         "OperationTitle": "Działanie",
         "ScoreTitle": "Wynik",
-        "OptionsTitle": "Opcje"
+        "OptionsTitle": "Opcje",
+        "IDTitle": "Identyfikator"
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "Brak ucisków",

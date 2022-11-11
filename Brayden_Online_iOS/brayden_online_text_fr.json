@@ -26,7 +26,7 @@
     "MenuHome": {
         "Title": "Accueil",
         "Subtitle": "Options de compression, de ventilation ou de formation RCR complète avec rétroaction en temps réel\n\nCommencez l'évaluation de la RCR lorsque vous êtes prêt",
-        "BodyMessage": "Toucher l'icône adulte ou bébé pour connecter le(s) mannequin(s)",
+        "BodyMessage": "Toucher l'icône adulte, enfant ou bébé pour connecter le(s) mannequin(s)",
         "ExitButton": "Sortie",
         "LogOut": "Etes-vous sur\nde vouloir vous déconnectez"
     },
@@ -36,16 +36,17 @@
     "FirmwareUpdate": {
         "Title": "Mise à jour firmeware",
         "NoteEndTop": "Mise à jour terminer",
-        "NoteEndBottom": "Veuillez redémarrer le manequin"
+        "NoteEndBottom": "Veuillez redémarrer le mannequin"
     },
     "TrainningHistoryPage": {
         "Title": "Historique d'entrainement",
         "SyncButton": "Sync (Tous)",
-        "IDTitle": "ID",
+        "Target": "Mannequin",
         "DateTimeTitle": "Date / Heure",
         "OperationTitle": "Opération",
         "ScoreTitle": "Score",
-        "OptionsTitle": "Options"
+        "OptionsTitle": "Options",
+        "IDTitle": "ID"
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "Nb. de compressions",

@@ -26,7 +26,7 @@
     "MenuHome": {
         "Title": "Startseite",
         "Subtitle" : "Kompressions-, Beatmungs- oder vollständige CPR-Trainingsoptionen mit Echtzeit-Feedback\n\nBeginnen Sie mit der CPR-Bewertung, wenn Sie bereit sind",
-        "BodyMessage" : "Klicken Sie auf das Ikon von Erwachsenen oder Kindern, um die Wiederbelebungspuppe anzuschliessen",
+        "BodyMessage" : "Klicken Sie auf das Ikon von Erwachsenen, Kindern oder Babys, um die Wiederbelebungspuppe anzuschliessen",
         "ExitButton" : "Ausgang",
         "LogOut" : "Ausloggen?"
     },
@@ -41,11 +41,12 @@
     "TrainningHistoryPage" : {
         "Title" : "Trainingsverlauf",
         "SyncButton"  : "Alles synchronisieren",
-        "IDTitle"  : "Identifizierung",
+        "Target":"Mannequin",
         "DateTimeTitle" : "Datum/Zeit",
         "OperationTitle" : "Operation",
         "ScoreTitle" : "Punktzahl",
-        "OptionsTitle" : "Optionen"
+        "OptionsTitle" : "Optionen",
+        "IDTitle"  : "Identifizierung"
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "Anzahl der Kompressionen",

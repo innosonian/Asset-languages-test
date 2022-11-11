@@ -26,7 +26,7 @@
     "MenuHome": {
         "Title": "Startpagina",
         "Subtitle" : "Compressie, beademing of de volledige reanimatietraining met real-time feedback\n\nBegin de reanimatie wanneer u gereed bent",
-        "BodyMessage" : "Raak het volwassene of baby pictogram aan om de dummy aan te sluiten",
+        "BodyMessage" : "Raak het volwassene, kind of baby pictogram aan om de dummy aan te sluiten",
         "ExitButton" : "Verlaat",
         "LogOut" : "Weet u zeker dat\nu wilt uitloggen?"
     },
@@ -41,11 +41,12 @@
     "TrainningHistoryPage" : {
         "Title" : "Training geschiedenis",
         "SyncButton"  : "Synchroniseer alles",
-        "IDTitle"  : "ID",
+        "Target": "Mannequin",
         "DateTimeTitle" : "Datum / Tijd",
         "OperationTitle" : "Uitvoering",
         "ScoreTitle" : "Score",
-        "OptionsTitle" : "Opties"
+        "OptionsTitle" : "Opties",
+        "IDTitle"  : "ID"
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "Aantal compressies",

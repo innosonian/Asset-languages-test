@@ -41,11 +41,12 @@
     "TrainningHistoryPage" : {
         "Title" : "Історія навчання",
         "SyncButton"  : "Синхронізація",
-        "IDTitle"  : "ID",
+        "Target": "манекен",
         "DateTimeTitle" : "Дата / Час",
         "OperationTitle" : "Виконання",
         "ScoreTitle" : "Оцінка",
-        "OptionsTitle" :"Налаштування"
+        "OptionsTitle" :"Налаштування",
+        "IDTitle"  : "ID"
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "Кількість компресій",
