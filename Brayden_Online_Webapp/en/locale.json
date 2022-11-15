@@ -176,7 +176,7 @@
     "Title": "Records",
     "Navigation": {
       "GoBack": "Go to records list",
-      "CprQuality": "Quality of CPR"
+      "CprQuality": "CQCPR"
     },
     "RecordType": "Training type",
     "Manikin": "Manikin",
