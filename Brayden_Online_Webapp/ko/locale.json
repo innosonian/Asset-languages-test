@@ -263,6 +263,19 @@
       "Summary": "요약결과",
       "Cpr": "항목별",
       "Cycle": "주기별"
+    },
+    "Setup": {
+      "CameraSetup": "카메라 설정",
+      "Next": "다음",
+      "ScreenSetup": "화면 공유",
+      "ScreenShare": "화면 공유",
+      "GuideStepOne": "1. 화면 공유 버튼을 클릭합니다.",
+      "GuideStepTwo": "2. 팝업창에서 'Chrome 탭' 선택",
+      "GuideStepThree": "3. Chrome의 글꼴 크기가 100%여야 합니다.",
+      "ManikinSetup": "마네킹을 연결해주세요.",
+      "Ready": "준비 완료",
+      "ReadyMessage": "이제 준비가 되었습니다.",
+      "ReadySubMessage": "곧 수업이 시작됩니다. 조금만 기다려주세요."
     }
   },
   "UserList": {

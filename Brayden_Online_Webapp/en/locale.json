@@ -225,23 +225,6 @@
   "Classroom": {
     "TitleButton": "Classroom",
     "RejoinClassroom": "Rejoin Classroom",
-    "SetupStudentPage": {
-      "ConnectManikinCheck": "Connect the manikin",
-      "ShareScreenCheck": "Share Screen",
-      "CameraCheck": "Setup Camera",
-      "ShareScreenTitle": "Please share your screen",
-      "ShareScreenButton": "Share Screen",
-      "ShareScreenGuide1":"Hit the Share Screen Button",
-      "ShareScreenGuide2": "Select Chrome Tab in the pop-up window",
-      "ShareScreenGuide3": "Click Share",
-      "ScreenZoomSetting": "Your computer's screen setting should be at 100% (recommended).",
-      "ScreenZoomGuideLink": "Click here for Guide",
-      "CameraManikinPositionGuide": "Please setup the manikin infront of the camera",
-      "ManikinBoxMessage": "Manikin Area",
-      "CameraConnectButton": "Camera Ready",
-      "FinishSetupMessage": "You Are now Ready.",
-      "ClassroomWaitMessage": "Your Scheduled Class will start soon. Please wait."
-    },
     "NoStudent": "Waiting for other student(s)...",
     "Cancel": "Cancel",
     "Close": "Close",
@@ -283,6 +266,19 @@
       "Summary": "Summary",
       "Cpr": "By metric",
       "Cycle": "By Cycle"
+    },
+    "Setup": {
+      "CameraSetup": "Please setup your camera",
+      "Next": "Next",
+      "ScreenSetup": "Please share your screen",
+      "ScreenShare": "Share Screen",
+      "GuideStepOne": "1. Click Share Screen Button",
+      "GuideStepTwo": "2. Select Chrome Tab in the pop up window",
+      "GuideStepThree": "3. Your computer’s screen settings should be at 100%",
+      "ManikinSetup": "Please connect the manikin",
+      "Ready": "I am ready",
+      "ReadyMessage": "You are now ready",
+      "ReadySubMessage": "The class will start soon, please wait"
     }
   },
   "UserList": {
