@@ -276,6 +276,7 @@
       "GuideStepTwo": "2. Select Chrome Tab in the pop up window",
       "GuideStepThree": "3. Your computer’s screen settings should be at 100%",
       "ManikinSetup": "Please connect the manikin",
+      "ManikinAdjust": "Please place your manikin",
       "Ready": "I am ready",
       "ReadyMessage": "You are now ready",
       "ReadySubMessage": "The class will start soon, please wait"
