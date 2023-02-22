@@ -16,7 +16,7 @@
     },
     "UserLoginPage": {
         "Email": "이메일",
-        "Password": "비밀번호",
+        "Password": "코드",
         "SignIn": "로그인",
         "TrialSignIn": "로그인 없이 훈련하기"
     },
