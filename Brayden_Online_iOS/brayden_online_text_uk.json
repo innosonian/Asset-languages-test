@@ -219,5 +219,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "Обліковий запис ePortfolio не знайдено/невірний.",
         "UnableToGetTheFileStoreDetails":"Неможливо отримати інформацію про файлове сховище.",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": " На поточному вузлі організації не налаштовано віртуальний каталог."
+    },
+    "UpdatePopup": {
+        "Title": "Нова версія %@ доступна. Будь ласка оновіться до версії %@ зараз.",
+        "SubTitle": "Доступне Оновлення",
+        "NextTime": "Наступного разу",
+         "Update" : "Оновити"
     }
 }

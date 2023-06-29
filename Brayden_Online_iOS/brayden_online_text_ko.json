@@ -219,5 +219,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
         "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
+    },
+    "UpdatePopup": {
+        "Title": "%@의 새로운 버전이 있습니다. 이제 %@ 버전으로 업데이트 하십시오.",
+        "SubTitle": "업데이트 가능",
+        "NextTime": "다음에",
+         "Update" : "업데이트"
     }
 }

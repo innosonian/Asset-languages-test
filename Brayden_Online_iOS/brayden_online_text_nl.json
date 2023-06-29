@@ -219,5 +219,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "De ePortfolio-rekening niet gevonden/onjuist.",
         "UnableToGetTheFileStoreDetails": "Niet in staat om de File Store Details te krijgen.",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "Het huidige organisatieknooppunt heeft geen virtuele directory geconfigureerd."
+    },
+    "UpdatePopup": {
+        "Title": "Er is een nieuwe versie van %@ beschikbaar. Je kunt nu updaten naar versie %@.",
+        "SubTitle": "Update beschikbaar",
+        "NextTime": "Volgende keer",
+         "Update" : "Updaten"
     }
 }

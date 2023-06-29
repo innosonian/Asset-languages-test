@@ -219,5 +219,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "Страничка электронного портфолио не найдена / неверна",
         "UnableToGetTheFileStoreDetails": "Не удалось получить сведения о хранилище файлов",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "В данном отделении организации виртуальный каталог не настроен"
+    },
+    "UpdatePopup": {
+        "Title": "Имеется в наличии новая версия %@. Пожалуйста, обновите до версии %@ сейчас.",
+        "SubTitle": "Доступно обновление",
+        "NextTime": "В следующий раз",
+         "Update" : "Обновить"
     }
  }

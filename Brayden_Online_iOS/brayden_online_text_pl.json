@@ -223,5 +223,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "##########",
         "UnableToGetTheFileStoreDetails": "##########",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "##########"
+    },
+    "UpdatePopup": {
+        "Title": "Jest nowa wersja %@ do pobrania. Zaktualizuj do wersji %@.",
+        "SubTitle": "Aktualizacja dostępna",
+        "NextTime": "Następnym razem",
+         "Update" : "Zaktualizuj"
     }
 }
