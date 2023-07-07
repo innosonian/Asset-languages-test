@@ -148,7 +148,8 @@
         "HowToSeeRecords": "Déconnexion automatique",
         "AllLocalRecords": "Tout les enregistrements locaux",
         "Deactivated": "Désactivé",
-        "UserConnectSwitchButton": "Les utilisateurs peuvent connecter ou déconnecter les mannequins"
+        "UserConnectSwitchButton": "Les utilisateurs peuvent connecter ou déconnecter les mannequins",
+        "UpdatePopUp": "업데이트 알림을 받습니다."
     },
     "VideoPage": {
         "SkipButton": "Sauter"

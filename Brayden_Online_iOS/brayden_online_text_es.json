@@ -148,7 +148,8 @@
         "HowToSeeRecords" : "Cierre de sesión automático",
         "AllLocalRecords" : "Todos los registros locales",
         "Deactivated" : "Desactivado",
-        "UserConnectSwitchButton" : "Los usuarios pueden conectar o desconectar maniquíes"
+        "UserConnectSwitchButton" : "Los usuarios pueden conectar o desconectar maniquíes",
+        "UpdatePopUp": "업데이트 알림을 받습니다."
     },
     "VideoPage" : {
         "SkipButton" : "Omitir"

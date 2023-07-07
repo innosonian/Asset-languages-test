@@ -148,7 +148,8 @@
         "HowToSeeRecords" :"Автоматичний вихід",
         "AllLocalRecords" :"Усі записи",
         "Deactivated" :"Вимкнено",
-        "UserConnectSwitchButton" : "Користувачі можуть підключити або відключити манекени"
+        "UserConnectSwitchButton" : "Користувачі можуть підключити або відключити манекени",
+        "UpdatePopUp": "업데이트 알림을 받습니다."
     },
     "VideoPage" : {
         "SkipButton" :"Пропустити"

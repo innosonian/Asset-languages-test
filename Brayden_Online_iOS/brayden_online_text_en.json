@@ -67,7 +67,8 @@
         "HowToSeeRecords" : "How to see records",
         "AllLocalRecords" : "All local records",
         "Deactivated" : "Deactivated",
-        "UserConnectSwitchButton" : "Users can connect or disconnect manikins"
+        "UserConnectSwitchButton" : "Users can connect or disconnect manikins",
+        "UpdatePopUp": "업데이트 알림을 받습니다."
     },
     "RegisteredFreeManagePagePopUp": {
         "SubTitle": "Manage Account",

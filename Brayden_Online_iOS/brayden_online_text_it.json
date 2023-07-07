@@ -149,7 +149,8 @@
         "HowToSeeRecords": "Disconnessione automatica",
         "AllLocalRecords": "Tutti i record locali",
         "Deactivated": "Disattivato",
-        "UserConnectSwitchButton": "Gli utenti possono connettere o disconnettere manichini"
+        "UserConnectSwitchButton": "Gli utenti possono connettere o disconnettere manichini",
+        "UpdatePopUp": "업데이트 알림을 받습니다."
     },
     "VideoPage": {
         "SkipButton": "Salta"
