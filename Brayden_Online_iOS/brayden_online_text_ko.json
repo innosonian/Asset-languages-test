@@ -148,7 +148,8 @@
         "HowToSeeRecords": "자동 로그아웃 시간",
         "AllLocalRecords": "모든 기록",
         "Deactivated": "비활성 상태",
-        "UserConnectSwitchButton": "사용자가 마네킹을 연결하거나 연결 해제할 수 있습니다"
+        "UserConnectSwitchButton": "사용자가 마네킹을 연결하거나 연결 해제할 수 있습니다",
+        "UpdatePopUp": "업데이트 알림을 받습니다."
     },
     "VideoPage": {
         "SkipButton": "다음"
