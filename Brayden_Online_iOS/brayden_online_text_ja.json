@@ -144,7 +144,7 @@
         "AllLocalRecords" : "All local records",
         "Deactivated" : "Deactivated",
         "UserConnectSwitchButton" : "Users can connect or disconnect manikins",
-        "UpdatePopUp": "업데이트 알림을 받습니다."
+        "UpdatePopUp": "Show update notification"
     },
     "VideoPage" : {
         "SkipButton" : "Skip"

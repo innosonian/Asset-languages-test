@@ -289,7 +289,8 @@
         "HowToSeeRecords" : "Auto log out after",
         "AllLocalRecords" : "All local records",
         "Deactivated" : "Deactivated",
-        "UserConnectSwitchButton" : "Users can connect or disconnect manikins"
+        "UserConnectSwitchButton" : "Users can connect or disconnect manikins",
+        "UpdatePopUp": "Show update notification"
     },
     "VideoPage" : {
         "SkipButton" : "Skip"
