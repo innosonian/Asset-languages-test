@@ -149,7 +149,7 @@
         "AllLocalRecords" : "Alle plaatselijke records",
         "Deactivated" : "Gedeactiveerd",
         "UserConnectSwitchButton" : "Gebruikers kunnen de dummy's aansluiten of loskoppelen",
-        "UpdatePopUp": "업데이트 알림을 받습니다."
+        "UpdatePopUp": "Toon update-melding"
     },
     "VideoPage" : {
         "SkipButton" : "Overslaan"

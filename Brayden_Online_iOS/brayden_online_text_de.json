@@ -149,7 +149,7 @@
         "AllLocalRecords" : "Alle lokalen Aufzeichnungen",
         "Deactivated" : "Deaktivieren",
         "UserConnectSwitchButton" : "Benutzer können Gerät verbinden oder trennen",
-        "UpdatePopUp": "업데이트 알림을 받습니다."
+        "UpdatePopUp": "Zeige Update-Benachrichtigung"
     },
     "VideoPage" : {
         "SkipButton" : "Überspringen"

@@ -150,9 +150,8 @@
         "HowToSeeRecords": "Automatyczne wylogowanie",
         "AllLocalRecords": "Wszystkie lokalne rekordy",
         "Deactivated": "##########",
-        "UserConnectSwitchButton": "Użytkownicy mogą łączyć lub rozłączać manekiny",,
-        "UpdatePopUp": "업데이트 알림을 받습니다."
-        " Deactivated": "Dezaktywowany"
+        "UserConnectSwitchButton": "Użytkownicy mogą łączyć lub rozłączać manekiny",
+        "UpdatePopUp": "Pokaż powiadomienie o aktualizacji"
     },
     "VideoPage": {
         "SkipButton": "##########"

@@ -149,7 +149,7 @@
         "AllLocalRecords" : "Todos los registros locales",
         "Deactivated" : "Desactivado",
         "UserConnectSwitchButton" : "Los usuarios pueden conectar o desconectar maniquíes",
-        "UpdatePopUp": "업데이트 알림을 받습니다."
+        "UpdatePopUp": "Mostrar notificación de actualización"
     },
     "VideoPage" : {
         "SkipButton" : "Omitir"
