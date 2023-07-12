@@ -230,5 +230,13 @@
         "SubTitle": "Aktualizacja dostępna",
         "NextTime": "Następnym razem",
          "Update" : "Zaktualizuj"
+    },
+    "VideoPage" : {
+        "LoadingTitle1": "동영상을 불러오고 있습니다",
+        "LoadingTitle2": "재생을 준비하고 있습니다",
+        "LoadingTitle3": "잠시만 기다려주세요",
+        "FailedToLoadTitle": "동양상을 불러오는데 실패했습니다",
+        "Skip": "넘어가기",
+        "Retry": "다시시도"
     }
 }
