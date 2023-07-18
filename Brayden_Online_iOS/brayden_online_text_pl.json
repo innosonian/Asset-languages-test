@@ -59,6 +59,7 @@
         "FingerPosition": "Ułożenie palca",
         "HandPosition": "Ułożenie dłoni",
         "StartButton": "Rozpocznij trening",
+        "StartAssesement" : "początek",
         "StopButton": "Zatrzymaj trening",
         "StopPopUpText": "Czy chcesz przerwać tę sesję treningową?",
         "ResultCalculatingPopOver": "Obliczanie wyników",
