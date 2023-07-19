@@ -28,7 +28,6 @@
         "Subtitle": "##########",
         "BodyMessage": "Dotknij ikony osoby dorosłej, dziecka lub niemowlęcia, aby podłączyć manekina",
         "ExitButton": "##########",
-        "LogOut": "##########",
         "LogOut ": "Czy na pewno\nchcesz się wylogować?"
     },
     "MenuManikinConnectionsPopUp": {
@@ -64,11 +63,9 @@
         "StopPopUpText": "Czy chcesz przerwać tę sesję treningową?",
         "ResultCalculatingPopOver": "Obliczanie wyników",
         "Slow": "Wolniej",
-        "Deep": "##########",
-        "Fast": "##########",
+        "Deep": "Głębokie",
+        "Fast": "Szybciej",
         "Shallow": "Lżej",
-        "Głębokie": "Mocniej",
-        "Szybki": "Szybciej"
     },
     "OverallResultPage": {
         "Title": "Ogólnie\nWydajność",
@@ -202,7 +199,6 @@
         "NetErrUploadFailContent": "Bląd ładowania zawartości. Proszę sprawdzić połączenie sieciowe.",
         "NetErrCommonTitle": "Błąd",
         "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe",
-        "AppUpdateNeedContent": "Zaktualizuj 'Umiejętności resuscytacji' dla jeszcze dokładniejszych wyników."
     },
     "Report": {
         "OverallResult": "##########"

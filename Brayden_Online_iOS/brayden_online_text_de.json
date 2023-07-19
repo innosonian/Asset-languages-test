@@ -38,7 +38,7 @@
         "NoteEndTop": "Aktualisierung abgeschlossen",
         "NoteEndBottom": "Bitte die Wiederbelebungspuppe wieder einschalten"
     },
-    "TrainningHistoryPage" : {
+    "TrainningHistoryPage": {
         "Title" : "Trainingsverlauf",
         "SyncButton"  : "Alles synchronisieren",
         "Target":"Mannequin",
@@ -48,7 +48,7 @@
         "OptionsTitle" : "Optionen",
         "IDTitle"  : "Identifizierung"
     },
-    "RealTimeTrainingPage" :{
+    "RealTimeTrainingPage": {
         "NoOfCompressions" : "Anzahl der Kompressionen",
         "Cycle" : "Zyklus",
         "CPREventPeriod" : "CPR-Zeitraum",

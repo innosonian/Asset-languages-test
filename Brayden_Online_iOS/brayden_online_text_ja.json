@@ -45,7 +45,8 @@
         "DateTimeTitle" : "Date / Time",
         "OperationTitle" : "Operation",
         "ScoreTitle" : "Score",
-        "OptionsTitle" : "Options"
+        "OptionsTitle" : "Options",
+        "IDTitle": "ID"
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "No. of compressions",
@@ -137,6 +138,10 @@
         "Manufacture" : "Manufacture",
         "Language" : "Language",
         "LanguageValue" : "English",
+        "VideoMode" : "Video Mode",
+        "Streaming" : "Streaming",
+        "Downloading" : "Downloading",
+        "Infinite" : "infinite",
         "AppVersion" : "Application Version",
         "ApplyButton" : "Apply new menu",
         "SwitchButton" : "Switch client",

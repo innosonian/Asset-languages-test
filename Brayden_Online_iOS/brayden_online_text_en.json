@@ -6,114 +6,8 @@
         "ContinueButton" : "Continue"
     },
     "StartPage": {
-        "BoxTitleFree": "Free User",
-        "BoxTitleSubscription": "Subscription",
-        "SelfRegister": "Self Registered User",
-        "Organization": "Organization",
-        "QuickStart": "Real-Time Only",
-        "CreateNew": "Create New Account",
-        "Note": "Expired items below",
-        "Guest": "Real-time only",
         "Start": "TEST Start",
         "PlanMemberLogin": "If you are a Plan member, please click here."
-    },
-    "LoginRegisteredFree": {
-        "Guideline": "Guideline",
-        "Email": "E-mail",
-        "Password": "Code",
-        "SignIn": "Sign In",
-        "CreateNew": "Create New Account",
-        "ForgotCode": "I forgot my Code"
-    },
-    "CreateRegisteredFree": {
-        "chkBoxAcceptTerms": "I accept the terms and conditions",
-         "chkBoxPrivacyPolicy": "I accept the privacy policy",
-        "Continue": "Continue",
-        "urlDisclaimer": "https://web.braydenlab.com/",
-        "SubTitle": "Create Account",
-        "Guideline": "Guideline*",
-        "ChooseGuidelineDropdown": "Choose a guideline",
-        "Name": "Name",
-        "Surname": "Surname",
-        "Email": "Email*",
-        "ConfirmEmail": "Confirm Email*",
-        "Mandatory": "Mandatory Fields",
-        "SignUp": "Sign up",
-        "Cancel": "Cancel"
-    },
-    "CreateRegisteredFreePopUp": {
-        "EmailPromptFailureTitle": "Email is already registered\nwith the following setting.",
-        "RegisteredGuideline": "Guideline",
-        "UseDifferentEmail": "Use a different email",
-        "ForgotCode": "I forgot my Code",
-        "EmailPromptSuccessTitle": "Successful Registration",
-        "CheckEmailPasscode": "Check your mailbox to complete\nthe creation of your new account.",
-        "Close": "Close"
-    },
-    "RegisteredFreeSettingPage": {
-        "Title": "Setting",
-        "SubTitle": "Manage Account",
-        "Guideline": "Guideline",
-        "NameSurname": "Name",
-        "EditName": "Edit",
-        "Email": "Email",
-        "ChangePasscode": "Change Code",
-        "Confirm": "Confirm",
-        "EditProfile": "Edit Profile",
-        "Cancel": "Cancel",
-        "DeleteAccount": "Delete Account",
-        "Manufacture" : "Manufacture",
-        "ApplyButton" : "Apply new menu",
-        "HowToSeeRecords" : "How to see records",
-        "AllLocalRecords" : "All local records",
-        "Deactivated" : "Deactivated",
-        "UserConnectSwitchButton" : "Users can connect or disconnect manikins",
-        "UpdatePopUp": "업데이트 알림을 받습니다."
-    },
-    "RegisteredFreeManagePagePopUp": {
-        "SubTitle": "Manage Account",
-        "Guideline": "Guideline",
-        "Name": "Name",
-        "Surname": "Surname",
-        "EditName": "Edit",
-        "Email": "Email",
-        "ChangePasscode": "Change Code",
-        "Confirm": "Confirm",
-        "Cancel": "Cancel",
-        "DeleteAccount": "Delete Account"
-    },
-    "ChangeCodeRegisteredFreePopUp": {
-        "CurrentPasscode": "Enter old code",
-        "OldCode": "Old Code",
-        "NewCodeTitle": "Enter new code",
-        "NewCode": "New code",
-        "ConfirmNewCode": "Confirm new code",
-        "ConfirmCode": "Confirm code",
-        "Confirm": "Confirm",
-        "Cancel": "Cancel"
-    },
-    "NewCodeRegisteredFree": {
-        "PromptSuccess": "The code has been changed successfully",
-        "Close": "Close"
-    },
-    "ForgotCodeRegisteredFree": {
-        "ForgotCodePromptTitle": "Please enter your email address\nto recover your code",
-        "Guideline": "Guideline",
-        "ChooseGuidelineDropdown": "Choose a guideline",
-        "Email": "Email",
-        "RenewCode": "Renew the code"
-    },
-    "ForgotCodeRegisteredFreePopUp": {
-        "RenewCodePromptTitle": "We sent you a new code",
-        "CheckEmailNewCode": "PLease check your mailbox to complete the process",
-        "Close": "Close"
-    },
-    "DeleteRegisteredFree": {
-        "DeleteNotice": "Deletion of the account will\nalso delete all the record\nand user profile information\nfrom our system.",
-        "DeleteWarning": "Your account can not be recovered after deletion",
-        "CurrentPasscode": "Code",
-        "Confirm": "Confirm",
-        "Cancel": "Cancel"
     },
     "AdminLoginPage": {
         "ClientID": "Client ID",
@@ -124,9 +18,7 @@
         "Email": "E-Mail",
         "Password": "Password",
         "SignIn": "Sign In",
-        "TrialSignIn" : "Use trial without log-in",
-        "Guideline" : "Guideline",
-        "SelectGuideline" : "Select guideline"
+        "TrialSignIn" : "Use trial without log-in"
     },
     "DownloadContent": {
         "Downloading": "Download video files\nIt takes a few minutes"
@@ -136,8 +28,7 @@
         "Subtitle" : "Compression, ventilation, or full CPR training options with real-time feedback\n\nBegin the CPR assessment when you are ready",
         "BodyMessage" : "Touch adult, child or baby icon to connect manikin",
         "ExitButton" : "Exit",
-        "LogOut" : "Are you sure\nyou want to log out?",
-        "DisconnectManikin": "Are you sure\nyou want to disconnect all manikins?" 
+        "LogOut" : "Are you sure\nyou want to log out?"
     },
     "MenuManikinConnectionsPopUp": {
         "Title": "Manikin Connections"
@@ -157,7 +48,7 @@
         "OptionsTitle" : "Options",
         "IDTitle"  : "ID"
     },
-    "RealTimeTrainingPage" :{
+    "RealTimeTrainingPage": {
         "NoOfCompressions" : "No. of compressions",
         "Cycle" : "Cycle",
         "CPREventPeriod" : "CPR Event Period",
@@ -222,8 +113,6 @@
         "FingerPosition" : "6\nFinger position",
         "HandPosition" : "6\nHand position",
         "ScoreOfCCF" : "4\nScore of\nCCF",
-        
-        "NoOfVentilation" : "No. of Ventilations",
         "CompressionRate" : "3\nCompression\nrate",
         "CompressionRelease" : "2\nCompression\nrelease",
         "CompressionDepth" : "1\nCompression\ndepth",
@@ -243,36 +132,6 @@
         "TooMuch" : "Too Much",
         "Incorrect" : "Incorrect",
         "IncompleteRelease" : "Incomplete\nrelease"
-    },
-    "SelfRegiserMessages": {
-        "SelectGuidLineMessage": "Please Select Guideline",
-        "EmailEmptyMessage": "E-mail OR Confirm E-mail should not be empity",
-        "EmailAndConfirmEmailMessage": "E-mail And Confirm E-mail should be same",
-        "EmailVaideMessage": "Please enter a valide E-mail",
-        "AllFieldMessage": "Please fill all the filds",
-        "PasswordMessage": "New password and confirm password must be same",
-        "EnterCodeMessage": "Please enter your code for the deletion of your account",
-        "SuccessfulRegistration": "Successful Registration",
-        "SuccessfulRegistrationMessage":"Check your mailbox to complete the creation your new account.",
-        "CodeSent":"We sent you a new code.",
-        "CodeSentMessage":"Please check your mailbox to complete the process.",
-        "CodeChanged":"The Code has been changed sucessfully",
-        "AccountUpdated":"The Profile has been updated sucessfully",
-        "AccountDeleted":"The Account has been deleted sucessfully"
-    },
-    "MultipleManikins": {
-        "ManikinsSelection": "Please select an option",
-        "SingleManikin": "Single Manikin",
-        "MultipleManikins": "Multiple Manikins",
-        "ConnectManikins": "Connect Manikins",
-        "WriteName":"Write Name (Optional)",
-        "Connect":"Connect",
-        "ONLINE":"ONLINE",
-        "Disconnect":"Disconnect",
-        "MainMenu":"Main Menu",
-        "Back":"Back",
-        "Next":"Next",
-        "MultipleCPRTraining":"Multiple CPR Training"
     },
     "SettingPage" : {
         "Title" : "Setting",

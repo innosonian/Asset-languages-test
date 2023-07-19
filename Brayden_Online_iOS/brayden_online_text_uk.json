@@ -38,7 +38,7 @@
         "NoteEndTop": "Оновлення завершено.",
         "NoteEndBottom":"Перезапустить Манекен"
     },
-    "TrainningHistoryPage" : {
+    "TrainningHistoryPage": {
         "Title" : "Історія навчання",
         "SyncButton"  : "Синхронізація",
         "Target": "манекен",
