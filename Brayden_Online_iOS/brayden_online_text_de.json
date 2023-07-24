@@ -153,9 +153,9 @@
     },
     "VideoPage" : {
         "SkipButton" : "Überspringen",
-        "LoadingTitle1": "###",
-        "LoadingTitle2": "#####",
-        "LoadingTitle3": "#######",
+        "LoadingTitle1": "Video wird geladen",
+        "LoadingTitle2": "Vorbereiten zum Abspielen",
+        "LoadingTitle3": "Bitte warten Sie einen Moment",
         "FailedToLoadTitle": "Laden fehlgeschlagen",
         "Skip": "Überspringen",
         "Retry": "Versuche es noch einmal"

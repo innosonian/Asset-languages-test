@@ -153,9 +153,9 @@
     },
     "VideoPage" : {
         "SkipButton" : "Omitir",
-        "LoadingTitle1": "###",
-        "LoadingTitle2": "#####",
-        "LoadingTitle3": "#######",
+        "LoadingTitle1": "Cargando video",
+        "LoadingTitle2": "Preparando para reproducir",
+        "LoadingTitle3": "Por favor, espere un momento",
         "FailedToLoadTitle": "Falha ao carregar",
         "Skip": "Omitir",
         "Retry": "Retry"

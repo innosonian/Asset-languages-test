@@ -153,9 +153,9 @@
     },
     "VideoPage" : {
         "SkipButton" : "Overslaan",
-        "LoadingTitle1": "###",
-        "LoadingTitle2": "#####",
-        "LoadingTitle3": "#######",
+        "LoadingTitle1": "Video laden",
+        "LoadingTitle2": "Voorbereiden om af te spelen",
+        "LoadingTitle3": "Een moment geduld a.u.b.",
         "FailedToLoadTitle": "Laden mislukt",
         "Skip": "Overslaan",
         "Retry": "Opnieuw proberen"

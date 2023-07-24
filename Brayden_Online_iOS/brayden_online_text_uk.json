@@ -153,9 +153,9 @@
     },
     "VideoPage" : {
         "SkipButton" : "Пропустити",
-        "LoadingTitle1": "#",
-        "LoadingTitle2": "#####",
-        "LoadingTitle3": "#######",
+        "LoadingTitle1": "Завантаження відео",
+        "LoadingTitle2": "Підготовка до відтворення",
+        "LoadingTitle3": "Будь ласка, зачекайте хвилинку",
         "FailedToLoadTitle": "Ошибка загрузки",
         "Skip": "Пропустити",
         "Retry": "Повторить попытку"
