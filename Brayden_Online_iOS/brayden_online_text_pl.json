@@ -198,7 +198,7 @@
         "NetErrUploadFailTitle": "Błąd przesyłania danych",
         "NetErrUploadFailContent": "Bląd ładowania zawartości. Proszę sprawdzić połączenie sieciowe.",
         "NetErrCommonTitle": "Błąd",
-        "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe",
+        "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe"
     },
     "Report": {
         "OverallResult": ""
