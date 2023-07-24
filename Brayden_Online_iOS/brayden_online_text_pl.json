@@ -25,9 +25,9 @@
     },
     "MenuHome": {
         "Title": "Strona główna",
-        "Subtitle": "##########",
+        "Subtitle": "Opcje uczenia się uciskania klatki piersiowej, wentylacji lub pełnego szkolenia CPR z informacjami w czasie rzeczywistym\n\nRozpocznij ocenę CPR, gdy będziesz gotowy/a",
         "BodyMessage": "Dotknij ikony osoby dorosłej, dziecka lub niemowlęcia, aby podłączyć manekina",
-        "ExitButton": "##########",
+        "ExitButton": "Wyjście",
         "LogOut ": "Czy na pewno\nchcesz się wylogować?"
     },
     "MenuManikinConnectionsPopUp": {
@@ -65,7 +65,7 @@
         "Slow": "Wolniej",
         "Deep": "Głębokie",
         "Fast": "Szybciej",
-        "Shallow": "Lżej",
+        "Shallow": "Lżej"
     },
     "OverallResultPage": {
         "Title": "Ogólnie\nWydajność",
@@ -79,12 +79,12 @@
         "NoOfCompressions": "Brak\nucisków",
         "VentilationVolume": "Objętość\nwentylacji",
         "VentilationFrequency": "Częstotliwość\nwentylacji",
-        "AvgDepth": "##########",
-        "AvgVolume": "##########",
+        "AvgDepth" : "Średnia głębokość",
+        "AvgVolume" : "Średni wolumen",
         "RescueNo": "Liczba oddechów ratowniczych",
         "RescueVolume": "Objętość oddechów ratowniczych",
-        "Pass": "##########",
-        "Fail": "##########"
+        "Pass": "Zaliczone",
+        "Fail": "Spróbuj ponownie"
     },
     "DetailedResultPage": {
         "Title": "Szczegółowe wyniki",
@@ -147,21 +147,21 @@
         "SwitchButton": "Przełącz użytkownika",
         "HowToSeeRecords": "Automatyczne wylogowanie",
         "AllLocalRecords": "Wszystkie lokalne rekordy",
-        "Deactivated": "##########",
+        "Deactivated": "Dezaktywowany/a",
         "UserConnectSwitchButton": "Użytkownicy mogą łączyć lub rozłączać manekiny",
         "UpdatePopUp": "Pokaż powiadomienie o aktualizacji"
     },
     "VideoPage": {
         "SkipButton" : "Pominąć",
-        "LoadingTitle1": "###",
-        "LoadingTitle2": "#####",
-        "LoadingTitle3": "#######",
+        "LoadingTitle1": "Wczytywanie filmu",
+        "LoadingTitle2": "Przygotowanie do odtwarzania",
+        "LoadingTitle3": "Proszę chwilę poczekać",
         "FailedToLoadTitle": "Nie udało się załadować",
         "Skip": "Pominąć",
         "Retry": "Spróbuj ponownie"
     },
     "InformationPage": {
-        "Title": "##########"
+        "Title": "Informacja"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "Jesteś w trybie offline. Sprawdź swoje połączenie internetowe.",
@@ -187,7 +187,7 @@
         "BLEConnRequiredInfantContent": "Proszę podłączyć manekina niemowlęcia do kontroli wybranych umiejętności.",
         "ConnectatbleManikinList": "Możliwość podłączenia manekina",
         "AppUpdateNeededTitle": "Wymagana aktualizacja aplikacji",
-        "AppUpdateNeededContent": "##########",
+        "AppUpdateNeededContent": "Zaktualizuj 'Resuscitation Skills', aby uzyskać najdokładniejsze wyniki.",
         "BLEDisconnectedTitle": "Manekin rozłączony",
         "BLEDisconnectedContent": "Sprawdź baterie oraz połączenie bluetooth i spróbuj ponownie.",
         "EndSkillsCheckBProTitle": "Brayden Pro",
@@ -201,31 +201,31 @@
         "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe",
     },
     "Report": {
-        "OverallResult": "##########"
+        "OverallResult": ""
     },
     "ExceptionCompletionAPI": {
-        "AuthenticationFailed": "##########",
-        "IncorrectCompletionDetails": "##########",
-        "GivenOrganizationIdWasIncorrect.": "##########",
-        "hStreamIdWasNotFoundIncorrect": "##########",
-        "hStreamIdIsNotMappedWithAnyUser.": "##########"
-    },
+        "AuthenticationFailed": "Uwierzytelnienie nie powiodło się.",
+        "IncorrectCompletionDetails": "Nieprawidłowe szczegóły ukończenia.",
+        "GivenOrganizationIdWasIncorrect.": "Podany identyfikator organizacji był nieprawidłowy.",
+        "hStreamIdWasNotFoundIncorrect": "Identyfikator hStream nie został znaleziony/nie był prawidłowy.",
+        "hStreamIdIsNotMappedWithAnyUser.": "Identyfikator hStream nie jest powiązany z żadnym użytkownikiem."
+        },
     "ExceptionOpenSkillsAPI": {
-        "AuthenticationFailed": "##########",
-        "TheEPortfolioAccountNotFoundIncorrect": "##########",
-        "TheManikinDeviceIdNotFoundIncorrect": "##########",
-        "NoUserDetailsFoundInUserProfile.": "##########",
-        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "##########"
+        "AuthenticationFailed": "Uwierzytelnienie nie powiodło się.",
+        "TheEPortfolioAccountNotFoundIncorrect": "Konto ePortfolio nie zostało znalezione/nie było prawidłowe.",
+        "TheManikinDeviceIdNotFoundIncorrect": "Identyfikator urządzenia manekina nie został znaleziony/nie był prawidłowy.",
+        "NoUserDetailsFoundInUserProfile.": "Nie znaleziono szczegółów użytkownika w profilu użytkownika.",
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "Brak dostępnych otwartych umiejętności dla konta ePortfolio."
     },
     "ExceptionFileDocumentAPI": {
-        "AuthenticationFailed.": "##########",
-        "GivenFilestoreIdIsIncorrect": "##########",
-        "GivenInstitutionIdIsIncorrect": "##########",
-        "GivenOrganizationIdIsIncorrect": "##########",
-        "NoDocumentDetailsFoundForTheGivenFilestoreID": "##########",
-        "TheEPortfolioAccountNotFoundIncorrect": "##########",
-        "UnableToGetTheFileStoreDetails": "##########",
-        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "##########"
+        "AuthenticationFailed.": "Uwierzytelnienie nie powiodło się.",
+        "GivenFilestoreIdIsIncorrect": "Podany identyfikator magazynu plików jest nieprawidłowy.",
+        "GivenInstitutionIdIsIncorrect": "Podany identyfikator instytucji jest nieprawidłowy.",
+        "GivenOrganizationIdIsIncorrect": "Podany identyfikator organizacji jest nieprawidłowy.",
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "Nie znaleziono szczegółów dokumentu dla podanego identyfikatora magazynu plików.",
+        "TheEPortfolioAccountNotFoundIncorrect": "Konto ePortfolio nie zostało znalezione/nie było prawidłowe.",
+        "UnableToGetTheFileStoreDetails": "Nie można uzyskać szczegółów magazynu plików.",
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "Bieżący węzeł organizacji nie ma skonfigurowanego wirtualnego katalogu."
     },
     "UpdatePopup": {
         "Title": "Jest nowa wersja %@ do pobrania. Zaktualizuj do wersji %@.",
