@@ -46,7 +46,10 @@
         "OperationTitle" : "Operation",
         "ScoreTitle" : "Punktzahl",
         "OptionsTitle" : "Optionen",
-        "IDTitle"  : "Identifizierung"
+        "IDTitle"  : "Identifizierung",
+        "SyncLoadingTitle": "동기화 진행 중",
+        "SyncLoadingSubTitle": "계산에 실패했던 데이터들을 포함하여 서버와 동기화를 진행합니다. 이 작업은 데이터 수에 따라 많은 시간이 소요될 수 있습니다.  동기화는 나중에 계속 진행할 수 있습니다.",
+        "OkButtonTitle": "그만하기"
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions" : "Anzahl der Kompressionen",
@@ -65,7 +68,15 @@
         "Slow" : "Langsam",
         "Deep" : "Tief",
         "Fast" : "Schnell",
-        "Shallow" : "zu flach"
+        "Shallow" : "zu flach",
+        
+        "FailedPopUp": {
+            "Title": "Title",
+            "SubTitle": "SubTitle",
+            "AddtionalSubTitle": "AddtionalSubTitle",
+            "GoToHome": "GoToHome",
+            "Retry": "Retry"
+        }
     },
     "OverallResultPage" : {
         "Title" : "Gesamt\nertung",
