@@ -73,10 +73,10 @@
         "Shallow": "Superficiale",
         
         "FailedPopUp": {
-            "Title": "Calculation failed",
-            "NetworkSubTitle": "The calculation has failed. Please check the device's network environment and try again.",
-            "UnknownSubTitle": "Unfortunately, we are unable to perform the calculation for unknown reasons at the moment.",
-            "AddtionalSubTitle": "You can retry the computation for this training(evaluation) on the training log screen.",
+            "Title": "Summary Failure",
+            "SubTitle": "There was an issue with the process of summarizing the results."
+            "CanRetry": "You can try again from the training records screen."
+            "ErrorByNetwork": "Please check your network status and try again.",
             "GoToHome": "Return to the start",
             "Retry": "Retry"
         }
