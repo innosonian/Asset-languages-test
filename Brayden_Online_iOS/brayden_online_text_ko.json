@@ -74,8 +74,8 @@
         
         "FailedPopUp": {
             "Title": "Summary Failure",
-            "SubTitle": "There was an issue with the process of summarizing the results."
-            "CanRetry": "You can try again from the training records screen."
+            "SubTitle": "There was an issue with the process of summarizing the results.",
+            "CanRetry": "You can try again from the training records screen.",
             "ErrorByNetwork": "Please check your network status and try again.",
             "GoToHome": "Return to the start",
             "Retry": "Retry"
