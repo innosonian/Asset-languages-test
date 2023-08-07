@@ -212,7 +212,11 @@
         "NetErrUploadFailTitle": "Błąd przesyłania danych",
         "NetErrUploadFailContent": "Bląd ładowania zawartości. Proszę sprawdzić połączenie sieciowe.",
         "NetErrCommonTitle": "Błąd",
-        "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe"
+        "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": ""

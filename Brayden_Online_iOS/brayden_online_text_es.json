@@ -212,7 +212,11 @@
         "NetErrUploadFailTitle": "Error al cargar",
         "NetErrUploadFailContent": "Error al cargar los datos de entrenamiento. Compruebe la conexión",
         "NetErrCommonTitle": "Error",
-        "NetErrCommonContent": "Imposible obtener los resultados. Compruebe la conexión"
+        "NetErrCommonContent": "Imposible obtener los resultados. Compruebe la conexión",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": "Resultados generales"

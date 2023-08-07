@@ -213,7 +213,11 @@
         "NetErrUploadFailTitle": "Upload Erreur",
         "NetErrUploadFailContent": "Upload train content failure. Verifiez connection internet",
         "NetErrCommonTitle": "Erreur",
-        "NetErrCommonContent": "Echec d'obtention des resultats. Verifiez la connection internet"
+        "NetErrCommonContent": "Echec d'obtention des resultats. Verifiez la connection internet",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": ""

@@ -212,7 +212,11 @@
         "NetErrUploadFailTitle": "Ошибка загрузки",
         "NetErrUploadFailContent": "Ошибка загрузки содержимого. Пожалуйста, проверьте сетевое соединение",
         "NetErrCommonTitle": "Ошибка",
-        "NetErrCommonContent": "Не удалось получить результат. Пожалуйста, проверьте сетевое соединение"
+        "NetErrCommonContent": "Не удалось получить результат. Пожалуйста, проверьте сетевое соединение",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": ""

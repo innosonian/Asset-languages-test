@@ -212,7 +212,11 @@
         "NetErrUploadFailTitle": "Upload fout",
         "NetErrUploadFailContent": "Storing in de inhoud van de trein uploaden. Controleer de netwerkverbinding",
         "NetErrCommonTitle": "Error",
-        "NetErrCommonContent": "Geen resultaat geboekt. Controleer de netwerkverbinding"
+        "NetErrCommonContent": "Geen resultaat geboekt. Controleer de netwerkverbinding",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": "Algeheel resultaat"

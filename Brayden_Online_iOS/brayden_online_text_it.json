@@ -213,7 +213,11 @@
         "NetErrUploadFailTitle": "Errore di caricamento",
         "NetErrUploadFailContent": "Caricamento del contenuto del treno non riuscito. Controlla la connessione di rete",
         "NetErrCommonTitle": "Errore",
-        "NetErrCommonContent": "Impossibile ottenere il risultato. Verificare la connessione di rete"
+        "NetErrCommonContent": "Impossibile ottenere il risultato. Verificare la connessione di rete",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": ""

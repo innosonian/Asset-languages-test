@@ -212,7 +212,11 @@
         "NetErrUploadFailTitle": "Upload Fehler",
         "NetErrUploadFailContent": "Fehler beim Upload des Inhalts. Bitte überprüfen Sie Ihre Netzwerkverbindung",
         "NetErrCommonTitle": "Fehler",
-        "NetErrCommonContent": "Ergebnis konnte nicht erhalten werden. Bitte überprüfen Sie die Netzwerkverbindung"
+        "NetErrCommonContent": "Ergebnis konnte nicht erhalten werden. Bitte überprüfen Sie die Netzwerkverbindung",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": "Gesamtergebnis"
