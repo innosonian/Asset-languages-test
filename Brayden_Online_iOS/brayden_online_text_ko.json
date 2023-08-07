@@ -48,8 +48,8 @@
         "OptionsTitle": "동기화/삭제",
         "IDTitle": "아이디",
         "SyncPopUp": {
-            "Title": "Sync in progress",
-            "SubTitle": "Currently syncing. Press the button below to view a list of data synchronized up to this point.",
+            "Title": "Retrying result sync… ",
+            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
             "Stop": "Stop"
         }
     },
@@ -73,9 +73,9 @@
         "Shallow": "얕음",
         
         "FailedPopUp": {
-            "Title": "Summary Failure",
-            "SubTitle": "There was an issue with the process of summarizing the results.",
-            "CanRetry": "You can try again from the training records screen.",
+            "Title": "Result Summary Retrieval Failure",
+            "SubTitle": "There was an issue with current result summary process.",
+            "CanRetry": "You can try again sync from training record list screen.",
             "ErrorByNetwork": "Please check your network status and try again.",
             "GoToHome": "Return to the start",
             "Retry": "Retry"
