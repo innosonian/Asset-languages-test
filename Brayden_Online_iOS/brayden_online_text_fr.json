@@ -48,9 +48,9 @@
         "OptionsTitle": "Options",
         "IDTitle": "ID",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
-            "Stop": "Stop"
+            "Title": "Nouvelle tentative de synchronisation des résultats...",
+            "SubTitle": "Synchronisation en cours. Touchez ci-dessous pour afficher la liste des enregistrements synchronisés avec succès jusqu'à présent.",
+            "Stop": "Arrêter"
         }
     },
     "RealTimeTrainingPage": {
@@ -74,12 +74,12 @@
         "failedTitle": "",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
+            "Title": "Échec de la récupération du résumé des résultats",
+            "SubTitle": "Il y a eu un problème avec le processus actuel de résumé des résultats.",
+            "CanRetry": "Vous pouvez réessayer la synchronisation à partir de l'écran de liste d'enregistrements d'entraînement.",
+            "ErrorByNetwork": "Veuillez vérifier votre état de réseau et réessayer.",
+            "GoToHome": "Retour au début",
+            "Retry": "Réessayer"
         }
     },
     "OverallResultPage": {
@@ -215,8 +215,8 @@
         "NetErrCommonTitle": "Erreur",
         "NetErrCommonContent": "Echec d'obtention des resultats. Verifiez la connection internet",
         "NetworkError": {
-            "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+            "Title": "Erreur réseau",
+            "SubTitle": "Votre appareil n'est pas connecté à internet. Veuillez vérifier l'état du réseau."
         }
     },
     "Report": {

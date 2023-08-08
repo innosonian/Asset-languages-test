@@ -48,8 +48,8 @@
         "OptionsTitle": "Opcje",
         "IDTitle": "Identyfikator",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
+            "Title": "Ponowna próba synchronizacji wyników… ",
+            "SubTitle": "Trwa synchronizacja. Dotknij poniżej, aby wyświetlić listę pomyślnie zsynchronizowanych rekordów.",
             "Stop": "Stop"
         }
     },
@@ -73,13 +73,13 @@
         "Shallow": "Lżej",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
-        }
+            "Title": "Niepowodzenie pobierania podsumowania wyników",
+            "SubTitle": "Wystąpił problem z bieżącym procesem podsumowania wyników.",
+            "CanRetry": "Możesz spróbować ponownie zsynchronizować z listy rekordów szkoleniowych na ekranie.",
+            "ErrorByNetwork": "Sprawdź swój status sieci i spróbuj ponownie.",
+            "GoToHome": "Powrót do początku",
+            "Retry": "Ponów próbę"
+            }
     },
     "OverallResultPage": {
         "Title": "Ogólnie\nWydajność",
@@ -214,9 +214,9 @@
         "NetErrCommonTitle": "Błąd",
         "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe",
         "NetworkError": {
-            "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
-        }
+            "Title": "Błąd sieci",
+            "SubTitle": "Twoje urządzenie nie jest połączone z Internetem. Sprawdź stan sieci."
+            }
     },
     "Report": {
         "OverallResult": ""

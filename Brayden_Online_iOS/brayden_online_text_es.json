@@ -48,9 +48,9 @@
         "OptionsTitle" : "Opciones",
         "IDTitle"  : "Usuario",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
-            "Stop": "Stop"
+            "Title": "Reintentando sincronización de resultados...",
+            "SubTitle": "Actualmente se está sincronizando. Toque abajo para ver la lista de registros sincronizados con éxito hasta este punto.",
+            "Stop": "Detener"
         }
     },
     "RealTimeTrainingPage" :{
@@ -73,12 +73,12 @@
         "Shallow" : "Poco profundo",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
+            "Title": "Fallo en la recuperación del resumen de resultados",
+            "SubTitle": "Hubo un problema con el proceso actual de resumen de resultados.",
+            "CanRetry": "Puede intentar sincronizar de nuevo desde la pantalla de lista de registros de entrenamiento.",
+            "ErrorByNetwork": "Por favor, compruebe su estado de red e inténtelo de nuevo.",
+            "GoToHome": "Volver al inicio",
+            "Retry": "Reintentar"
         }
     },
     "OverallResultPage" : {
@@ -215,7 +215,7 @@
         "NetErrCommonContent": "Imposible obtener los resultados. Compruebe la conexión",
         "NetworkError": {
             "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+            "SubTitle": "Su dispositivo no está conectado a internet. Por favor, compruebe el estado de la red."
         }
     },
     "Report": {

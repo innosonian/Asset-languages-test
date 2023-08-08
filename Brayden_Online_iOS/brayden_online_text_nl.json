@@ -48,9 +48,9 @@
         "OptionsTitle" : "Opties",
         "IDTitle"  : "ID",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
-            "Stop": "Stop"
+            "Title": "Resultaatsynchronisatie opnieuw proberen...",
+            "SubTitle": "Momenteel bezig met synchroniseren. Tik hieronder om een lijst van tot nu toe succesvol gesynchroniseerde records te bekijken.",
+            "Stop": "Stoppen"
         }
     },
     "RealTimeTrainingPage" :{
@@ -73,12 +73,12 @@
         "Shallow" : "Ondiep",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
+            "Title": "Fout bij het ophalen van resultaatsamenvatting",
+            "SubTitle": "Er was een probleem met het huidige proces voor het samenvatten van resultaten.",
+            "CanRetry": "U kunt opnieuw proberen te synchroniseren vanaf het scherm met de lijst van trainingsrecords.",
+            "ErrorByNetwork": "Controleer uw netwerkstatus en probeer het opnieuw.",
+            "GoToHome": "Terug naar het begin",
+            "Retry": "Opnieuw"
         }
     },
     "OverallResultPage": {
@@ -214,8 +214,8 @@
         "NetErrCommonTitle": "Error",
         "NetErrCommonContent": "Geen resultaat geboekt. Controleer de netwerkverbinding",
         "NetworkError": {
-            "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+            "Title": "Netwerkfout",
+            "SubTitle": "Uw apparaat is niet verbonden met internet. Controleer de netwerkstatus."
         }
     },
     "Report": {

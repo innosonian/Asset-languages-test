@@ -48,9 +48,9 @@
         "OptionsTitle": "Опции",
         "IDTitle": "Идентификация",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
-            "Stop": "Stop"
+            "Title": "Повторная синхронизация результатов...",
+            "SubTitle": "В настоящее время происходит синхронизация. Нажмите ниже, чтобы просмотреть список успешно синхронизированных записей до этого момента.",
+            "Stop": "Остановить"
         }
     },
     "RealTimeTrainingPage": {
@@ -73,12 +73,12 @@
         "Shallow": "Поверхностно",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
+            "Title": "Сбой при получении сводки результатов",
+            "SubTitle": "В процессе сводки результатов возникла проблема.",
+            "CanRetry": "Вы можете повторить попытку синхронизации со списком записей обучения.",
+            "ErrorByNetwork": "Проверьте свой статус сети и повторите попытку.",
+            "GoToHome": "Вернуться на главную страницу",
+            "Retry": "Повторить"
         }
     },
     "OverallResultPage": {
@@ -214,8 +214,8 @@
         "NetErrCommonTitle": "Ошибка",
         "NetErrCommonContent": "Не удалось получить результат. Пожалуйста, проверьте сетевое соединение",
         "NetworkError": {
-            "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+            "Title": "Ошибка сети",
+            "SubTitle": "Ваше устройство не подключено к Интернету. Проверьте состояние сети."
         }
     },
     "Report": {

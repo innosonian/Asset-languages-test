@@ -48,8 +48,8 @@
         "OptionsTitle": "Opzioni",
         "IDTitle": "ID",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
+            "Title": "Ritentando la sincronizzazione dei risultati...",
+            "SubTitle": "Attualmente in sincronizzazione. Tocca sotto per visualizzare l'elenco dei record sincronizzati con successo fino a questo punto.",
             "Stop": "Stop"
         }
     },
@@ -73,12 +73,12 @@
         "Shallow": "Superficiale",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
+            "Title": "Fallimento del recupero del riassunto dei risultati",
+            "SubTitle": "C'è stato un problema con il processo attuale di riassunto dei risultati.",
+            "CanRetry": "Puoi riprovare la sincronizzazione dalla schermata dell'elenco dei record di allenamento.",
+            "ErrorByNetwork": "Controlla lo stato della tua rete e riprova.",
+            "GoToHome": "Torna all'inizio",
+            "Retry": "Riprova"
         }
     },
     "OverallResultPage": {
@@ -215,8 +215,8 @@
         "NetErrCommonTitle": "Errore",
         "NetErrCommonContent": "Impossibile ottenere il risultato. Verificare la connessione di rete",
         "NetworkError": {
-            "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+            "Title": "Errore di rete",
+            "SubTitle": "Il tuo dispositivo non è connesso a internet. Controlla lo stato della rete."
         }
     },
     "Report": {

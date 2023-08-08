@@ -48,9 +48,9 @@
         "OptionsTitle": "동기화/삭제",
         "IDTitle": "아이디",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
-            "Stop": "Stop"
+            "Title": "결과 동기화 재시도 중... ",
+            "SubTitle": "현재 동기화 중입니다. 아래를 눌러 지금까지 성공적으로 동기화된 기록 목록을 볼 수 있습니다.",
+            "Stop": "중지"
         }
     },
     "RealTimeTrainingPage": {
@@ -73,12 +73,12 @@
         "Shallow": "얕음",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
+            "Title": "결과 요약 실패",
+            "SubTitle": "현재 결과 요약 처리에 문제가 있습니다.",
+            "CanRetry": "훈련 기록 목록 화면에서 다시 시도할 수 있습니다.",
+            "ErrorByNetwork": "네트워크 상태를 확인하고 다시 시도해주세요.",
+            "GoToHome": "처음으로 돌아가기",
+            "Retry": "재시도"
         }
     },
     "OverallResultPage": {
@@ -214,8 +214,8 @@
         "NetErrCommonTitle": "Error",
         "NetErrCommonContent": "Failed to get result. Please check the network connection",
         "NetworkError": {
-            "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+            "Title": "네트워크 에러",
+            "SubTitle": "현재 인터넷이 연결되어 있지 않습니다. 기기의 네트워크 연결 상태를 확인해주세요."
         }
     },
     "Report": {

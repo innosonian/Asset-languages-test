@@ -48,9 +48,9 @@
         "OptionsTitle" : "Optionen",
         "IDTitle"  : "Identifizierung",
         "SyncPopUp": {
-            "Title": "Retrying result sync… ",
-            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
-            "Stop": "Stop"
+            "Title": "Retrying result sync... ",
+            "SubTitle": "Wird gerade synchronisiert. Tippen Sie unten, um eine Liste der bis zu diesem Zeitpunkt erfolgreich synchronisierten Datensätze anzuzeigen.",
+            "Stop": "Halt"
         }
     },
     "RealTimeTrainingPage": {
@@ -73,12 +73,12 @@
         "Shallow" : "zu flach",
         
         "FailedPopUp": {
-            "Title": "Result Summary Retrieval Failure",
-            "SubTitle": "There was an issue with current result summary process.",
-            "CanRetry": "You can try again sync from training record list screen.",
-            "ErrorByNetwork": "Please check your network status and try again.",
-            "GoToHome": "Return to the start",
-            "Retry": "Retry"
+            "Title": "Ergebniszusammenfassung Fehlschlag",
+            "SubTitle": "Es gab ein Problem mit dem aktuellen Ergebniszusammenfassungsprozess.",
+            "CanRetry": "Sie können die Synchronisierung über den Bildschirm mit der Liste der Trainingsverlauf erneut versuchen.",
+            "ErrorByNetwork": "Bitte überprüfen Sie Ihren Netzwerkstatus und versuchen Sie es erneut.",
+            "GoToHome": "Kehren Sie zum Start zurück",
+            "Retry": "Wiederholen"
         }
     },
     "OverallResultPage" : {
@@ -214,8 +214,8 @@
         "NetErrCommonTitle": "Fehler",
         "NetErrCommonContent": "Ergebnis konnte nicht erhalten werden. Bitte überprüfen Sie die Netzwerkverbindung",
         "NetworkError": {
-            "Title": "Network Error",
-            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+            "Title": "Netzwerkfehler",
+            "SubTitle": "Ihr Gerät ist nicht mit dem Internet verbunden. Bitte überprüfen Sie den Netzwerkstatus."
         }
     },
     "Report": {
