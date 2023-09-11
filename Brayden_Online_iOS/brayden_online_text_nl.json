@@ -247,7 +247,7 @@
     },
     "UpdatePopup": {
         "Title": "Er is een nieuwe versie van %@ beschikbaar. Je kunt nu updaten naar versie %@.",
-        "SubTitle": "Update beschikbaar",
+        "SubTitle": "Deze melding kan op elk moment worden uitgeschakeld in de instellingen.",
         "NextTime": "Volgende keer",
          "Update" : "Updaten"
     }

@@ -246,7 +246,7 @@
     },
     "UpdatePopup": {
         "Title": "A new version of %@ is available. Please update to version %@ now.",
-        "SubTitle": "Update Available",
+        "SubTitle": "この通知はいつでも設定画面で無効にできます。",
         "NextTime": "Next time",
         "Update" : "Update"
     }

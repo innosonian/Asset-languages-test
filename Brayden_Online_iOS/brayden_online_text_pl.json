@@ -247,7 +247,7 @@
     },
     "UpdatePopup": {
         "Title": "Jest nowa wersja %@ do pobrania. Zaktualizuj do wersji %@.",
-        "SubTitle": "Aktualizacja dostępna",
+        "SubTitle": "To powiadomienie można wyłączyć w dowolnym momencie w ustawieniach.",
         "NextTime": "Następnym razem",
          "Update" : "Zaktualizuj"
     }

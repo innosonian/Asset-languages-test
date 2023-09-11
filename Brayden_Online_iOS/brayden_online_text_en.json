@@ -247,7 +247,7 @@
     },
     "UpdatePopup": {
         "Title": "A new version of %@ is available. Please update to version %@ now.",
-        "SubTitle": "Update Available",
+        "SubTitle": "This notification can be turned off at any time in the settings.",
         "NextTime": "Next time",
         "Update" : "Update"
     }
