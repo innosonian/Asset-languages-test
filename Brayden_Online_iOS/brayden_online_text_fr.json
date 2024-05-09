@@ -80,6 +80,11 @@
             "ErrorByNetwork": "Veuillez vérifier votre état de réseau et réessayer.",
             "GoToHome": "Retour au début",
             "Retry": "Réessayer"
+        },
+        "AssessmentLimitPopUp": {
+            "Title": "Progrès impossible",
+            "SubTitle": "Vous avez atteint le nombre maximum de tentatives. Veuillez contacter votre responsable de formation pour continuer.",
+            "ReturnButtonTitle": "Retour à l'écran précédent"
         }
     },
     "OverallResultPage": {

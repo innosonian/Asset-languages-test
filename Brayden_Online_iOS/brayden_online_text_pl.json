@@ -79,7 +79,12 @@
             "ErrorByNetwork": "Sprawdź swój status sieci i spróbuj ponownie.",
             "GoToHome": "Powrót do początku",
             "Retry": "Ponów próbę"
-            }
+            },
+        "AssessmentLimitPopUp": {
+            "Title": "Postęp niemożliwy",
+            "SubTitle": "Osiągnąłeś maksymalną liczbę prób. Proszę skontaktować się z menedżerem szkolenia, aby kontynuować.",
+            "ReturnButtonTitle": "Powrót do poprzedniego ekranu"
+        }
     },
     "OverallResultPage": {
         "Title": "Ogólnie\nWydajność",

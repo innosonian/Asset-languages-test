@@ -79,6 +79,11 @@
             "ErrorByNetwork": "Controlla lo stato della tua rete e riprova.",
             "GoToHome": "Torna all'inizio",
             "Retry": "Riprova"
+        },
+        "AssessmentLimitPopUp": {
+            "Title": "Progresso non possibile",
+            "SubTitle": "Hai raggiunto il numero massimo di tentativi. Si prega di contattare il tuo responsabile della formazione per procedere.",
+            "ReturnButtonTitle": "Torna alla schermata precedente"
         }
     },
     "OverallResultPage": {

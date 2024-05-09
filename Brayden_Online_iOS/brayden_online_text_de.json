@@ -79,6 +79,11 @@
             "ErrorByNetwork": "Bitte überprüfen Sie Ihren Netzwerkstatus und versuchen Sie es erneut.",
             "GoToHome": "Kehren Sie zum Start zurück",
             "Retry": "Wiederholen"
+        },
+        "AssessmentLimitPopUp": {
+            "Title": "Fortsetzung nicht möglich",
+            "SubTitle": "Sie haben die maximale Anzahl von Versuchen erreicht. Bitte kontaktieren Sie Ihren Schulungsleiter, um fortzufahren",
+            "ReturnButtonTitle": "Zurück zum vorherigen Bildschirm"
         }
     },
     "OverallResultPage" : {

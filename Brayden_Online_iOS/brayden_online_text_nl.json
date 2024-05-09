@@ -79,6 +79,11 @@
             "ErrorByNetwork": "Controleer uw netwerkstatus en probeer het opnieuw.",
             "GoToHome": "Terug naar het begin",
             "Retry": "Opnieuw"
+        },
+        "AssessmentLimitPopUp": {
+            "Title": "Voortgang niet mogelijk",
+            "SubTitle": "Je hebt het maximale aantal pogingen bereikt. Neem contact op met je trainingsmanager om verder te gaan.",
+            "ReturnButtonTitle": "Terug naar vorig scherm"
         }
     },
     "OverallResultPage": {

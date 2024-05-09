@@ -79,6 +79,11 @@
             "ErrorByNetwork": "네트워크 상태를 확인하고 다시 시도해주세요.",
             "GoToHome": "처음으로 돌아가기",
             "Retry": "재시도"
+        },
+        "AssessmentLimitPopUp": {
+            "Title": "진행불가",
+            "SubTitle": "최대 시도 횟수에 도달했습니다. 계속 진행하려면 교육 담당 매니저에게 연락해주세요.",
+            "ReturnButtonTitle": "이전 화면으로 돌아가기"
         }
     },
     "OverallResultPage": {

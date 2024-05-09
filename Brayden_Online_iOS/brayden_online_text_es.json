@@ -79,6 +79,11 @@
             "ErrorByNetwork": "Por favor, compruebe su estado de red e inténtelo de nuevo.",
             "GoToHome": "Volver al inicio",
             "Retry": "Reintentar"
+        },
+        "AssessmentLimitPopUp": {
+            "Title": "Progreso no posible",
+            "SubTitle": "Has alcanzado el número máximo de intentos. Por favor, contacta a tu gerente de capacitación para continuar.",
+            "ReturnButtonTitle": "Volver a la pantalla anterior"
         }
     },
     "OverallResultPage" : {
