@@ -82,7 +82,7 @@
             },
         "AssessmentLimitPopUp": {
             "Title": "Postęp niemożliwy",
-            "SubTitle": "Osiągnąłeś maksymalną liczbę prób. Proszę skontaktować się z menedżerem szkolenia, aby kontynuować.",
+            "SubTitle": "Niestety, nie osiągnąłeś wymaganego standardu, aby zdać ocenę przy tej okazji, nie martw się, zarezerwuj sesję podstawowego wsparcia życia twarzą w twarz przez ESR.",
             "ReturnButtonTitle": "Powrót do poprzedniego ekranu"
         }
     },

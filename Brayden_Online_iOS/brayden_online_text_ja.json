@@ -81,7 +81,7 @@
         },
         "AssessmentLimitPopUp": {
             "Title": "Progress Not Possible",
-            "SubTitle": "You've reached the maximum number of attempts. Please contact your training manager to proceed.",
+            "SubTitle": "残念ながらこのたびの評価で必要な基準に達することができませんでしたが、ご心配なく、ESRを通じて対面の基本的な生命支援セッションを予約してください。",
             "ReturnButtonTitle": "Return to Previous Screen"
         }
     },

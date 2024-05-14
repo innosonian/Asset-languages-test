@@ -82,7 +82,7 @@
         },
         "AssessmentLimitPopUp": {
             "Title": "Progreso no posible",
-            "SubTitle": "Has alcanzado el número máximo de intentos. Por favor, contacta a tu gerente de capacitación para continuar.",
+            "SubTitle": "Lamentablemente, no has alcanzado el estándar requerido para aprobar tu evaluación en esta ocasión, no te preocupes, reserva una sesión de soporte vital básico cara a cara a través de ESR.",
             "ReturnButtonTitle": "Volver a la pantalla anterior"
         }
     },

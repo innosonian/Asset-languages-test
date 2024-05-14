@@ -82,7 +82,7 @@
         },
         "AssessmentLimitPopUp": {
             "Title": "Progress Not Possible",
-            "SubTitle": "You've reached the maximum number of attempts. Please contact your training manager to proceed.",
+            "SubTitle": "Unfortunately you have not reached the required standard to pass your assessment on this occasion, don’t worry, book onto a face to face basic life support session via ESR.",
             "ReturnButtonTitle": "Return to Previous Screen"
         }
     },

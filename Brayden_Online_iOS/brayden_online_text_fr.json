@@ -83,7 +83,7 @@
         },
         "AssessmentLimitPopUp": {
             "Title": "Progrès impossible",
-            "SubTitle": "Vous avez atteint le nombre maximum de tentatives. Veuillez contacter votre responsable de formation pour continuer.",
+            "SubTitle": "Malheureusement, vous n'avez pas atteint le standard requis pour passer votre évaluation cette fois-ci, ne vous inquiétez pas, inscrivez-vous à une session de soutien de vie de base en face à face via ESR.",
             "ReturnButtonTitle": "Retour à l'écran précédent"
         }
     },
